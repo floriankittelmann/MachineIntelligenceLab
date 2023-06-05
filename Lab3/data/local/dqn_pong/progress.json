@@ -1,0 +1,4 @@
+{"Iteration": 0, "Steps": 1019999, "Epsilon": 0.050000000000000044, "Episodes": 9, "AverageReturn": -17.444444444444443, "AverageDiscountedReturn": -0.8734211130905198, "TDError^2": 0.008185092359781265}
+{"Iteration": 1, "Steps": 1029999, "Epsilon": 0.050000000000000044, "Episodes": 13, "AverageReturn": -17.4, "AverageDiscountedReturn": -0.7357431977056355, "TDError^2": 0.007018079049885273}
+{"Iteration": 2, "Steps": 1039999, "Epsilon": 0.050000000000000044, "Episodes": 16, "AverageReturn": -17.6, "AverageDiscountedReturn": -0.6065340678143982, "TDError^2": 0.0050771813839674}
+{"Iteration": 3, "Steps": 1049999, "Epsilon": 0.050000000000000044, "Episodes": 20, "AverageReturn": -16.1, "AverageDiscountedReturn": -0.46400063172239137, "TDError^2": 0.004305684473365545}

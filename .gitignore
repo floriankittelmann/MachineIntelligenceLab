@@ -1,0 +1,17 @@
+Lab1/FlorianKittelmann_Lab1.zip
+Lab1/__pycache__/crawler_env.cpython-35.pyc
+Lab1/__pycache__/discrete_env.cpython-35.pyc
+Lab1/__pycache__/misc.cpython-35.pyc
+Lab4/__pycache__/*
+Lab3/__pycache__/*
+Lab2/__pycache__/*
+.ipynb_checkpoints/*
+Lab4/.idea/*
+Lab3/.idea/*
+Lab2/.idea/*
+Lab1/.idea/*
+/.idea/
+Lab4/tests/__pycache__/*
+Lab4/simplepg/__pycache__/*
+Lab3/simpledqn/__pycache__/*
+/.ipynb_checkpoints/

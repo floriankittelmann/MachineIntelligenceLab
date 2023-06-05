@@ -1,0 +1,4596 @@
+[2021-12-20 18:13:00.442113 UTC] Starting env pool
+[2021-12-20 18:13:02.073870 UTC] Starting epoch 0
+-----------------------------------
+| Epoch                | 0        |
+| TotalNEpisodes       | 0        |
+| TotalNSamples        | 0        |
+| Entropy              | 1.2933   |
+| Perplexity           | 3.6447   |
+| AveragePolicyProb[0] | 0.10582  |
+| AveragePolicyProb[1] | 0.094078 |
+| AveragePolicyProb[2] | 0.1583   |
+| AveragePolicyProb[3] | 0.064549 |
+| AveragePolicyProb[4] | 0.26887  |
+| AveragePolicyProb[5] | 0.30838  |
+| |VfPred|             | 3.7014   |
+| |VfTarget|           | 3.4905   |
+| VfLoss               | 4.0004   |
+-----------------------------------
+[2021-12-20 18:13:28.103546 UTC] Saving snapshot
+[2021-12-20 18:13:28.241144 UTC] Starting epoch 1
+-----------------------------------
+| Epoch                | 1        |
+| AverageReturn        | -20.062  |
+| MinReturn            | -21      |
+| MaxReturn            | -19      |
+| StdReturn            | 0.8268   |
+| AverageEpisodeLength | 3667.6   |
+| MinEpisodeLength     | 3056     |
+| MaxEpisodeLength     | 4569     |
+| StdEpisodeLength     | 414.13   |
+| TotalNEpisodes       | 16       |
+| TotalNSamples        | 58681    |
+| Entropy              | 1.3329   |
+| Perplexity           | 3.7921   |
+| AveragePolicyProb[0] | 0.15307  |
+| AveragePolicyProb[1] | 0.066993 |
+| AveragePolicyProb[2] | 0.059789 |
+| AveragePolicyProb[3] | 0.05959  |
+| AveragePolicyProb[4] | 0.47209  |
+| AveragePolicyProb[5] | 0.18846  |
+| |VfPred|             | 2.2391   |
+| |VfTarget|           | 2.2353   |
+| VfLoss               | 0.22027  |
+-----------------------------------
+[2021-12-20 18:13:55.952778 UTC] Saving snapshot
+[2021-12-20 18:13:55.953812 UTC] Starting epoch 2
+-------------------------------------
+| Epoch                | 2          |
+| AverageReturn        | -20.345    |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.75548    |
+| AverageEpisodeLength | 3538.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4569       |
+| StdEpisodeLength     | 351.83     |
+| TotalNEpisodes       | 29         |
+| TotalNSamples        | 1.0261e+05 |
+| Entropy              | 1.5964     |
+| Perplexity           | 4.9353     |
+| AveragePolicyProb[0] | 0.21802    |
+| AveragePolicyProb[1] | 0.29638    |
+| AveragePolicyProb[2] | 0.066808   |
+| AveragePolicyProb[3] | 0.11253    |
+| AveragePolicyProb[4] | 0.14727    |
+| AveragePolicyProb[5] | 0.159      |
+| |VfPred|             | 1.9392     |
+| |VfTarget|           | 1.9388     |
+| VfLoss               | 0.2283     |
+-------------------------------------
+[2021-12-20 18:14:23.282014 UTC] Saving snapshot
+[2021-12-20 18:14:23.282882 UTC] Starting epoch 3
+------------------------------------
+| Epoch                | 3         |
+| AverageReturn        | -20.4     |
+| MinReturn            | -21       |
+| MaxReturn            | -19       |
+| StdReturn            | 0.72506   |
+| AverageEpisodeLength | 3522.8    |
+| MinEpisodeLength     | 3056      |
+| MaxEpisodeLength     | 4569      |
+| StdEpisodeLength     | 332.82    |
+| TotalNEpisodes       | 35        |
+| TotalNSamples        | 1.233e+05 |
+| Entropy              | 1.6104    |
+| Perplexity           | 5.0048    |
+| AveragePolicyProb[0] | 0.065994  |
+| AveragePolicyProb[1] | 0.17837   |
+| AveragePolicyProb[2] | 0.12762   |
+| AveragePolicyProb[3] | 0.25654   |
+| AveragePolicyProb[4] | 0.22045   |
+| AveragePolicyProb[5] | 0.15102   |
+| |VfPred|             | 2.0548    |
+| |VfTarget|           | 2.0515    |
+| VfLoss               | 0.16723   |
+------------------------------------
+[2021-12-20 18:14:50.227179 UTC] Saving snapshot
+[2021-12-20 18:14:50.228088 UTC] Starting epoch 4
+-------------------------------------
+| Epoch                | 4          |
+| AverageReturn        | -20.312    |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.7117     |
+| AverageEpisodeLength | 3626.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4569       |
+| StdEpisodeLength     | 352.92     |
+| TotalNEpisodes       | 48         |
+| TotalNSamples        | 1.7409e+05 |
+| Entropy              | 1.6215     |
+| Perplexity           | 5.0608     |
+| AveragePolicyProb[0] | 0.089334   |
+| AveragePolicyProb[1] | 0.18697    |
+| AveragePolicyProb[2] | 0.2995     |
+| AveragePolicyProb[3] | 0.1842     |
+| AveragePolicyProb[4] | 0.12564    |
+| AveragePolicyProb[5] | 0.11436    |
+| |VfPred|             | 1.9021     |
+| |VfTarget|           | 1.9313     |
+| VfLoss               | 0.1796     |
+-------------------------------------
+[2021-12-20 18:15:17.833503 UTC] Saving snapshot
+[2021-12-20 18:15:17.834130 UTC] Starting epoch 5
+-------------------------------------
+| Epoch                | 5          |
+| AverageReturn        | -20.435    |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.70986    |
+| AverageEpisodeLength | 3550.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4569       |
+| StdEpisodeLength     | 361.4      |
+| TotalNEpisodes       | 62         |
+| TotalNSamples        | 2.2011e+05 |
+| Entropy              | 1.7122     |
+| Perplexity           | 5.5414     |
+| AveragePolicyProb[0] | 0.14331    |
+| AveragePolicyProb[1] | 0.15747    |
+| AveragePolicyProb[2] | 0.20977    |
+| AveragePolicyProb[3] | 0.21381    |
+| AveragePolicyProb[4] | 0.15041    |
+| AveragePolicyProb[5] | 0.12523    |
+| |VfPred|             | 1.9281     |
+| |VfTarget|           | 1.931      |
+| VfLoss               | 0.17206    |
+-------------------------------------
+[2021-12-20 18:15:46.159530 UTC] Saving snapshot
+[2021-12-20 18:15:46.160077 UTC] Starting epoch 6
+-------------------------------------
+| Epoch                | 6          |
+| AverageReturn        | -20.485    |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.69648    |
+| AverageEpisodeLength | 3551.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4569       |
+| StdEpisodeLength     | 356.05     |
+| TotalNEpisodes       | 68         |
+| TotalNSamples        | 2.4149e+05 |
+| Entropy              | 1.7267     |
+| Perplexity           | 5.6222     |
+| AveragePolicyProb[0] | 0.13019    |
+| AveragePolicyProb[1] | 0.088029   |
+| AveragePolicyProb[2] | 0.16102    |
+| AveragePolicyProb[3] | 0.20637    |
+| AveragePolicyProb[4] | 0.20219    |
+| AveragePolicyProb[5] | 0.2122     |
+| |VfPred|             | 1.8763     |
+| |VfTarget|           | 1.8943     |
+| VfLoss               | 0.16666    |
+-------------------------------------
+[2021-12-20 18:16:14.870902 UTC] Saving snapshot
+[2021-12-20 18:16:14.885210 UTC] Starting epoch 7
+-------------------------------------
+| Epoch                | 7          |
+| AverageReturn        | -20.363    |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.7623     |
+| AverageEpisodeLength | 3596.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4569       |
+| StdEpisodeLength     | 367.04     |
+| TotalNEpisodes       | 80         |
+| TotalNSamples        | 2.8773e+05 |
+| Entropy              | 1.6677     |
+| Perplexity           | 5.2998     |
+| AveragePolicyProb[0] | 0.093682   |
+| AveragePolicyProb[1] | 0.098855   |
+| AveragePolicyProb[2] | 0.14068    |
+| AveragePolicyProb[3] | 0.20509    |
+| AveragePolicyProb[4] | 0.12518    |
+| AveragePolicyProb[5] | 0.33651    |
+| |VfPred|             | 1.8505     |
+| |VfTarget|           | 1.8617     |
+| VfLoss               | 0.16423    |
+-------------------------------------
+[2021-12-20 18:16:43.670296 UTC] Saving snapshot
+[2021-12-20 18:16:43.670826 UTC] Starting epoch 8
+-------------------------------------
+| Epoch                | 8          |
+| AverageReturn        | -20.365    |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.72341    |
+| AverageEpisodeLength | 3584.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4569       |
+| StdEpisodeLength     | 367.68     |
+| TotalNEpisodes       | 96         |
+| TotalNSamples        | 3.4415e+05 |
+| Entropy              | 1.6817     |
+| Perplexity           | 5.3746     |
+| AveragePolicyProb[0] | 0.087362   |
+| AveragePolicyProb[1] | 0.10022    |
+| AveragePolicyProb[2] | 0.12063    |
+| AveragePolicyProb[3] | 0.25968    |
+| AveragePolicyProb[4] | 0.17628    |
+| AveragePolicyProb[5] | 0.25583    |
+| |VfPred|             | 2.0034     |
+| |VfTarget|           | 2.0034     |
+| VfLoss               | 0.17732    |
+-------------------------------------
+[2021-12-20 18:17:14.393783 UTC] Saving snapshot
+[2021-12-20 18:17:14.397226 UTC] Starting epoch 9
+-------------------------------------
+| Epoch                | 9          |
+| AverageReturn        | -20.34     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.72415    |
+| AverageEpisodeLength | 3603.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4571       |
+| StdEpisodeLength     | 375.03     |
+| TotalNEpisodes       | 105        |
+| TotalNSamples        | 3.7645e+05 |
+| Entropy              | 1.7122     |
+| Perplexity           | 5.5413     |
+| AveragePolicyProb[0] | 0.23204    |
+| AveragePolicyProb[1] | 0.084895   |
+| AveragePolicyProb[2] | 0.12698    |
+| AveragePolicyProb[3] | 0.1916     |
+| AveragePolicyProb[4] | 0.15517    |
+| AveragePolicyProb[5] | 0.20931    |
+| |VfPred|             | 2.1496     |
+| |VfTarget|           | 2.1509     |
+| VfLoss               | 0.17569    |
+-------------------------------------
+[2021-12-20 18:17:43.266913 UTC] Saving snapshot
+[2021-12-20 18:17:43.267997 UTC] Starting epoch 10
+-------------------------------------
+| Epoch                | 10         |
+| AverageReturn        | -20.38     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.71805    |
+| AverageEpisodeLength | 3597.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4571       |
+| StdEpisodeLength     | 378.26     |
+| TotalNEpisodes       | 115        |
+| TotalNSamples        | 4.1386e+05 |
+| Entropy              | 1.7152     |
+| Perplexity           | 5.5578     |
+| AveragePolicyProb[0] | 0.11904    |
+| AveragePolicyProb[1] | 0.13994    |
+| AveragePolicyProb[2] | 0.14908    |
+| AveragePolicyProb[3] | 0.26131    |
+| AveragePolicyProb[4] | 0.12489    |
+| AveragePolicyProb[5] | 0.20574    |
+| |VfPred|             | 2.0994     |
+| |VfTarget|           | 2.0916     |
+| VfLoss               | 0.16534    |
+-------------------------------------
+[2021-12-20 18:18:12.590153 UTC] Saving snapshot
+[2021-12-20 18:18:12.613430 UTC] Starting epoch 11
+-------------------------------------
+| Epoch                | 11         |
+| AverageReturn        | -20.38     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.71805    |
+| AverageEpisodeLength | 3591       |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4571       |
+| StdEpisodeLength     | 368.27     |
+| TotalNEpisodes       | 125        |
+| TotalNSamples        | 4.4828e+05 |
+| Entropy              | 1.6709     |
+| Perplexity           | 5.317      |
+| AveragePolicyProb[0] | 0.10961    |
+| AveragePolicyProb[1] | 0.34849    |
+| AveragePolicyProb[2] | 0.14262    |
+| AveragePolicyProb[3] | 0.13518    |
+| AveragePolicyProb[4] | 0.1089     |
+| AveragePolicyProb[5] | 0.15521    |
+| |VfPred|             | 2.1082     |
+| |VfTarget|           | 2.0994     |
+| VfLoss               | 0.18747    |
+-------------------------------------
+[2021-12-20 18:18:41.369251 UTC] Saving snapshot
+[2021-12-20 18:18:41.372494 UTC] Starting epoch 12
+-------------------------------------
+| Epoch                | 12         |
+| AverageReturn        | -20.31     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.75756    |
+| AverageEpisodeLength | 3630.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4665       |
+| StdEpisodeLength     | 385.24     |
+| TotalNEpisodes       | 137        |
+| TotalNSamples        | 4.9366e+05 |
+| Entropy              | 1.7176     |
+| Perplexity           | 5.5712     |
+| AveragePolicyProb[0] | 0.14212    |
+| AveragePolicyProb[1] | 0.27889    |
+| AveragePolicyProb[2] | 0.1907     |
+| AveragePolicyProb[3] | 0.13785    |
+| AveragePolicyProb[4] | 0.095644   |
+| AveragePolicyProb[5] | 0.1548     |
+| |VfPred|             | 2.0622     |
+| |VfTarget|           | 2.0597     |
+| VfLoss               | 0.18138    |
+-------------------------------------
+[2021-12-20 18:19:11.365531 UTC] Saving snapshot
+[2021-12-20 18:19:11.366390 UTC] Starting epoch 13
+-------------------------------------
+| Epoch                | 13         |
+| AverageReturn        | -20.33     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.7881     |
+| AverageEpisodeLength | 3593.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4665       |
+| StdEpisodeLength     | 378.61     |
+| TotalNEpisodes       | 149        |
+| TotalNSamples        | 5.3672e+05 |
+| Entropy              | 1.7011     |
+| Perplexity           | 5.48       |
+| AveragePolicyProb[0] | 0.094284   |
+| AveragePolicyProb[1] | 0.20404    |
+| AveragePolicyProb[2] | 0.21891    |
+| AveragePolicyProb[3] | 0.16053    |
+| AveragePolicyProb[4] | 0.082311   |
+| AveragePolicyProb[5] | 0.23993    |
+| |VfPred|             | 2.0342     |
+| |VfTarget|           | 2.0376     |
+| VfLoss               | 0.16938    |
+-------------------------------------
+[2021-12-20 18:19:41.000114 UTC] Saving snapshot
+[2021-12-20 18:19:41.001518 UTC] Starting epoch 14
+-------------------------------------
+| Epoch                | 14         |
+| AverageReturn        | -20.32     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.77305    |
+| AverageEpisodeLength | 3631.1     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 4665       |
+| StdEpisodeLength     | 359.7      |
+| TotalNEpisodes       | 161        |
+| TotalNSamples        | 5.7981e+05 |
+| Entropy              | 1.5371     |
+| Perplexity           | 4.6509     |
+| AveragePolicyProb[0] | 0.056618   |
+| AveragePolicyProb[1] | 0.1815     |
+| AveragePolicyProb[2] | 0.33123    |
+| AveragePolicyProb[3] | 0.11112    |
+| AveragePolicyProb[4] | 0.073487   |
+| AveragePolicyProb[5] | 0.24604    |
+| |VfPred|             | 2.2233     |
+| |VfTarget|           | 2.2337     |
+| VfLoss               | 0.17779    |
+-------------------------------------
+[2021-12-20 18:20:10.391553 UTC] Saving snapshot
+[2021-12-20 18:20:10.394608 UTC] Starting epoch 15
+-------------------------------------
+| Epoch                | 15         |
+| AverageReturn        | -20.33     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.77531    |
+| AverageEpisodeLength | 3608.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4665       |
+| StdEpisodeLength     | 362.47     |
+| TotalNEpisodes       | 170        |
+| TotalNSamples        | 6.1009e+05 |
+| Entropy              | 1.5976     |
+| Perplexity           | 4.9413     |
+| AveragePolicyProb[0] | 0.042545   |
+| AveragePolicyProb[1] | 0.11483    |
+| AveragePolicyProb[2] | 0.2653     |
+| AveragePolicyProb[3] | 0.13856    |
+| AveragePolicyProb[4] | 0.14502    |
+| AveragePolicyProb[5] | 0.29374    |
+| |VfPred|             | 2.0776     |
+| |VfTarget|           | 2.0764     |
+| VfLoss               | 0.16506    |
+-------------------------------------
+[2021-12-20 18:20:39.223513 UTC] Saving snapshot
+[2021-12-20 18:20:39.223923 UTC] Starting epoch 16
+-------------------------------------
+| Epoch                | 16         |
+| AverageReturn        | -20.4      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.70711    |
+| AverageEpisodeLength | 3579.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4665       |
+| StdEpisodeLength     | 338.09     |
+| TotalNEpisodes       | 183        |
+| TotalNSamples        | 6.5721e+05 |
+| Entropy              | 1.7122     |
+| Perplexity           | 5.541      |
+| AveragePolicyProb[0] | 0.053742   |
+| AveragePolicyProb[1] | 0.18027    |
+| AveragePolicyProb[2] | 0.17334    |
+| AveragePolicyProb[3] | 0.2117     |
+| AveragePolicyProb[4] | 0.15033    |
+| AveragePolicyProb[5] | 0.23061    |
+| |VfPred|             | 1.8784     |
+| |VfTarget|           | 1.8829     |
+| VfLoss               | 0.16952    |
+-------------------------------------
+[2021-12-20 18:21:09.159502 UTC] Saving snapshot
+[2021-12-20 18:21:09.169855 UTC] Starting epoch 17
+-------------------------------------
+| Epoch                | 17         |
+| AverageReturn        | -20.37     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.73014    |
+| AverageEpisodeLength | 3602.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4665       |
+| StdEpisodeLength     | 336.07     |
+| TotalNEpisodes       | 195        |
+| TotalNSamples        | 6.9992e+05 |
+| Entropy              | 1.6737     |
+| Perplexity           | 5.3319     |
+| AveragePolicyProb[0] | 0.041998   |
+| AveragePolicyProb[1] | 0.14744    |
+| AveragePolicyProb[2] | 0.23098    |
+| AveragePolicyProb[3] | 0.24507    |
+| AveragePolicyProb[4] | 0.11647    |
+| AveragePolicyProb[5] | 0.21803    |
+| |VfPred|             | 2.1468     |
+| |VfTarget|           | 2.1361     |
+| VfLoss               | 0.17687    |
+-------------------------------------
+[2021-12-20 18:21:38.477342 UTC] Saving snapshot
+[2021-12-20 18:21:38.478767 UTC] Starting epoch 18
+-------------------------------------
+| Epoch                | 18         |
+| AverageReturn        | -20.34     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.73783    |
+| AverageEpisodeLength | 3613.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4665       |
+| StdEpisodeLength     | 330.68     |
+| TotalNEpisodes       | 203        |
+| TotalNSamples        | 7.2904e+05 |
+| Entropy              | 1.6858     |
+| Perplexity           | 5.397      |
+| AveragePolicyProb[0] | 0.039278   |
+| AveragePolicyProb[1] | 0.14356    |
+| AveragePolicyProb[2] | 0.22787    |
+| AveragePolicyProb[3] | 0.1847     |
+| AveragePolicyProb[4] | 0.18588    |
+| AveragePolicyProb[5] | 0.21872    |
+| |VfPred|             | 2.0491     |
+| |VfTarget|           | 2.0544     |
+| VfLoss               | 0.17379    |
+-------------------------------------
+[2021-12-20 18:22:06.868889 UTC] Saving snapshot
+[2021-12-20 18:22:06.870144 UTC] Starting epoch 19
+-------------------------------------
+| Epoch                | 19         |
+| AverageReturn        | -20.38     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.73185    |
+| AverageEpisodeLength | 3592       |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4665       |
+| StdEpisodeLength     | 321.41     |
+| TotalNEpisodes       | 215        |
+| TotalNSamples        | 7.7305e+05 |
+| Entropy              | 1.7063     |
+| Perplexity           | 5.5086     |
+| AveragePolicyProb[0] | 0.049934   |
+| AveragePolicyProb[1] | 0.14898    |
+| AveragePolicyProb[2] | 0.16508    |
+| AveragePolicyProb[3] | 0.21301    |
+| AveragePolicyProb[4] | 0.18523    |
+| AveragePolicyProb[5] | 0.23776    |
+| |VfPred|             | 1.9172     |
+| |VfTarget|           | 1.9176     |
+| VfLoss               | 0.16336    |
+-------------------------------------
+[2021-12-20 18:22:35.881948 UTC] Saving snapshot
+[2021-12-20 18:22:35.883829 UTC] Starting epoch 20
+-------------------------------------
+| Epoch                | 20         |
+| AverageReturn        | -20.34     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.75127    |
+| AverageEpisodeLength | 3615.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4665       |
+| StdEpisodeLength     | 339.5      |
+| TotalNEpisodes       | 229        |
+| TotalNSamples        | 8.2435e+05 |
+| Entropy              | 1.7115     |
+| Perplexity           | 5.5374     |
+| AveragePolicyProb[0] | 0.060006   |
+| AveragePolicyProb[1] | 0.1924     |
+| AveragePolicyProb[2] | 0.15343    |
+| AveragePolicyProb[3] | 0.18549    |
+| AveragePolicyProb[4] | 0.16004    |
+| AveragePolicyProb[5] | 0.24864    |
+| |VfPred|             | 1.8835     |
+| |VfTarget|           | 1.8967     |
+| VfLoss               | 0.16887    |
+-------------------------------------
+[2021-12-20 18:23:06.026194 UTC] Saving snapshot
+[2021-12-20 18:23:06.061557 UTC] Starting epoch 21
+-------------------------------------
+| Epoch                | 21         |
+| AverageReturn        | -20.38     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.73185    |
+| AverageEpisodeLength | 3591.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4561       |
+| StdEpisodeLength     | 340.6      |
+| TotalNEpisodes       | 236        |
+| TotalNSamples        | 8.4889e+05 |
+| Entropy              | 1.7121     |
+| Perplexity           | 5.5406     |
+| AveragePolicyProb[0] | 0.07537    |
+| AveragePolicyProb[1] | 0.14135    |
+| AveragePolicyProb[2] | 0.14516    |
+| AveragePolicyProb[3] | 0.19615    |
+| AveragePolicyProb[4] | 0.15707    |
+| AveragePolicyProb[5] | 0.2849     |
+| |VfPred|             | 1.9249     |
+| |VfTarget|           | 1.9485     |
+| VfLoss               | 0.16533    |
+-------------------------------------
+[2021-12-20 18:23:35.828698 UTC] Saving snapshot
+[2021-12-20 18:23:35.834111 UTC] Starting epoch 22
+-------------------------------------
+| Epoch                | 22         |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.69821    |
+| AverageEpisodeLength | 3607.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4561       |
+| StdEpisodeLength     | 337.39     |
+| TotalNEpisodes       | 250        |
+| TotalNSamples        | 9.0122e+05 |
+| Entropy              | 1.6906     |
+| Perplexity           | 5.4228     |
+| AveragePolicyProb[0] | 0.075386   |
+| AveragePolicyProb[1] | 0.15121    |
+| AveragePolicyProb[2] | 0.23759    |
+| AveragePolicyProb[3] | 0.088753   |
+| AveragePolicyProb[4] | 0.2237     |
+| AveragePolicyProb[5] | 0.22336    |
+| |VfPred|             | 2.1797     |
+| |VfTarget|           | 2.183      |
+| VfLoss               | 0.18622    |
+-------------------------------------
+[2021-12-20 18:24:05.076210 UTC] Saving snapshot
+[2021-12-20 18:24:05.076765 UTC] Starting epoch 23
+-------------------------------------
+| Epoch                | 23         |
+| AverageReturn        | -20.38     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.70399    |
+| AverageEpisodeLength | 3550.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4561       |
+| StdEpisodeLength     | 367.2      |
+| TotalNEpisodes       | 262        |
+| TotalNSamples        | 9.3848e+05 |
+| Entropy              | 1.65       |
+| Perplexity           | 5.2067     |
+| AveragePolicyProb[0] | 0.071252   |
+| AveragePolicyProb[1] | 0.1625     |
+| AveragePolicyProb[2] | 0.17207    |
+| AveragePolicyProb[3] | 0.074628   |
+| AveragePolicyProb[4] | 0.32013    |
+| AveragePolicyProb[5] | 0.19942    |
+| |VfPred|             | 2.3969     |
+| |VfTarget|           | 2.4062     |
+| VfLoss               | 0.19023    |
+-------------------------------------
+[2021-12-20 18:24:34.790502 UTC] Saving snapshot
+[2021-12-20 18:24:34.792870 UTC] Starting epoch 24
+-------------------------------------
+| Epoch                | 24         |
+| AverageReturn        | -20.43     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.7107     |
+| AverageEpisodeLength | 3501.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4561       |
+| StdEpisodeLength     | 390.75     |
+| TotalNEpisodes       | 277        |
+| TotalNSamples        | 9.8528e+05 |
+| Entropy              | 1.6484     |
+| Perplexity           | 5.1985     |
+| AveragePolicyProb[0] | 0.074251   |
+| AveragePolicyProb[1] | 0.15155    |
+| AveragePolicyProb[2] | 0.14377    |
+| AveragePolicyProb[3] | 0.0798     |
+| AveragePolicyProb[4] | 0.31827    |
+| AveragePolicyProb[5] | 0.23236    |
+| |VfPred|             | 2.2734     |
+| |VfTarget|           | 2.2779     |
+| VfLoss               | 0.18937    |
+-------------------------------------
+[2021-12-20 18:25:04.829293 UTC] Saving snapshot
+[2021-12-20 18:25:04.829772 UTC] Starting epoch 25
+-------------------------------------
+| Epoch                | 25         |
+| AverageReturn        | -20.51     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.69993    |
+| AverageEpisodeLength | 3438.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4561       |
+| StdEpisodeLength     | 396.01     |
+| TotalNEpisodes       | 290        |
+| TotalNSamples        | 1.0262e+06 |
+| Entropy              | 1.6368     |
+| Perplexity           | 5.1388     |
+| AveragePolicyProb[0] | 0.13901    |
+| AveragePolicyProb[1] | 0.32843    |
+| AveragePolicyProb[2] | 0.099885   |
+| AveragePolicyProb[3] | 0.062677   |
+| AveragePolicyProb[4] | 0.23135    |
+| AveragePolicyProb[5] | 0.13864    |
+| |VfPred|             | 2.5132     |
+| |VfTarget|           | 2.5084     |
+| VfLoss               | 0.19318    |
+-------------------------------------
+[2021-12-20 18:25:35.548683 UTC] Saving snapshot
+[2021-12-20 18:25:35.566767 UTC] Starting epoch 26
+-------------------------------------
+| Epoch                | 26         |
+| AverageReturn        | -20.59     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.67963    |
+| AverageEpisodeLength | 3383.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4561       |
+| StdEpisodeLength     | 394.27     |
+| TotalNEpisodes       | 301        |
+| TotalNSamples        | 1.0599e+06 |
+| Entropy              | 1.5958     |
+| Perplexity           | 4.9322     |
+| AveragePolicyProb[0] | 0.25643    |
+| AveragePolicyProb[1] | 0.28273    |
+| AveragePolicyProb[2] | 0.121      |
+| AveragePolicyProb[3] | 0.039607   |
+| AveragePolicyProb[4] | 0.22153    |
+| AveragePolicyProb[5] | 0.078696   |
+| |VfPred|             | 2.4037     |
+| |VfTarget|           | 2.4202     |
+| VfLoss               | 0.17763    |
+-------------------------------------
+[2021-12-20 18:26:11.492918 UTC] Saving snapshot
+[2021-12-20 18:26:11.493238 UTC] Starting epoch 27
+-------------------------------------
+| Epoch                | 27         |
+| AverageReturn        | -20.7      |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.57446    |
+| AverageEpisodeLength | 3298.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4561       |
+| StdEpisodeLength     | 361.15     |
+| TotalNEpisodes       | 314        |
+| TotalNSamples        | 1.0996e+06 |
+| Entropy              | 1.5949     |
+| Perplexity           | 4.928      |
+| AveragePolicyProb[0] | 0.30887    |
+| AveragePolicyProb[1] | 0.28291    |
+| AveragePolicyProb[2] | 0.14615    |
+| AveragePolicyProb[3] | 0.039734   |
+| AveragePolicyProb[4] | 0.1371     |
+| AveragePolicyProb[5] | 0.085237   |
+| |VfPred|             | 2.5712     |
+| |VfTarget|           | 2.5679     |
+| VfLoss               | 0.19616    |
+-------------------------------------
+[2021-12-20 18:26:43.989280 UTC] Saving snapshot
+[2021-12-20 18:26:44.002514 UTC] Starting epoch 28
+-------------------------------------
+| Epoch                | 28         |
+| AverageReturn        | -20.8      |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.4899     |
+| AverageEpisodeLength | 3214.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4561       |
+| StdEpisodeLength     | 298.62     |
+| TotalNEpisodes       | 329        |
+| TotalNSamples        | 1.1458e+06 |
+| Entropy              | 1.6144     |
+| Perplexity           | 5.0251     |
+| AveragePolicyProb[0] | 0.25218    |
+| AveragePolicyProb[1] | 0.32006    |
+| AveragePolicyProb[2] | 0.16905    |
+| AveragePolicyProb[3] | 0.042504   |
+| AveragePolicyProb[4] | 0.11531    |
+| AveragePolicyProb[5] | 0.10089    |
+| |VfPred|             | 2.4149     |
+| |VfTarget|           | 2.4153     |
+| VfLoss               | 0.19908    |
+-------------------------------------
+[2021-12-20 18:27:14.713038 UTC] Saving snapshot
+[2021-12-20 18:27:14.713548 UTC] Starting epoch 29
+-------------------------------------
+| Epoch                | 29         |
+| AverageReturn        | -20.86     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.42474    |
+| AverageEpisodeLength | 3156.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4398       |
+| StdEpisodeLength     | 236.47     |
+| TotalNEpisodes       | 341        |
+| TotalNSamples        | 1.1825e+06 |
+| Entropy              | 1.5707     |
+| Perplexity           | 4.8099     |
+| AveragePolicyProb[0] | 0.38389    |
+| AveragePolicyProb[1] | 0.18646    |
+| AveragePolicyProb[2] | 0.14661    |
+| AveragePolicyProb[3] | 0.032277   |
+| AveragePolicyProb[4] | 0.15446    |
+| AveragePolicyProb[5] | 0.096301   |
+| |VfPred|             | 2.3616     |
+| |VfTarget|           | 2.3695     |
+| VfLoss               | 0.18159    |
+-------------------------------------
+[2021-12-20 18:27:44.316931 UTC] Saving snapshot
+[2021-12-20 18:27:44.317538 UTC] Starting epoch 30
+-------------------------------------
+| Epoch                | 30         |
+| AverageReturn        | -20.98     |
+| MinReturn            | -21        |
+| MaxReturn            | -20        |
+| StdReturn            | 0.14       |
+| AverageEpisodeLength | 3081.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 3479       |
+| StdEpisodeLength     | 78.412     |
+| TotalNEpisodes       | 356        |
+| TotalNSamples        | 1.2283e+06 |
+| Entropy              | 1.5181     |
+| Perplexity           | 4.5637     |
+| AveragePolicyProb[0] | 0.43256    |
+| AveragePolicyProb[1] | 0.16775    |
+| AveragePolicyProb[2] | 0.16752    |
+| AveragePolicyProb[3] | 0.028435   |
+| AveragePolicyProb[4] | 0.10889    |
+| AveragePolicyProb[5] | 0.094833   |
+| |VfPred|             | 2.1551     |
+| |VfTarget|           | 2.17       |
+| VfLoss               | 0.18046    |
+-------------------------------------
+[2021-12-20 18:28:13.122792 UTC] Saving snapshot
+[2021-12-20 18:28:13.162199 UTC] Starting epoch 31
+-------------------------------------
+| Epoch                | 31         |
+| AverageReturn        | -20.97     |
+| MinReturn            | -21        |
+| MaxReturn            | -20        |
+| StdReturn            | 0.17059    |
+| AverageEpisodeLength | 3082.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 3479       |
+| StdEpisodeLength     | 85.893     |
+| TotalNEpisodes       | 368        |
+| TotalNSamples        | 1.2654e+06 |
+| Entropy              | 1.5422     |
+| Perplexity           | 4.6748     |
+| AveragePolicyProb[0] | 0.30988    |
+| AveragePolicyProb[1] | 0.28966    |
+| AveragePolicyProb[2] | 0.21175    |
+| AveragePolicyProb[3] | 0.028349   |
+| AveragePolicyProb[4] | 0.061731   |
+| AveragePolicyProb[5] | 0.098639   |
+| |VfPred|             | 2.4104     |
+| |VfTarget|           | 2.4123     |
+| VfLoss               | 0.1854     |
+-------------------------------------
+[2021-12-20 18:28:42.276995 UTC] Saving snapshot
+[2021-12-20 18:28:42.296904 UTC] Starting epoch 32
+-------------------------------------
+| Epoch                | 32         |
+| AverageReturn        | -20.97     |
+| MinReturn            | -21        |
+| MaxReturn            | -20        |
+| StdReturn            | 0.17059    |
+| AverageEpisodeLength | 3076.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 3479       |
+| StdEpisodeLength     | 76.639     |
+| TotalNEpisodes       | 380        |
+| TotalNSamples        | 1.3022e+06 |
+| Entropy              | 1.6036     |
+| Perplexity           | 4.971      |
+| AveragePolicyProb[0] | 0.26492    |
+| AveragePolicyProb[1] | 0.32327    |
+| AveragePolicyProb[2] | 0.18098    |
+| AveragePolicyProb[3] | 0.082091   |
+| AveragePolicyProb[4] | 0.055363   |
+| AveragePolicyProb[5] | 0.09337    |
+| |VfPred|             | 2.3293     |
+| |VfTarget|           | 2.3292     |
+| VfLoss               | 0.18377    |
+-------------------------------------
+[2021-12-20 18:29:11.797390 UTC] Saving snapshot
+[2021-12-20 18:29:11.805645 UTC] Starting epoch 33
+-------------------------------------
+| Epoch                | 33         |
+| AverageReturn        | -20.97     |
+| MinReturn            | -21        |
+| MaxReturn            | -20        |
+| StdReturn            | 0.17059    |
+| AverageEpisodeLength | 3098.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4265       |
+| StdEpisodeLength     | 158.73     |
+| TotalNEpisodes       | 392        |
+| TotalNSamples        | 1.3422e+06 |
+| Entropy              | 1.6806     |
+| Perplexity           | 5.3689     |
+| AveragePolicyProb[0] | 0.24464    |
+| AveragePolicyProb[1] | 0.28129    |
+| AveragePolicyProb[2] | 0.14369    |
+| AveragePolicyProb[3] | 0.16883    |
+| AveragePolicyProb[4] | 0.072557   |
+| AveragePolicyProb[5] | 0.088987   |
+| |VfPred|             | 2.0496     |
+| |VfTarget|           | 2.0573     |
+| VfLoss               | 0.17058    |
+-------------------------------------
+[2021-12-20 18:29:40.783670 UTC] Saving snapshot
+[2021-12-20 18:29:40.792053 UTC] Starting epoch 34
+-------------------------------------
+| Epoch                | 34         |
+| AverageReturn        | -20.92     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.30594    |
+| AverageEpisodeLength | 3158.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4265       |
+| StdEpisodeLength     | 228.65     |
+| TotalNEpisodes       | 404        |
+| TotalNSamples        | 1.3849e+06 |
+| Entropy              | 1.7408     |
+| Perplexity           | 5.7021     |
+| AveragePolicyProb[0] | 0.17357    |
+| AveragePolicyProb[1] | 0.21506    |
+| AveragePolicyProb[2] | 0.19664    |
+| AveragePolicyProb[3] | 0.1637     |
+| AveragePolicyProb[4] | 0.14798    |
+| AveragePolicyProb[5] | 0.10304    |
+| |VfPred|             | 2.2729     |
+| |VfTarget|           | 2.2706     |
+| VfLoss               | 0.181      |
+-------------------------------------
+[2021-12-20 18:30:10.589604 UTC] Saving snapshot
+[2021-12-20 18:30:10.589925 UTC] Starting epoch 35
+-------------------------------------
+| Epoch                | 35         |
+| AverageReturn        | -20.87     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.39128    |
+| AverageEpisodeLength | 3208.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4566       |
+| StdEpisodeLength     | 295        |
+| TotalNEpisodes       | 416        |
+| TotalNSamples        | 1.4266e+06 |
+| Entropy              | 1.7434     |
+| Perplexity           | 5.7166     |
+| AveragePolicyProb[0] | 0.21097    |
+| AveragePolicyProb[1] | 0.17046    |
+| AveragePolicyProb[2] | 0.23104    |
+| AveragePolicyProb[3] | 0.15439    |
+| AveragePolicyProb[4] | 0.093921   |
+| AveragePolicyProb[5] | 0.13922    |
+| |VfPred|             | 2.1145     |
+| |VfTarget|           | 2.1101     |
+| VfLoss               | 0.16099    |
+-------------------------------------
+[2021-12-20 18:30:40.813764 UTC] Saving snapshot
+[2021-12-20 18:30:40.814614 UTC] Starting epoch 36
+-------------------------------------
+| Epoch                | 36         |
+| AverageReturn        | -20.8      |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.4899     |
+| AverageEpisodeLength | 3259.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4759       |
+| StdEpisodeLength     | 355.95     |
+| TotalNEpisodes       | 424        |
+| TotalNSamples        | 1.4565e+06 |
+| Entropy              | 1.7368     |
+| Perplexity           | 5.6789     |
+| AveragePolicyProb[0] | 0.2208     |
+| AveragePolicyProb[1] | 0.20124    |
+| AveragePolicyProb[2] | 0.21825    |
+| AveragePolicyProb[3] | 0.15211    |
+| AveragePolicyProb[4] | 0.079414   |
+| AveragePolicyProb[5] | 0.12818    |
+| |VfPred|             | 1.9276     |
+| |VfTarget|           | 1.9457     |
+| VfLoss               | 0.16671    |
+-------------------------------------
+[2021-12-20 18:31:11.047195 UTC] Saving snapshot
+[2021-12-20 18:31:11.055329 UTC] Starting epoch 37
+-------------------------------------
+| Epoch                | 37         |
+| AverageReturn        | -20.74     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.55893    |
+| AverageEpisodeLength | 3315.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4759       |
+| StdEpisodeLength     | 371.94     |
+| TotalNEpisodes       | 437        |
+| TotalNSamples        | 1.5018e+06 |
+| Entropy              | 1.6901     |
+| Perplexity           | 5.4201     |
+| AveragePolicyProb[0] | 0.2223     |
+| AveragePolicyProb[1] | 0.19358    |
+| AveragePolicyProb[2] | 0.26996    |
+| AveragePolicyProb[3] | 0.093616   |
+| AveragePolicyProb[4] | 0.099099   |
+| AveragePolicyProb[5] | 0.12145    |
+| |VfPred|             | 2.3894     |
+| |VfTarget|           | 2.3861     |
+| VfLoss               | 0.18927    |
+-------------------------------------
+[2021-12-20 18:31:40.142461 UTC] Saving snapshot
+[2021-12-20 18:31:40.144066 UTC] Starting epoch 38
+-------------------------------------
+| Epoch                | 38         |
+| AverageReturn        | -20.72     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.5671     |
+| AverageEpisodeLength | 3336.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4759       |
+| StdEpisodeLength     | 386.29     |
+| TotalNEpisodes       | 451        |
+| TotalNSamples        | 1.5467e+06 |
+| Entropy              | 1.5885     |
+| Perplexity           | 4.8964     |
+| AveragePolicyProb[0] | 0.29506    |
+| AveragePolicyProb[1] | 0.13234    |
+| AveragePolicyProb[2] | 0.32564    |
+| AveragePolicyProb[3] | 0.058014   |
+| AveragePolicyProb[4] | 0.081701   |
+| AveragePolicyProb[5] | 0.10725    |
+| |VfPred|             | 2.5029     |
+| |VfTarget|           | 2.4871     |
+| VfLoss               | 0.20687    |
+-------------------------------------
+[2021-12-20 18:32:09.267891 UTC] Saving snapshot
+[2021-12-20 18:32:09.268542 UTC] Starting epoch 39
+-------------------------------------
+| Epoch                | 39         |
+| AverageReturn        | -20.73     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.56312    |
+| AverageEpisodeLength | 3335.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4759       |
+| StdEpisodeLength     | 386.04     |
+| TotalNEpisodes       | 465        |
+| TotalNSamples        | 1.5898e+06 |
+| Entropy              | 1.6492     |
+| Perplexity           | 5.2029     |
+| AveragePolicyProb[0] | 0.1933     |
+| AveragePolicyProb[1] | 0.16146    |
+| AveragePolicyProb[2] | 0.32525    |
+| AveragePolicyProb[3] | 0.062108   |
+| AveragePolicyProb[4] | 0.093422   |
+| AveragePolicyProb[5] | 0.16445    |
+| |VfPred|             | 2.5065     |
+| |VfTarget|           | 2.4839     |
+| VfLoss               | 0.21119    |
+-------------------------------------
+[2021-12-20 18:32:37.967860 UTC] Saving snapshot
+[2021-12-20 18:32:37.968405 UTC] Starting epoch 40
+-------------------------------------
+| Epoch                | 40         |
+| AverageReturn        | -20.69     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.62761    |
+| AverageEpisodeLength | 3362.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4759       |
+| StdEpisodeLength     | 392.53     |
+| TotalNEpisodes       | 475        |
+| TotalNSamples        | 1.6231e+06 |
+| Entropy              | 1.6931     |
+| Perplexity           | 5.4361     |
+| AveragePolicyProb[0] | 0.2711     |
+| AveragePolicyProb[1] | 0.1059     |
+| AveragePolicyProb[2] | 0.22214    |
+| AveragePolicyProb[3] | 0.075921   |
+| AveragePolicyProb[4] | 0.14425    |
+| AveragePolicyProb[5] | 0.18069    |
+| |VfPred|             | 2.243      |
+| |VfTarget|           | 2.236      |
+| VfLoss               | 0.17758    |
+-------------------------------------
+[2021-12-20 18:33:08.424230 UTC] Saving snapshot
+[2021-12-20 18:33:08.482395 UTC] Starting epoch 41
+-------------------------------------
+| Epoch                | 41         |
+| AverageReturn        | -20.63     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.67313    |
+| AverageEpisodeLength | 3415.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4759       |
+| StdEpisodeLength     | 433.78     |
+| TotalNEpisodes       | 487        |
+| TotalNSamples        | 1.6662e+06 |
+| Entropy              | 1.6658     |
+| Perplexity           | 5.29       |
+| AveragePolicyProb[0] | 0.35348    |
+| AveragePolicyProb[1] | 0.1501     |
+| AveragePolicyProb[2] | 0.17219    |
+| AveragePolicyProb[3] | 0.11488    |
+| AveragePolicyProb[4] | 0.10022    |
+| AveragePolicyProb[5] | 0.10915    |
+| |VfPred|             | 2.2416     |
+| |VfTarget|           | 2.238      |
+| VfLoss               | 0.17441    |
+-------------------------------------
+[2021-12-20 18:33:41.833146 UTC] Saving snapshot
+[2021-12-20 18:33:41.834272 UTC] Starting epoch 42
+-------------------------------------
+| Epoch                | 42         |
+| AverageReturn        | -20.65     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.66895    |
+| AverageEpisodeLength | 3398.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4759       |
+| StdEpisodeLength     | 426.96     |
+| TotalNEpisodes       | 498        |
+| TotalNSamples        | 1.7034e+06 |
+| Entropy              | 1.6493     |
+| Perplexity           | 5.2032     |
+| AveragePolicyProb[0] | 0.32373    |
+| AveragePolicyProb[1] | 0.19951    |
+| AveragePolicyProb[2] | 0.19957    |
+| AveragePolicyProb[3] | 0.10334    |
+| AveragePolicyProb[4] | 0.066065   |
+| AveragePolicyProb[5] | 0.10779    |
+| |VfPred|             | 2.142      |
+| |VfTarget|           | 2.149      |
+| VfLoss               | 0.16661    |
+-------------------------------------
+[2021-12-20 18:34:12.536770 UTC] Saving snapshot
+[2021-12-20 18:34:12.537568 UTC] Starting epoch 43
+-------------------------------------
+| Epoch                | 43         |
+| AverageReturn        | -20.7      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.6245     |
+| AverageEpisodeLength | 3362.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4759       |
+| StdEpisodeLength     | 426.1      |
+| TotalNEpisodes       | 512        |
+| TotalNSamples        | 1.7483e+06 |
+| Entropy              | 1.65       |
+| Perplexity           | 5.2071     |
+| AveragePolicyProb[0] | 0.25075    |
+| AveragePolicyProb[1] | 0.27831    |
+| AveragePolicyProb[2] | 0.21444    |
+| AveragePolicyProb[3] | 0.088419   |
+| AveragePolicyProb[4] | 0.057656   |
+| AveragePolicyProb[5] | 0.11043    |
+| |VfPred|             | 2.1621     |
+| |VfTarget|           | 2.1735     |
+| VfLoss               | 0.18099    |
+-------------------------------------
+[2021-12-20 18:34:41.885281 UTC] Saving snapshot
+[2021-12-20 18:34:41.885559 UTC] Starting epoch 44
+-------------------------------------
+| Epoch                | 44         |
+| AverageReturn        | -20.74     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.61025    |
+| AverageEpisodeLength | 3305.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4589       |
+| StdEpisodeLength     | 383.11     |
+| TotalNEpisodes       | 525        |
+| TotalNSamples        | 1.7902e+06 |
+| Entropy              | 1.6299     |
+| Perplexity           | 5.1033     |
+| AveragePolicyProb[0] | 0.18536    |
+| AveragePolicyProb[1] | 0.10299    |
+| AveragePolicyProb[2] | 0.34155    |
+| AveragePolicyProb[3] | 0.065677   |
+| AveragePolicyProb[4] | 0.10523    |
+| AveragePolicyProb[5] | 0.19918    |
+| |VfPred|             | 2.4989     |
+| |VfTarget|           | 2.4965     |
+| VfLoss               | 0.19081    |
+-------------------------------------
+[2021-12-20 18:35:11.514832 UTC] Saving snapshot
+[2021-12-20 18:35:11.515991 UTC] Starting epoch 45
+-------------------------------------
+| Epoch                | 45         |
+| AverageReturn        | -20.78     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.57585    |
+| AverageEpisodeLength | 3260.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4589       |
+| StdEpisodeLength     | 368.76     |
+| TotalNEpisodes       | 535        |
+| TotalNSamples        | 1.8217e+06 |
+| Entropy              | 1.6836     |
+| Perplexity           | 5.385      |
+| AveragePolicyProb[0] | 0.17692    |
+| AveragePolicyProb[1] | 0.079931   |
+| AveragePolicyProb[2] | 0.26733    |
+| AveragePolicyProb[3] | 0.081451   |
+| AveragePolicyProb[4] | 0.15697    |
+| AveragePolicyProb[5] | 0.2374     |
+| |VfPred|             | 2.2361     |
+| |VfTarget|           | 2.2428     |
+| VfLoss               | 0.17622    |
+-------------------------------------
+[2021-12-20 18:35:40.888529 UTC] Saving snapshot
+[2021-12-20 18:35:40.890251 UTC] Starting epoch 46
+-------------------------------------
+| Epoch                | 46         |
+| AverageReturn        | -20.7      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.7        |
+| AverageEpisodeLength | 3295.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4589       |
+| StdEpisodeLength     | 390.78     |
+| TotalNEpisodes       | 548        |
+| TotalNSamples        | 1.8671e+06 |
+| Entropy              | 1.7276     |
+| Perplexity           | 5.627      |
+| AveragePolicyProb[0] | 0.18457    |
+| AveragePolicyProb[1] | 0.09671    |
+| AveragePolicyProb[2] | 0.19812    |
+| AveragePolicyProb[3] | 0.10248    |
+| AveragePolicyProb[4] | 0.20466    |
+| AveragePolicyProb[5] | 0.21346    |
+| |VfPred|             | 2.1289     |
+| |VfTarget|           | 2.1313     |
+| VfLoss               | 0.17429    |
+-------------------------------------
+[2021-12-20 18:36:10.561145 UTC] Saving snapshot
+[2021-12-20 18:36:10.570060 UTC] Starting epoch 47
+-------------------------------------
+| Epoch                | 47         |
+| AverageReturn        | -20.68     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.70541    |
+| AverageEpisodeLength | 3335.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4589       |
+| StdEpisodeLength     | 397.25     |
+| TotalNEpisodes       | 557        |
+| TotalNSamples        | 1.8989e+06 |
+| Entropy              | 1.7593     |
+| Perplexity           | 5.8084     |
+| AveragePolicyProb[0] | 0.16153    |
+| AveragePolicyProb[1] | 0.13026    |
+| AveragePolicyProb[2] | 0.21496    |
+| AveragePolicyProb[3] | 0.162      |
+| AveragePolicyProb[4] | 0.11521    |
+| AveragePolicyProb[5] | 0.21603    |
+| |VfPred|             | 2.0857     |
+| |VfTarget|           | 2.0901     |
+| VfLoss               | 0.16614    |
+-------------------------------------
+[2021-12-20 18:36:38.900314 UTC] Saving snapshot
+[2021-12-20 18:36:38.900953 UTC] Starting epoch 48
+-------------------------------------
+| Epoch                | 48         |
+| AverageReturn        | -20.62     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.73185    |
+| AverageEpisodeLength | 3390.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4589       |
+| StdEpisodeLength     | 406.62     |
+| TotalNEpisodes       | 569        |
+| TotalNSamples        | 1.9419e+06 |
+| Entropy              | 1.7441     |
+| Perplexity           | 5.7208     |
+| AveragePolicyProb[0] | 0.17955    |
+| AveragePolicyProb[1] | 0.1642     |
+| AveragePolicyProb[2] | 0.21613    |
+| AveragePolicyProb[3] | 0.14792    |
+| AveragePolicyProb[4] | 0.077762   |
+| AveragePolicyProb[5] | 0.21444    |
+| |VfPred|             | 1.9902     |
+| |VfTarget|           | 1.9797     |
+| VfLoss               | 0.16579    |
+-------------------------------------
+[2021-12-20 18:37:08.954256 UTC] Saving snapshot
+[2021-12-20 18:37:08.958981 UTC] Starting epoch 49
+-------------------------------------
+| Epoch                | 49         |
+| AverageReturn        | -20.59     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.70845    |
+| AverageEpisodeLength | 3397.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4486       |
+| StdEpisodeLength     | 382.52     |
+| TotalNEpisodes       | 582        |
+| TotalNSamples        | 1.9884e+06 |
+| Entropy              | 1.6553     |
+| Perplexity           | 5.2344     |
+| AveragePolicyProb[0] | 0.1522     |
+| AveragePolicyProb[1] | 0.2983     |
+| AveragePolicyProb[2] | 0.16131    |
+| AveragePolicyProb[3] | 0.11865    |
+| AveragePolicyProb[4] | 0.055582   |
+| AveragePolicyProb[5] | 0.21396    |
+| |VfPred|             | 2.0501     |
+| |VfTarget|           | 2.0678     |
+| VfLoss               | 0.16893    |
+-------------------------------------
+[2021-12-20 18:37:37.020942 UTC] Saving snapshot
+[2021-12-20 18:37:37.021646 UTC] Starting epoch 50
+-------------------------------------
+| Epoch                | 50         |
+| AverageReturn        | -20.6      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.69282    |
+| AverageEpisodeLength | 3394.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4356       |
+| StdEpisodeLength     | 362.09     |
+| TotalNEpisodes       | 592        |
+| TotalNSamples        | 2.0224e+06 |
+| Entropy              | 1.66       |
+| Perplexity           | 5.2594     |
+| AveragePolicyProb[0] | 0.16762    |
+| AveragePolicyProb[1] | 0.28616    |
+| AveragePolicyProb[2] | 0.17612    |
+| AveragePolicyProb[3] | 0.12469    |
+| AveragePolicyProb[4] | 0.052127   |
+| AveragePolicyProb[5] | 0.19328    |
+| |VfPred|             | 2.1564     |
+| |VfTarget|           | 2.1475     |
+| VfLoss               | 0.17106    |
+-------------------------------------
+[2021-12-20 18:38:05.299040 UTC] Saving snapshot
+[2021-12-20 18:38:05.353101 UTC] Starting epoch 51
+-------------------------------------
+| Epoch                | 51         |
+| AverageReturn        | -20.53     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.78045    |
+| AverageEpisodeLength | 3446.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4758       |
+| StdEpisodeLength     | 409.48     |
+| TotalNEpisodes       | 602        |
+| TotalNSamples        | 2.0614e+06 |
+| Entropy              | 1.7217     |
+| Perplexity           | 5.5939     |
+| AveragePolicyProb[0] | 0.20342    |
+| AveragePolicyProb[1] | 0.11407    |
+| AveragePolicyProb[2] | 0.22575    |
+| AveragePolicyProb[3] | 0.12765    |
+| AveragePolicyProb[4] | 0.093548   |
+| AveragePolicyProb[5] | 0.23557    |
+| |VfPred|             | 2.0258     |
+| |VfTarget|           | 2.0266     |
+| VfLoss               | 0.17156    |
+-------------------------------------
+[2021-12-20 18:38:34.525137 UTC] Saving snapshot
+[2021-12-20 18:38:34.526438 UTC] Starting epoch 52
+-------------------------------------
+| Epoch                | 52         |
+| AverageReturn        | -20.47     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.84208    |
+| AverageEpisodeLength | 3506       |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4758       |
+| StdEpisodeLength     | 420.46     |
+| TotalNEpisodes       | 612        |
+| TotalNSamples        | 2.0989e+06 |
+| Entropy              | 1.6874     |
+| Perplexity           | 5.4053     |
+| AveragePolicyProb[0] | 0.23425    |
+| AveragePolicyProb[1] | 0.093696   |
+| AveragePolicyProb[2] | 0.24398    |
+| AveragePolicyProb[3] | 0.1067     |
+| AveragePolicyProb[4] | 0.08524    |
+| AveragePolicyProb[5] | 0.23614    |
+| |VfPred|             | 2.002      |
+| |VfTarget|           | 1.9951     |
+| VfLoss               | 0.1567     |
+-------------------------------------
+[2021-12-20 18:39:04.166922 UTC] Saving snapshot
+[2021-12-20 18:39:04.173006 UTC] Starting epoch 53
+-------------------------------------
+| Epoch                | 53         |
+| AverageReturn        | -20.45     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.82916    |
+| AverageEpisodeLength | 3585.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4952       |
+| StdEpisodeLength     | 451.62     |
+| TotalNEpisodes       | 624        |
+| TotalNSamples        | 2.1457e+06 |
+| Entropy              | 1.6644     |
+| Perplexity           | 5.2826     |
+| AveragePolicyProb[0] | 0.29478    |
+| AveragePolicyProb[1] | 0.11978    |
+| AveragePolicyProb[2] | 0.1836     |
+| AveragePolicyProb[3] | 0.10051    |
+| AveragePolicyProb[4] | 0.075408   |
+| AveragePolicyProb[5] | 0.22592    |
+| |VfPred|             | 1.9485     |
+| |VfTarget|           | 1.9568     |
+| VfLoss               | 0.16084    |
+-------------------------------------
+[2021-12-20 18:39:32.846269 UTC] Saving snapshot
+[2021-12-20 18:39:32.846957 UTC] Starting epoch 54
+-------------------------------------
+| Epoch                | 54         |
+| AverageReturn        | -20.42     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.8268     |
+| AverageEpisodeLength | 3639.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4952       |
+| StdEpisodeLength     | 430.58     |
+| TotalNEpisodes       | 635        |
+| TotalNSamples        | 2.1856e+06 |
+| Entropy              | 1.5961     |
+| Perplexity           | 4.934      |
+| AveragePolicyProb[0] | 0.22645    |
+| AveragePolicyProb[1] | 0.13346    |
+| AveragePolicyProb[2] | 0.18342    |
+| AveragePolicyProb[3] | 0.067506   |
+| AveragePolicyProb[4] | 0.14675    |
+| AveragePolicyProb[5] | 0.24241    |
+| |VfPred|             | 2.1756     |
+| |VfTarget|           | 2.1647     |
+| VfLoss               | 0.18036    |
+-------------------------------------
+[2021-12-20 18:40:01.792361 UTC] Saving snapshot
+[2021-12-20 18:40:01.793987 UTC] Starting epoch 55
+-------------------------------------
+| Epoch                | 55         |
+| AverageReturn        | -20.44     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.77872    |
+| AverageEpisodeLength | 3638.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4952       |
+| StdEpisodeLength     | 429.99     |
+| TotalNEpisodes       | 649        |
+| TotalNSamples        | 2.2343e+06 |
+| Entropy              | 1.3362     |
+| Perplexity           | 3.8044     |
+| AveragePolicyProb[0] | 0.38211    |
+| AveragePolicyProb[1] | 0.1191     |
+| AveragePolicyProb[2] | 0.32648    |
+| AveragePolicyProb[3] | 0.025394   |
+| AveragePolicyProb[4] | 0.11593    |
+| AveragePolicyProb[5] | 0.030985   |
+| |VfPred|             | 2.3371     |
+| |VfTarget|           | 2.3474     |
+| VfLoss               | 0.18651    |
+-------------------------------------
+[2021-12-20 18:40:31.055052 UTC] Saving snapshot
+[2021-12-20 18:40:31.057195 UTC] Starting epoch 56
+-------------------------------------
+| Epoch                | 56         |
+| AverageReturn        | -20.46     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.78       |
+| AverageEpisodeLength | 3587.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4952       |
+| StdEpisodeLength     | 451.31     |
+| TotalNEpisodes       | 659        |
+| TotalNSamples        | 2.2654e+06 |
+| Entropy              | 1.3912     |
+| Perplexity           | 4.0197     |
+| AveragePolicyProb[0] | 0.36538    |
+| AveragePolicyProb[1] | 0.26034    |
+| AveragePolicyProb[2] | 0.057474   |
+| AveragePolicyProb[3] | 0.1236     |
+| AveragePolicyProb[4] | 0.13422    |
+| AveragePolicyProb[5] | 0.058985   |
+| |VfPred|             | 2.3462     |
+| |VfTarget|           | 2.3498     |
+| VfLoss               | 0.17091    |
+-------------------------------------
+[2021-12-20 18:41:01.374199 UTC] Saving snapshot
+[2021-12-20 18:41:01.375556 UTC] Starting epoch 57
+-------------------------------------
+| Epoch                | 57         |
+| AverageReturn        | -20.5      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.76811    |
+| AverageEpisodeLength | 3565.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4952       |
+| StdEpisodeLength     | 455.58     |
+| TotalNEpisodes       | 671        |
+| TotalNSamples        | 2.3056e+06 |
+| Entropy              | 1.5715     |
+| Perplexity           | 4.8139     |
+| AveragePolicyProb[0] | 0.27707    |
+| AveragePolicyProb[1] | 0.3187     |
+| AveragePolicyProb[2] | 0.047611   |
+| AveragePolicyProb[3] | 0.11572    |
+| AveragePolicyProb[4] | 0.14369    |
+| AveragePolicyProb[5] | 0.097214   |
+| |VfPred|             | 2.0868     |
+| |VfTarget|           | 2.0708     |
+| VfLoss               | 0.17252    |
+-------------------------------------
+[2021-12-20 18:41:31.120475 UTC] Saving snapshot
+[2021-12-20 18:41:31.121381 UTC] Starting epoch 58
+-------------------------------------
+| Epoch                | 58         |
+| AverageReturn        | -20.44     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.80399    |
+| AverageEpisodeLength | 3595.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4952       |
+| StdEpisodeLength     | 464.08     |
+| TotalNEpisodes       | 681        |
+| TotalNSamples        | 2.3447e+06 |
+| Entropy              | 1.4747     |
+| Perplexity           | 4.3699     |
+| AveragePolicyProb[0] | 0.16833    |
+| AveragePolicyProb[1] | 0.46791    |
+| AveragePolicyProb[2] | 0.039734   |
+| AveragePolicyProb[3] | 0.092207   |
+| AveragePolicyProb[4] | 0.13162    |
+| AveragePolicyProb[5] | 0.1002     |
+| |VfPred|             | 1.934      |
+| |VfTarget|           | 1.9425     |
+| VfLoss               | 0.15736    |
+-------------------------------------
+[2021-12-20 18:42:00.341678 UTC] Saving snapshot
+[2021-12-20 18:42:00.346588 UTC] Starting epoch 59
+-------------------------------------
+| Epoch                | 59         |
+| AverageReturn        | -20.42     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.80225    |
+| AverageEpisodeLength | 3628.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4952       |
+| StdEpisodeLength     | 471.57     |
+| TotalNEpisodes       | 692        |
+| TotalNSamples        | 2.3852e+06 |
+| Entropy              | 1.6498     |
+| Perplexity           | 5.2057     |
+| AveragePolicyProb[0] | 0.2154     |
+| AveragePolicyProb[1] | 0.29361    |
+| AveragePolicyProb[2] | 0.10987    |
+| AveragePolicyProb[3] | 0.068629   |
+| AveragePolicyProb[4] | 0.15672    |
+| AveragePolicyProb[5] | 0.15577    |
+| |VfPred|             | 2.0113     |
+| |VfTarget|           | 2.019      |
+| VfLoss               | 0.16171    |
+-------------------------------------
+[2021-12-20 18:42:29.391601 UTC] Saving snapshot
+[2021-12-20 18:42:29.391991 UTC] Starting epoch 60
+-------------------------------------
+| Epoch                | 60         |
+| AverageReturn        | -20.46     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.75392    |
+| AverageEpisodeLength | 3593.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4952       |
+| StdEpisodeLength     | 453.49     |
+| TotalNEpisodes       | 705        |
+| TotalNSamples        | 2.4308e+06 |
+| Entropy              | 1.6426     |
+| Perplexity           | 5.1684     |
+| AveragePolicyProb[0] | 0.20821    |
+| AveragePolicyProb[1] | 0.20502    |
+| AveragePolicyProb[2] | 0.12043    |
+| AveragePolicyProb[3] | 0.05299    |
+| AveragePolicyProb[4] | 0.26098    |
+| AveragePolicyProb[5] | 0.15236    |
+| |VfPred|             | 2.1792     |
+| |VfTarget|           | 2.1914     |
+| VfLoss               | 0.16738    |
+-------------------------------------
+[2021-12-20 18:42:59.486736 UTC] Saving snapshot
+[2021-12-20 18:42:59.535650 UTC] Starting epoch 61
+-------------------------------------
+| Epoch                | 61         |
+| AverageReturn        | -20.58     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.66603    |
+| AverageEpisodeLength | 3470.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4952       |
+| StdEpisodeLength     | 430        |
+| TotalNEpisodes       | 720        |
+| TotalNSamples        | 2.4772e+06 |
+| Entropy              | 1.5534     |
+| Perplexity           | 4.7277     |
+| AveragePolicyProb[0] | 0.21007    |
+| AveragePolicyProb[1] | 0.12013    |
+| AveragePolicyProb[2] | 0.27589    |
+| AveragePolicyProb[3] | 0.019679   |
+| AveragePolicyProb[4] | 0.27975    |
+| AveragePolicyProb[5] | 0.094484   |
+| |VfPred|             | 2.3448     |
+| |VfTarget|           | 2.3543     |
+| VfLoss               | 0.18252    |
+-------------------------------------
+[2021-12-20 18:43:28.342291 UTC] Saving snapshot
+[2021-12-20 18:43:28.342706 UTC] Starting epoch 62
+-------------------------------------
+| Epoch                | 62         |
+| AverageReturn        | -20.62     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.64467    |
+| AverageEpisodeLength | 3398.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4660       |
+| StdEpisodeLength     | 401.86     |
+| TotalNEpisodes       | 732        |
+| TotalNSamples        | 2.5142e+06 |
+| Entropy              | 1.6755     |
+| Perplexity           | 5.3413     |
+| AveragePolicyProb[0] | 0.22115    |
+| AveragePolicyProb[1] | 0.20462    |
+| AveragePolicyProb[2] | 0.13408    |
+| AveragePolicyProb[3] | 0.042172   |
+| AveragePolicyProb[4] | 0.21834    |
+| AveragePolicyProb[5] | 0.17962    |
+| |VfPred|             | 2.0722     |
+| |VfTarget|           | 2.0984     |
+| VfLoss               | 0.16237    |
+-------------------------------------
+[2021-12-20 18:43:57.705627 UTC] Saving snapshot
+[2021-12-20 18:43:57.707439 UTC] Starting epoch 63
+-------------------------------------
+| Epoch                | 63         |
+| AverageReturn        | -20.69     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.61147    |
+| AverageEpisodeLength | 3337.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4660       |
+| StdEpisodeLength     | 375        |
+| TotalNEpisodes       | 743        |
+| TotalNSamples        | 2.5488e+06 |
+| Entropy              | 1.671      |
+| Perplexity           | 5.3174     |
+| AveragePolicyProb[0] | 0.24663    |
+| AveragePolicyProb[1] | 0.2051     |
+| AveragePolicyProb[2] | 0.20389    |
+| AveragePolicyProb[3] | 0.034077   |
+| AveragePolicyProb[4] | 0.15194    |
+| AveragePolicyProb[5] | 0.15836    |
+| |VfPred|             | 2.0574     |
+| |VfTarget|           | 2.1019     |
+| VfLoss               | 0.17406    |
+-------------------------------------
+[2021-12-20 18:44:26.368909 UTC] Saving snapshot
+[2021-12-20 18:44:26.369289 UTC] Starting epoch 64
+-------------------------------------
+| Epoch                | 64         |
+| AverageReturn        | -20.71     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.58813    |
+| AverageEpisodeLength | 3334.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4660       |
+| StdEpisodeLength     | 368.81     |
+| TotalNEpisodes       | 757        |
+| TotalNSamples        | 2.5927e+06 |
+| Entropy              | 1.6263     |
+| Perplexity           | 5.0851     |
+| AveragePolicyProb[0] | 0.19587    |
+| AveragePolicyProb[1] | 0.1328     |
+| AveragePolicyProb[2] | 0.32956    |
+| AveragePolicyProb[3] | 0.036357   |
+| AveragePolicyProb[4] | 0.12853    |
+| AveragePolicyProb[5] | 0.17689    |
+| |VfPred|             | 2.263      |
+| |VfTarget|           | 2.2843     |
+| VfLoss               | 0.17978    |
+-------------------------------------
+[2021-12-20 18:44:56.920971 UTC] Saving snapshot
+[2021-12-20 18:44:56.933757 UTC] Starting epoch 65
+-------------------------------------
+| Epoch                | 65         |
+| AverageReturn        | -20.74     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.57654    |
+| AverageEpisodeLength | 3302.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4660       |
+| StdEpisodeLength     | 369.23     |
+| TotalNEpisodes       | 769        |
+| TotalNSamples        | 2.6293e+06 |
+| Entropy              | 1.7001     |
+| Perplexity           | 5.4747     |
+| AveragePolicyProb[0] | 0.20456    |
+| AveragePolicyProb[1] | 0.16245    |
+| AveragePolicyProb[2] | 0.24772    |
+| AveragePolicyProb[3] | 0.066711   |
+| AveragePolicyProb[4] | 0.12354    |
+| AveragePolicyProb[5] | 0.19502    |
+| |VfPred|             | 2.0116     |
+| |VfTarget|           | 2.0345     |
+| VfLoss               | 0.1693     |
+-------------------------------------
+[2021-12-20 18:45:26.459079 UTC] Saving snapshot
+[2021-12-20 18:45:26.459736 UTC] Starting epoch 66
+-------------------------------------
+| Epoch                | 66         |
+| AverageReturn        | -20.79     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.49588    |
+| AverageEpisodeLength | 3274.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4660       |
+| StdEpisodeLength     | 329.71     |
+| TotalNEpisodes       | 781        |
+| TotalNSamples        | 2.6722e+06 |
+| Entropy              | 1.7485     |
+| Perplexity           | 5.7457     |
+| AveragePolicyProb[0] | 0.14763    |
+| AveragePolicyProb[1] | 0.20305    |
+| AveragePolicyProb[2] | 0.16498    |
+| AveragePolicyProb[3] | 0.12081    |
+| AveragePolicyProb[4] | 0.12272    |
+| AveragePolicyProb[5] | 0.2408     |
+| |VfPred|             | 1.7498     |
+| |VfTarget|           | 1.7569     |
+| VfLoss               | 0.16014    |
+-------------------------------------
+[2021-12-20 18:45:55.027742 UTC] Saving snapshot
+[2021-12-20 18:45:55.032032 UTC] Starting epoch 67
+-------------------------------------
+| Epoch                | 67         |
+| AverageReturn        | -20.74     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.59363    |
+| AverageEpisodeLength | 3271.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4465       |
+| StdEpisodeLength     | 313.12     |
+| TotalNEpisodes       | 789        |
+| TotalNSamples        | 2.7015e+06 |
+| Entropy              | 1.7508     |
+| Perplexity           | 5.7593     |
+| AveragePolicyProb[0] | 0.18233    |
+| AveragePolicyProb[1] | 0.12299    |
+| AveragePolicyProb[2] | 0.21303    |
+| AveragePolicyProb[3] | 0.11759    |
+| AveragePolicyProb[4] | 0.15602    |
+| AveragePolicyProb[5] | 0.20804    |
+| |VfPred|             | 1.862      |
+| |VfTarget|           | 1.8663     |
+| VfLoss               | 0.14839    |
+-------------------------------------
+[2021-12-20 18:46:24.037836 UTC] Saving snapshot
+[2021-12-20 18:46:24.039900 UTC] Starting epoch 68
+-------------------------------------
+| Epoch                | 68         |
+| AverageReturn        | -20.68     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.64622    |
+| AverageEpisodeLength | 3312.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4655       |
+| StdEpisodeLength     | 379.62     |
+| TotalNEpisodes       | 801        |
+| TotalNSamples        | 2.7486e+06 |
+| Entropy              | 1.7516     |
+| Perplexity           | 5.7641     |
+| AveragePolicyProb[0] | 0.18829    |
+| AveragePolicyProb[1] | 0.12753    |
+| AveragePolicyProb[2] | 0.14165    |
+| AveragePolicyProb[3] | 0.22379    |
+| AveragePolicyProb[4] | 0.12075    |
+| AveragePolicyProb[5] | 0.19799    |
+| |VfPred|             | 1.9055     |
+| |VfTarget|           | 1.9181     |
+| VfLoss               | 0.15449    |
+-------------------------------------
+[2021-12-20 18:46:53.944934 UTC] Saving snapshot
+[2021-12-20 18:46:53.945233 UTC] Starting epoch 69
+-------------------------------------
+| Epoch                | 69         |
+| AverageReturn        | -20.64     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.65605    |
+| AverageEpisodeLength | 3338.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4655       |
+| StdEpisodeLength     | 383.93     |
+| TotalNEpisodes       | 811        |
+| TotalNSamples        | 2.7835e+06 |
+| Entropy              | 1.7379     |
+| Perplexity           | 5.6853     |
+| AveragePolicyProb[0] | 0.24133    |
+| AveragePolicyProb[1] | 0.11358    |
+| AveragePolicyProb[2] | 0.1288     |
+| AveragePolicyProb[3] | 0.19172    |
+| AveragePolicyProb[4] | 0.16371    |
+| AveragePolicyProb[5] | 0.16086    |
+| |VfPred|             | 2.2686     |
+| |VfTarget|           | 2.2695     |
+| VfLoss               | 0.15761    |
+-------------------------------------
+[2021-12-20 18:47:23.014214 UTC] Saving snapshot
+[2021-12-20 18:47:23.015101 UTC] Starting epoch 70
+-------------------------------------
+| Epoch                | 70         |
+| AverageReturn        | -20.58     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.66603    |
+| AverageEpisodeLength | 3414.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4655       |
+| StdEpisodeLength     | 408.94     |
+| TotalNEpisodes       | 822        |
+| TotalNSamples        | 2.8248e+06 |
+| Entropy              | 1.7106     |
+| Perplexity           | 5.5323     |
+| AveragePolicyProb[0] | 0.2453     |
+| AveragePolicyProb[1] | 0.10516    |
+| AveragePolicyProb[2] | 0.12682    |
+| AveragePolicyProb[3] | 0.14245    |
+| AveragePolicyProb[4] | 0.17759    |
+| AveragePolicyProb[5] | 0.20268    |
+| |VfPred|             | 2.0487     |
+| |VfTarget|           | 2.0592     |
+| VfLoss               | 0.16424    |
+-------------------------------------
+[2021-12-20 18:47:52.024773 UTC] Saving snapshot
+[2021-12-20 18:47:52.061503 UTC] Starting epoch 71
+-------------------------------------
+| Epoch                | 71         |
+| AverageReturn        | -20.52     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.71386    |
+| AverageEpisodeLength | 3465.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4655       |
+| StdEpisodeLength     | 404.61     |
+| TotalNEpisodes       | 832        |
+| TotalNSamples        | 2.8608e+06 |
+| Entropy              | 1.7122     |
+| Perplexity           | 5.5411     |
+| AveragePolicyProb[0] | 0.22974    |
+| AveragePolicyProb[1] | 0.087272   |
+| AveragePolicyProb[2] | 0.12826    |
+| AveragePolicyProb[3] | 0.13775    |
+| AveragePolicyProb[4] | 0.15212    |
+| AveragePolicyProb[5] | 0.26486    |
+| |VfPred|             | 1.8965     |
+| |VfTarget|           | 1.9143     |
+| VfLoss               | 0.14663    |
+-------------------------------------
+[2021-12-20 18:48:21.350154 UTC] Saving snapshot
+[2021-12-20 18:48:21.350656 UTC] Starting epoch 72
+-------------------------------------
+| Epoch                | 72         |
+| AverageReturn        | -20.45     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.72629    |
+| AverageEpisodeLength | 3541.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4655       |
+| StdEpisodeLength     | 412.57     |
+| TotalNEpisodes       | 847        |
+| TotalNSamples        | 2.9157e+06 |
+| Entropy              | 1.6466     |
+| Perplexity           | 5.1891     |
+| AveragePolicyProb[0] | 0.21545    |
+| AveragePolicyProb[1] | 0.055434   |
+| AveragePolicyProb[2] | 0.11912    |
+| AveragePolicyProb[3] | 0.12339    |
+| AveragePolicyProb[4] | 0.16231    |
+| AveragePolicyProb[5] | 0.3243     |
+| |VfPred|             | 2.0502     |
+| |VfTarget|           | 2.0561     |
+| VfLoss               | 0.14939    |
+-------------------------------------
+[2021-12-20 18:48:51.406783 UTC] Saving snapshot
+[2021-12-20 18:48:51.410113 UTC] Starting epoch 73
+-------------------------------------
+| Epoch                | 73         |
+| AverageReturn        | -20.4      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.73485    |
+| AverageEpisodeLength | 3579.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4655       |
+| StdEpisodeLength     | 397.75     |
+| TotalNEpisodes       | 857        |
+| TotalNSamples        | 2.9506e+06 |
+| Entropy              | 1.6991     |
+| Perplexity           | 5.4691     |
+| AveragePolicyProb[0] | 0.19498    |
+| AveragePolicyProb[1] | 0.082959   |
+| AveragePolicyProb[2] | 0.086336   |
+| AveragePolicyProb[3] | 0.1966     |
+| AveragePolicyProb[4] | 0.16539    |
+| AveragePolicyProb[5] | 0.27373    |
+| |VfPred|             | 2.1048     |
+| |VfTarget|           | 2.1121     |
+| VfLoss               | 0.15508    |
+-------------------------------------
+[2021-12-20 18:49:20.628680 UTC] Saving snapshot
+[2021-12-20 18:49:20.631432 UTC] Starting epoch 74
+-------------------------------------
+| Epoch                | 74         |
+| AverageReturn        | -20.38     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.73185    |
+| AverageEpisodeLength | 3609.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4655       |
+| StdEpisodeLength     | 372.1      |
+| TotalNEpisodes       | 866        |
+| TotalNSamples        | 2.9811e+06 |
+| Entropy              | 1.6919     |
+| Perplexity           | 5.4295     |
+| AveragePolicyProb[0] | 0.19747    |
+| AveragePolicyProb[1] | 0.076019   |
+| AveragePolicyProb[2] | 0.10151    |
+| AveragePolicyProb[3] | 0.16369    |
+| AveragePolicyProb[4] | 0.25229    |
+| AveragePolicyProb[5] | 0.20903    |
+| |VfPred|             | 2.2399     |
+| |VfTarget|           | 2.2297     |
+| VfLoss               | 0.15432    |
+-------------------------------------
+[2021-12-20 18:49:49.100204 UTC] Saving snapshot
+[2021-12-20 18:49:49.100624 UTC] Starting epoch 75
+-------------------------------------
+| Epoch                | 75         |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.77942    |
+| AverageEpisodeLength | 3678.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4706       |
+| StdEpisodeLength     | 387.6      |
+| TotalNEpisodes       | 879        |
+| TotalNSamples        | 3.0322e+06 |
+| Entropy              | 1.765      |
+| Perplexity           | 5.8418     |
+| AveragePolicyProb[0] | 0.20727    |
+| AveragePolicyProb[1] | 0.10832    |
+| AveragePolicyProb[2] | 0.13185    |
+| AveragePolicyProb[3] | 0.18713    |
+| AveragePolicyProb[4] | 0.18724    |
+| AveragePolicyProb[5] | 0.1782     |
+| |VfPred|             | 1.7618     |
+| |VfTarget|           | 1.765      |
+| VfLoss               | 0.14971    |
+-------------------------------------
+[2021-12-20 18:50:18.157722 UTC] Saving snapshot
+[2021-12-20 18:50:18.158110 UTC] Starting epoch 76
+-------------------------------------
+| Epoch                | 76         |
+| AverageReturn        | -20.4      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.73485    |
+| AverageEpisodeLength | 3667.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4706       |
+| StdEpisodeLength     | 391.58     |
+| TotalNEpisodes       | 886        |
+| TotalNSamples        | 3.0582e+06 |
+| Entropy              | 1.7115     |
+| Perplexity           | 5.5373     |
+| AveragePolicyProb[0] | 0.25766    |
+| AveragePolicyProb[1] | 0.077695   |
+| AveragePolicyProb[2] | 0.16991    |
+| AveragePolicyProb[3] | 0.13779    |
+| AveragePolicyProb[4] | 0.19125    |
+| AveragePolicyProb[5] | 0.1657     |
+| |VfPred|             | 1.9926     |
+| |VfTarget|           | 2.0039     |
+| VfLoss               | 0.15469    |
+-------------------------------------
+[2021-12-20 18:50:47.702054 UTC] Saving snapshot
+[2021-12-20 18:50:47.703122 UTC] Starting epoch 77
+-------------------------------------
+| Epoch                | 77         |
+| AverageReturn        | -20.39     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.7602     |
+| AverageEpisodeLength | 3695.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5089       |
+| StdEpisodeLength     | 426.93     |
+| TotalNEpisodes       | 899        |
+| TotalNSamples        | 3.1106e+06 |
+| Entropy              | 1.737      |
+| Perplexity           | 5.6805     |
+| AveragePolicyProb[0] | 0.25126    |
+| AveragePolicyProb[1] | 0.10163    |
+| AveragePolicyProb[2] | 0.14401    |
+| AveragePolicyProb[3] | 0.22085    |
+| AveragePolicyProb[4] | 0.13596    |
+| AveragePolicyProb[5] | 0.14629    |
+| |VfPred|             | 1.8209     |
+| |VfTarget|           | 1.8204     |
+| VfLoss               | 0.13706    |
+-------------------------------------
+[2021-12-20 18:51:16.996316 UTC] Saving snapshot
+[2021-12-20 18:51:16.997100 UTC] Starting epoch 78
+-------------------------------------
+| Epoch                | 78         |
+| AverageReturn        | -20.39     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.78607    |
+| AverageEpisodeLength | 3706.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5089       |
+| StdEpisodeLength     | 428.09     |
+| TotalNEpisodes       | 911        |
+| TotalNSamples        | 3.1542e+06 |
+| Entropy              | 1.7474     |
+| Perplexity           | 5.7395     |
+| AveragePolicyProb[0] | 0.19493    |
+| AveragePolicyProb[1] | 0.085182   |
+| AveragePolicyProb[2] | 0.19033    |
+| AveragePolicyProb[3] | 0.20047    |
+| AveragePolicyProb[4] | 0.17321    |
+| AveragePolicyProb[5] | 0.15587    |
+| |VfPred|             | 2.1688     |
+| |VfTarget|           | 2.1655     |
+| VfLoss               | 0.15734    |
+-------------------------------------
+[2021-12-20 18:51:45.834400 UTC] Saving snapshot
+[2021-12-20 18:51:45.835258 UTC] Starting epoch 79
+-------------------------------------
+| Epoch                | 79         |
+| AverageReturn        | -20.4      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.8        |
+| AverageEpisodeLength | 3693       |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5089       |
+| StdEpisodeLength     | 427.17     |
+| TotalNEpisodes       | 920        |
+| TotalNSamples        | 3.1867e+06 |
+| Entropy              | 1.6983     |
+| Perplexity           | 5.4646     |
+| AveragePolicyProb[0] | 0.25048    |
+| AveragePolicyProb[1] | 0.085761   |
+| AveragePolicyProb[2] | 0.27357    |
+| AveragePolicyProb[3] | 0.13317    |
+| AveragePolicyProb[4] | 0.11018    |
+| AveragePolicyProb[5] | 0.14683    |
+| |VfPred|             | 2.1672     |
+| |VfTarget|           | 2.1778     |
+| VfLoss               | 0.16716    |
+-------------------------------------
+[2021-12-20 18:52:14.113988 UTC] Saving snapshot
+[2021-12-20 18:52:14.115164 UTC] Starting epoch 80
+-------------------------------------
+| Epoch                | 80         |
+| AverageReturn        | -20.42     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.81462    |
+| AverageEpisodeLength | 3683.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5089       |
+| StdEpisodeLength     | 446.99     |
+| TotalNEpisodes       | 933        |
+| TotalNSamples        | 3.2325e+06 |
+| Entropy              | 1.6511     |
+| Perplexity           | 5.2126     |
+| AveragePolicyProb[0] | 0.30189    |
+| AveragePolicyProb[1] | 0.068379   |
+| AveragePolicyProb[2] | 0.2715     |
+| AveragePolicyProb[3] | 0.10948    |
+| AveragePolicyProb[4] | 0.11013    |
+| AveragePolicyProb[5] | 0.13862    |
+| |VfPred|             | 2.2607     |
+| |VfTarget|           | 2.2671     |
+| VfLoss               | 0.16716    |
+-------------------------------------
+[2021-12-20 18:52:43.907816 UTC] Saving snapshot
+[2021-12-20 18:52:43.945820 UTC] Starting epoch 81
+-------------------------------------
+| Epoch                | 81         |
+| AverageReturn        | -20.44     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.84048    |
+| AverageEpisodeLength | 3659.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5089       |
+| StdEpisodeLength     | 446.86     |
+| TotalNEpisodes       | 945        |
+| TotalNSamples        | 3.2741e+06 |
+| Entropy              | 1.7523     |
+| Perplexity           | 5.7679     |
+| AveragePolicyProb[0] | 0.23079    |
+| AveragePolicyProb[1] | 0.094335   |
+| AveragePolicyProb[2] | 0.19855    |
+| AveragePolicyProb[3] | 0.17024    |
+| AveragePolicyProb[4] | 0.13475    |
+| AveragePolicyProb[5] | 0.17134    |
+| |VfPred|             | 1.8602     |
+| |VfTarget|           | 1.8641     |
+| VfLoss               | 0.14794    |
+-------------------------------------
+[2021-12-20 18:53:13.390016 UTC] Saving snapshot
+[2021-12-20 18:53:13.390398 UTC] Starting epoch 82
+-------------------------------------
+| Epoch                | 82         |
+| AverageReturn        | -20.48     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.83042    |
+| AverageEpisodeLength | 3655.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5089       |
+| StdEpisodeLength     | 445.54     |
+| TotalNEpisodes       | 955        |
+| TotalNSamples        | 3.3097e+06 |
+| Entropy              | 1.7385     |
+| Perplexity           | 5.6888     |
+| AveragePolicyProb[0] | 0.2328     |
+| AveragePolicyProb[1] | 0.080174   |
+| AveragePolicyProb[2] | 0.17043    |
+| AveragePolicyProb[3] | 0.15286    |
+| AveragePolicyProb[4] | 0.15021    |
+| AveragePolicyProb[5] | 0.21353    |
+| |VfPred|             | 1.9585     |
+| |VfTarget|           | 1.9622     |
+| VfLoss               | 0.15369    |
+-------------------------------------
+[2021-12-20 18:53:41.861544 UTC] Saving snapshot
+[2021-12-20 18:53:41.868374 UTC] Starting epoch 83
+-------------------------------------
+| Epoch                | 83         |
+| AverageReturn        | -20.36     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.87772    |
+| AverageEpisodeLength | 3722.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5089       |
+| StdEpisodeLength     | 454.05     |
+| TotalNEpisodes       | 965        |
+| TotalNSamples        | 3.3498e+06 |
+| Entropy              | 1.7393     |
+| Perplexity           | 5.6931     |
+| AveragePolicyProb[0] | 0.1906     |
+| AveragePolicyProb[1] | 0.08243    |
+| AveragePolicyProb[2] | 0.18195    |
+| AveragePolicyProb[3] | 0.12614    |
+| AveragePolicyProb[4] | 0.18376    |
+| AveragePolicyProb[5] | 0.23512    |
+| |VfPred|             | 1.7022     |
+| |VfTarget|           | 1.7025     |
+| VfLoss               | 0.14459    |
+-------------------------------------
+[2021-12-20 18:54:10.689840 UTC] Saving snapshot
+[2021-12-20 18:54:10.690640 UTC] Starting epoch 84
+-------------------------------------
+| Epoch                | 84         |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.85294    |
+| AverageEpisodeLength | 3715.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5089       |
+| StdEpisodeLength     | 443.71     |
+| TotalNEpisodes       | 977        |
+| TotalNSamples        | 3.3964e+06 |
+| Entropy              | 1.7217     |
+| Perplexity           | 5.5942     |
+| AveragePolicyProb[0] | 0.14368    |
+| AveragePolicyProb[1] | 0.078749   |
+| AveragePolicyProb[2] | 0.18389    |
+| AveragePolicyProb[3] | 0.13402    |
+| AveragePolicyProb[4] | 0.18884    |
+| AveragePolicyProb[5] | 0.27081    |
+| |VfPred|             | 1.9883     |
+| |VfTarget|           | 1.9877     |
+| VfLoss               | 0.15756    |
+-------------------------------------
+[2021-12-20 18:54:40.382491 UTC] Saving snapshot
+[2021-12-20 18:54:40.383280 UTC] Starting epoch 85
+-------------------------------------
+| Epoch                | 85         |
+| AverageReturn        | -20.3      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.86603    |
+| AverageEpisodeLength | 3718.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5089       |
+| StdEpisodeLength     | 447.9      |
+| TotalNEpisodes       | 986        |
+| TotalNSamples        | 3.4301e+06 |
+| Entropy              | 1.7382     |
+| Perplexity           | 5.6869     |
+| AveragePolicyProb[0] | 0.1574     |
+| AveragePolicyProb[1] | 0.095053   |
+| AveragePolicyProb[2] | 0.18751    |
+| AveragePolicyProb[3] | 0.13358    |
+| AveragePolicyProb[4] | 0.17057    |
+| AveragePolicyProb[5] | 0.25589    |
+| |VfPred|             | 2.1968     |
+| |VfTarget|           | 2.1872     |
+| VfLoss               | 0.15052    |
+-------------------------------------
+[2021-12-20 18:55:09.195219 UTC] Saving snapshot
+[2021-12-20 18:55:09.195640 UTC] Starting epoch 86
+-------------------------------------
+| Epoch                | 86         |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.82916    |
+| AverageEpisodeLength | 3688.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4704       |
+| StdEpisodeLength     | 404.08     |
+| TotalNEpisodes       | 996        |
+| TotalNSamples        | 3.4681e+06 |
+| Entropy              | 1.7659     |
+| Perplexity           | 5.8468     |
+| AveragePolicyProb[0] | 0.18496    |
+| AveragePolicyProb[1] | 0.10242    |
+| AveragePolicyProb[2] | 0.17998    |
+| AveragePolicyProb[3] | 0.17143    |
+| AveragePolicyProb[4] | 0.15892    |
+| AveragePolicyProb[5] | 0.20229    |
+| |VfPred|             | 1.6893     |
+| |VfTarget|           | 1.7033     |
+| VfLoss               | 0.14755    |
+-------------------------------------
+[2021-12-20 18:55:38.497666 UTC] Saving snapshot
+[2021-12-20 18:55:38.498181 UTC] Starting epoch 87
+-------------------------------------
+| Epoch                | 87         |
+| AverageReturn        | -20.32     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.82316    |
+| AverageEpisodeLength | 3698.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4704       |
+| StdEpisodeLength     | 391.31     |
+| TotalNEpisodes       | 1009       |
+| TotalNSamples        | 3.5164e+06 |
+| Entropy              | 1.7389     |
+| Perplexity           | 5.6913     |
+| AveragePolicyProb[0] | 0.15072    |
+| AveragePolicyProb[1] | 0.10298    |
+| AveragePolicyProb[2] | 0.11054    |
+| AveragePolicyProb[3] | 0.23087    |
+| AveragePolicyProb[4] | 0.20678    |
+| AveragePolicyProb[5] | 0.19811    |
+| |VfPred|             | 2.0514     |
+| |VfTarget|           | 2.0539     |
+| VfLoss               | 0.15277    |
+-------------------------------------
+[2021-12-20 18:56:07.814163 UTC] Saving snapshot
+[2021-12-20 18:56:07.815278 UTC] Starting epoch 88
+-------------------------------------
+| Epoch                | 88         |
+| AverageReturn        | -20.31     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.82091    |
+| AverageEpisodeLength | 3676.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4704       |
+| StdEpisodeLength     | 403.02     |
+| TotalNEpisodes       | 1020       |
+| TotalNSamples        | 3.5543e+06 |
+| Entropy              | 1.6477     |
+| Perplexity           | 5.1949     |
+| AveragePolicyProb[0] | 0.085128   |
+| AveragePolicyProb[1] | 0.087216   |
+| AveragePolicyProb[2] | 0.091557   |
+| AveragePolicyProb[3] | 0.18406    |
+| AveragePolicyProb[4] | 0.23663    |
+| AveragePolicyProb[5] | 0.31541    |
+| |VfPred|             | 2.2885     |
+| |VfTarget|           | 2.2745     |
+| VfLoss               | 0.14922    |
+-------------------------------------
+[2021-12-20 18:56:37.701511 UTC] Saving snapshot
+[2021-12-20 18:56:37.702523 UTC] Starting epoch 89
+-------------------------------------
+| Epoch                | 89         |
+| AverageReturn        | -20.26     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.79524    |
+| AverageEpisodeLength | 3674.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4704       |
+| StdEpisodeLength     | 381.53     |
+| TotalNEpisodes       | 1031       |
+| TotalNSamples        | 3.5928e+06 |
+| Entropy              | 1.659      |
+| Perplexity           | 5.2539     |
+| AveragePolicyProb[0] | 0.10447    |
+| AveragePolicyProb[1] | 0.079374   |
+| AveragePolicyProb[2] | 0.091809   |
+| AveragePolicyProb[3] | 0.16785    |
+| AveragePolicyProb[4] | 0.27678    |
+| AveragePolicyProb[5] | 0.27971    |
+| |VfPred|             | 2.0966     |
+| |VfTarget|           | 2.0943     |
+| VfLoss               | 0.14328    |
+-------------------------------------
+[2021-12-20 18:57:06.507343 UTC] Saving snapshot
+[2021-12-20 18:57:06.508560 UTC] Starting epoch 90
+-------------------------------------
+| Epoch                | 90         |
+| AverageReturn        | -20.19     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.78352    |
+| AverageEpisodeLength | 3700       |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 4704       |
+| StdEpisodeLength     | 372.06     |
+| TotalNEpisodes       | 1041       |
+| TotalNSamples        | 3.6291e+06 |
+| Entropy              | 1.7166     |
+| Perplexity           | 5.5654     |
+| AveragePolicyProb[0] | 0.12566    |
+| AveragePolicyProb[1] | 0.095583   |
+| AveragePolicyProb[2] | 0.13704    |
+| AveragePolicyProb[3] | 0.14758    |
+| AveragePolicyProb[4] | 0.21242    |
+| AveragePolicyProb[5] | 0.28171    |
+| |VfPred|             | 1.9007     |
+| |VfTarget|           | 1.8988     |
+| VfLoss               | 0.13975    |
+-------------------------------------
+[2021-12-20 18:57:35.477453 UTC] Saving snapshot
+[2021-12-20 18:57:35.532108 UTC] Starting epoch 91
+-------------------------------------
+| Epoch                | 91         |
+| AverageReturn        | -20.13     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.78301    |
+| AverageEpisodeLength | 3711.4     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 4704       |
+| StdEpisodeLength     | 371.16     |
+| TotalNEpisodes       | 1053       |
+| TotalNSamples        | 3.6742e+06 |
+| Entropy              | 1.746      |
+| Perplexity           | 5.7314     |
+| AveragePolicyProb[0] | 0.12597    |
+| AveragePolicyProb[1] | 0.10215    |
+| AveragePolicyProb[2] | 0.18586    |
+| AveragePolicyProb[3] | 0.1466     |
+| AveragePolicyProb[4] | 0.21535    |
+| AveragePolicyProb[5] | 0.22407    |
+| |VfPred|             | 1.9926     |
+| |VfTarget|           | 1.9882     |
+| VfLoss               | 0.15415    |
+-------------------------------------
+[2021-12-20 18:58:04.732264 UTC] Saving snapshot
+[2021-12-20 18:58:04.737513 UTC] Starting epoch 92
+-------------------------------------
+| Epoch                | 92         |
+| AverageReturn        | -20.13     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.80815    |
+| AverageEpisodeLength | 3692.9     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 4704       |
+| StdEpisodeLength     | 356.89     |
+| TotalNEpisodes       | 1063       |
+| TotalNSamples        | 3.7115e+06 |
+| Entropy              | 1.7756     |
+| Perplexity           | 5.9041     |
+| AveragePolicyProb[0] | 0.13372    |
+| AveragePolicyProb[1] | 0.1414     |
+| AveragePolicyProb[2] | 0.16871    |
+| AveragePolicyProb[3] | 0.16423    |
+| AveragePolicyProb[4] | 0.18516    |
+| AveragePolicyProb[5] | 0.20678    |
+| |VfPred|             | 1.6067     |
+| |VfTarget|           | 1.6156     |
+| VfLoss               | 0.14779    |
+-------------------------------------
+[2021-12-20 18:58:34.174614 UTC] Saving snapshot
+[2021-12-20 18:58:34.181995 UTC] Starting epoch 93
+-------------------------------------
+| Epoch                | 93         |
+| AverageReturn        | -20.07     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.90835    |
+| AverageEpisodeLength | 3719.7     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 4797       |
+| StdEpisodeLength     | 404.01     |
+| TotalNEpisodes       | 1074       |
+| TotalNSamples        | 3.7566e+06 |
+| Entropy              | 1.7358     |
+| Perplexity           | 5.6734     |
+| AveragePolicyProb[0] | 0.095391   |
+| AveragePolicyProb[1] | 0.16129    |
+| AveragePolicyProb[2] | 0.15451    |
+| AveragePolicyProb[3] | 0.16253    |
+| AveragePolicyProb[4] | 0.16884    |
+| AveragePolicyProb[5] | 0.25745    |
+| |VfPred|             | 2.1119     |
+| |VfTarget|           | 2.1037     |
+| VfLoss               | 0.14725    |
+-------------------------------------
+[2021-12-20 18:59:02.897327 UTC] Saving snapshot
+[2021-12-20 18:59:02.897775 UTC] Starting epoch 94
+-------------------------------------
+| Epoch                | 94         |
+| AverageReturn        | -20.08     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.902      |
+| AverageEpisodeLength | 3717       |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 4797       |
+| StdEpisodeLength     | 391.42     |
+| TotalNEpisodes       | 1082       |
+| TotalNSamples        | 3.7861e+06 |
+| Entropy              | 1.753      |
+| Perplexity           | 5.7718     |
+| AveragePolicyProb[0] | 0.11795    |
+| AveragePolicyProb[1] | 0.15913    |
+| AveragePolicyProb[2] | 0.19468    |
+| AveragePolicyProb[3] | 0.14352    |
+| AveragePolicyProb[4] | 0.15577    |
+| AveragePolicyProb[5] | 0.22896    |
+| |VfPred|             | 2.0665     |
+| |VfTarget|           | 2.0692     |
+| VfLoss               | 0.15306    |
+-------------------------------------
+[2021-12-20 18:59:31.531124 UTC] Saving snapshot
+[2021-12-20 18:59:31.531606 UTC] Starting epoch 95
+-------------------------------------
+| Epoch                | 95         |
+| AverageReturn        | -20.09     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.88425    |
+| AverageEpisodeLength | 3721.7     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 4797       |
+| StdEpisodeLength     | 386.78     |
+| TotalNEpisodes       | 1095       |
+| TotalNSamples        | 3.8365e+06 |
+| Entropy              | 1.7674     |
+| Perplexity           | 5.8558     |
+| AveragePolicyProb[0] | 0.17265    |
+| AveragePolicyProb[1] | 0.12208    |
+| AveragePolicyProb[2] | 0.17154    |
+| AveragePolicyProb[3] | 0.22494    |
+| AveragePolicyProb[4] | 0.12511    |
+| AveragePolicyProb[5] | 0.18368    |
+| |VfPred|             | 1.8771     |
+| |VfTarget|           | 1.8936     |
+| VfLoss               | 0.13435    |
+-------------------------------------
+[2021-12-20 19:00:00.523425 UTC] Saving snapshot
+[2021-12-20 19:00:00.524884 UTC] Starting epoch 96
+-------------------------------------
+| Epoch                | 96         |
+| AverageReturn        | -20.14     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.8834     |
+| AverageEpisodeLength | 3694.3     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 4797       |
+| StdEpisodeLength     | 389.52     |
+| TotalNEpisodes       | 1107       |
+| TotalNSamples        | 3.8791e+06 |
+| Entropy              | 1.7551     |
+| Perplexity           | 5.7839     |
+| AveragePolicyProb[0] | 0.19634    |
+| AveragePolicyProb[1] | 0.11654    |
+| AveragePolicyProb[2] | 0.19396    |
+| AveragePolicyProb[3] | 0.22326    |
+| AveragePolicyProb[4] | 0.11214    |
+| AveragePolicyProb[5] | 0.15776    |
+| |VfPred|             | 2.292      |
+| |VfTarget|           | 2.2917     |
+| VfLoss               | 0.14879    |
+-------------------------------------
+[2021-12-20 19:00:32.254716 UTC] Saving snapshot
+[2021-12-20 19:00:32.258110 UTC] Starting epoch 97
+-------------------------------------
+| Epoch                | 97         |
+| AverageReturn        | -20.1      |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.8775     |
+| AverageEpisodeLength | 3708.8     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 4797       |
+| StdEpisodeLength     | 377.27     |
+| TotalNEpisodes       | 1116       |
+| TotalNSamples        | 3.9106e+06 |
+| Entropy              | 1.7046     |
+| Perplexity           | 5.4992     |
+| AveragePolicyProb[0] | 0.14927    |
+| AveragePolicyProb[1] | 0.23568    |
+| AveragePolicyProb[2] | 0.1749     |
+| AveragePolicyProb[3] | 0.16618    |
+| AveragePolicyProb[4] | 0.091676   |
+| AveragePolicyProb[5] | 0.1823     |
+| |VfPred|             | 2.1996     |
+| |VfTarget|           | 2.1932     |
+| VfLoss               | 0.15225    |
+-------------------------------------
+[2021-12-20 19:01:01.453798 UTC] Saving snapshot
+[2021-12-20 19:01:01.459788 UTC] Starting epoch 98
+-------------------------------------
+| Epoch                | 98         |
+| AverageReturn        | -20.09     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.9391     |
+| AverageEpisodeLength | 3743.2     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 4797       |
+| StdEpisodeLength     | 381.52     |
+| TotalNEpisodes       | 1129       |
+| TotalNSamples        | 3.9593e+06 |
+| Entropy              | 1.7233     |
+| Perplexity           | 5.6029     |
+| AveragePolicyProb[0] | 0.21717    |
+| AveragePolicyProb[1] | 0.10183    |
+| AveragePolicyProb[2] | 0.26405    |
+| AveragePolicyProb[3] | 0.17266    |
+| AveragePolicyProb[4] | 0.10077    |
+| AveragePolicyProb[5] | 0.14352    |
+| |VfPred|             | 2.3017     |
+| |VfTarget|           | 2.2898     |
+| VfLoss               | 0.17989    |
+-------------------------------------
+[2021-12-20 19:01:30.066727 UTC] Saving snapshot
+[2021-12-20 19:01:30.067185 UTC] Starting epoch 99
+-------------------------------------
+| Epoch                | 99         |
+| AverageReturn        | -20.14     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.9383     |
+| AverageEpisodeLength | 3730.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4797       |
+| StdEpisodeLength     | 399.05     |
+| TotalNEpisodes       | 1138       |
+| TotalNSamples        | 3.9908e+06 |
+| Entropy              | 1.7519     |
+| Perplexity           | 5.7657     |
+| AveragePolicyProb[0] | 0.16613    |
+| AveragePolicyProb[1] | 0.098597   |
+| AveragePolicyProb[2] | 0.22873    |
+| AveragePolicyProb[3] | 0.17625    |
+| AveragePolicyProb[4] | 0.12562    |
+| AveragePolicyProb[5] | 0.20468    |
+| |VfPred|             | 1.991      |
+| |VfTarget|           | 1.9842     |
+| VfLoss               | 0.15422    |
+-------------------------------------
+[2021-12-20 19:01:58.949437 UTC] Saving snapshot
+[2021-12-20 19:01:58.952021 UTC] Starting epoch 100
+-------------------------------------
+| Epoch                | 100        |
+| AverageReturn        | -20.2      |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.90554    |
+| AverageEpisodeLength | 3727.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4797       |
+| StdEpisodeLength     | 398.49     |
+| TotalNEpisodes       | 1151       |
+| TotalNSamples        | 4.0399e+06 |
+| Entropy              | 1.7203     |
+| Perplexity           | 5.5861     |
+| AveragePolicyProb[0] | 0.15157    |
+| AveragePolicyProb[1] | 0.12075    |
+| AveragePolicyProb[2] | 0.29578    |
+| AveragePolicyProb[3] | 0.13926    |
+| AveragePolicyProb[4] | 0.13941    |
+| AveragePolicyProb[5] | 0.15322    |
+| |VfPred|             | 1.9604     |
+| |VfTarget|           | 1.9879     |
+| VfLoss               | 0.15476    |
+-------------------------------------
+[2021-12-20 19:02:28.699937 UTC] Saving snapshot
+[2021-12-20 19:02:28.738569 UTC] Starting epoch 101
+-------------------------------------
+| Epoch                | 101        |
+| AverageReturn        | -20.26     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.8558     |
+| AverageEpisodeLength | 3694.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4797       |
+| StdEpisodeLength     | 405.17     |
+| TotalNEpisodes       | 1163       |
+| TotalNSamples        | 4.0809e+06 |
+| Entropy              | 1.767      |
+| Perplexity           | 5.8532     |
+| AveragePolicyProb[0] | 0.16974    |
+| AveragePolicyProb[1] | 0.11898    |
+| AveragePolicyProb[2] | 0.19246    |
+| AveragePolicyProb[3] | 0.18825    |
+| AveragePolicyProb[4] | 0.13023    |
+| AveragePolicyProb[5] | 0.20033    |
+| |VfPred|             | 2.073      |
+| |VfTarget|           | 2.0627     |
+| VfLoss               | 0.14203    |
+-------------------------------------
+[2021-12-20 19:02:57.638217 UTC] Saving snapshot
+[2021-12-20 19:02:57.640260 UTC] Starting epoch 102
+-------------------------------------
+| Epoch                | 102        |
+| AverageReturn        | -20.32     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.82316    |
+| AverageEpisodeLength | 3678.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4735       |
+| StdEpisodeLength     | 393.32     |
+| TotalNEpisodes       | 1171       |
+| TotalNSamples        | 4.1113e+06 |
+| Entropy              | 1.7634     |
+| Perplexity           | 5.8321     |
+| AveragePolicyProb[0] | 0.20944    |
+| AveragePolicyProb[1] | 0.12165    |
+| AveragePolicyProb[2] | 0.18541    |
+| AveragePolicyProb[3] | 0.17946    |
+| AveragePolicyProb[4] | 0.11345    |
+| AveragePolicyProb[5] | 0.1906     |
+| |VfPred|             | 1.8436     |
+| |VfTarget|           | 1.8492     |
+| VfLoss               | 0.11525    |
+-------------------------------------
+[2021-12-20 19:03:26.346271 UTC] Saving snapshot
+[2021-12-20 19:03:26.348950 UTC] Starting epoch 103
+-------------------------------------
+| Epoch                | 103        |
+| AverageReturn        | -20.34     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.76446    |
+| AverageEpisodeLength | 3650.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4682       |
+| StdEpisodeLength     | 360.23     |
+| TotalNEpisodes       | 1183       |
+| TotalNSamples        | 4.1556e+06 |
+| Entropy              | 1.736      |
+| Perplexity           | 5.6745     |
+| AveragePolicyProb[0] | 0.2563     |
+| AveragePolicyProb[1] | 0.13268    |
+| AveragePolicyProb[2] | 0.18896    |
+| AveragePolicyProb[3] | 0.17747    |
+| AveragePolicyProb[4] | 0.081629   |
+| AveragePolicyProb[5] | 0.16297    |
+| |VfPred|             | 1.8192     |
+| |VfTarget|           | 1.819      |
+| VfLoss               | 0.12744    |
+-------------------------------------
+[2021-12-20 19:03:55.527758 UTC] Saving snapshot
+[2021-12-20 19:03:55.528238 UTC] Starting epoch 104
+-------------------------------------
+| Epoch                | 104        |
+| AverageReturn        | -20.36     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.75525    |
+| AverageEpisodeLength | 3642.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4682       |
+| StdEpisodeLength     | 345.87     |
+| TotalNEpisodes       | 1193       |
+| TotalNSamples        | 4.1929e+06 |
+| Entropy              | 1.717      |
+| Perplexity           | 5.568      |
+| AveragePolicyProb[0] | 0.26865    |
+| AveragePolicyProb[1] | 0.14567    |
+| AveragePolicyProb[2] | 0.20735    |
+| AveragePolicyProb[3] | 0.16271    |
+| AveragePolicyProb[4] | 0.066681   |
+| AveragePolicyProb[5] | 0.14894    |
+| |VfPred|             | 1.9838     |
+| |VfTarget|           | 1.9964     |
+| VfLoss               | 0.12741    |
+-------------------------------------
+[2021-12-20 19:04:25.596308 UTC] Saving snapshot
+[2021-12-20 19:04:25.596820 UTC] Starting epoch 105
+-------------------------------------
+| Epoch                | 105        |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.76649    |
+| AverageEpisodeLength | 3659.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4817       |
+| StdEpisodeLength     | 370.51     |
+| TotalNEpisodes       | 1205       |
+| TotalNSamples        | 4.2379e+06 |
+| Entropy              | 1.735      |
+| Perplexity           | 5.6688     |
+| AveragePolicyProb[0] | 0.22933    |
+| AveragePolicyProb[1] | 0.14427    |
+| AveragePolicyProb[2] | 0.22259    |
+| AveragePolicyProb[3] | 0.15834    |
+| AveragePolicyProb[4] | 0.075824   |
+| AveragePolicyProb[5] | 0.16965    |
+| |VfPred|             | 2.0385     |
+| |VfTarget|           | 2.0342     |
+| VfLoss               | 0.12771    |
+-------------------------------------
+[2021-12-20 19:04:54.832860 UTC] Saving snapshot
+[2021-12-20 19:04:54.833355 UTC] Starting epoch 106
+-------------------------------------
+| Epoch                | 106        |
+| AverageReturn        | -20.37     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.77013    |
+| AverageEpisodeLength | 3687.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4817       |
+| StdEpisodeLength     | 389.03     |
+| TotalNEpisodes       | 1216       |
+| TotalNSamples        | 4.2793e+06 |
+| Entropy              | 1.4887     |
+| Perplexity           | 4.4312     |
+| AveragePolicyProb[0] | 0.26378    |
+| AveragePolicyProb[1] | 0.22876    |
+| AveragePolicyProb[2] | 0.11905    |
+| AveragePolicyProb[3] | 0.085709   |
+| AveragePolicyProb[4] | 0.15597    |
+| AveragePolicyProb[5] | 0.14673    |
+| |VfPred|             | 2.1126     |
+| |VfTarget|           | 2.1228     |
+| VfLoss               | 0.19428    |
+-------------------------------------
+[2021-12-20 19:05:23.648647 UTC] Saving snapshot
+[2021-12-20 19:05:23.649404 UTC] Starting epoch 107
+------------------------------------
+| Epoch                | 107       |
+| AverageReturn        | -20.39    |
+| MinReturn            | -21       |
+| MaxReturn            | -18       |
+| StdReturn            | 0.7602    |
+| AverageEpisodeLength | 3673.5    |
+| MinEpisodeLength     | 3056      |
+| MaxEpisodeLength     | 4817      |
+| StdEpisodeLength     | 388.05    |
+| TotalNEpisodes       | 1225      |
+| TotalNSamples        | 4.311e+06 |
+| Entropy              | 1.7503    |
+| Perplexity           | 5.7562    |
+| AveragePolicyProb[0] | 0.23359   |
+| AveragePolicyProb[1] | 0.19184   |
+| AveragePolicyProb[2] | 0.15261   |
+| AveragePolicyProb[3] | 0.18553   |
+| AveragePolicyProb[4] | 0.10206   |
+| AveragePolicyProb[5] | 0.13438   |
+| |VfPred|             | 2.0026    |
+| |VfTarget|           | 1.9951    |
+| VfLoss               | 0.12792   |
+------------------------------------
+[2021-12-20 19:05:52.653429 UTC] Saving snapshot
+[2021-12-20 19:05:52.653937 UTC] Starting epoch 108
+-------------------------------------
+| Epoch                | 108        |
+| AverageReturn        | -20.39     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.71965    |
+| AverageEpisodeLength | 3701.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4817       |
+| StdEpisodeLength     | 376.29     |
+| TotalNEpisodes       | 1237       |
+| TotalNSamples        | 4.3567e+06 |
+| Entropy              | 1.7571     |
+| Perplexity           | 5.7956     |
+| AveragePolicyProb[0] | 0.22316    |
+| AveragePolicyProb[1] | 0.1485     |
+| AveragePolicyProb[2] | 0.20639    |
+| AveragePolicyProb[3] | 0.1249     |
+| AveragePolicyProb[4] | 0.11188    |
+| AveragePolicyProb[5] | 0.18518    |
+| |VfPred|             | 1.9926     |
+| |VfTarget|           | 2.0077     |
+| VfLoss               | 0.14127    |
+-------------------------------------
+[2021-12-20 19:06:21.940786 UTC] Saving snapshot
+[2021-12-20 19:06:21.941514 UTC] Starting epoch 109
+-------------------------------------
+| Epoch                | 109        |
+| AverageReturn        | -20.39     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.70562    |
+| AverageEpisodeLength | 3687.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4817       |
+| StdEpisodeLength     | 373.82     |
+| TotalNEpisodes       | 1249       |
+| TotalNSamples        | 4.4014e+06 |
+| Entropy              | 1.7637     |
+| Perplexity           | 5.8341     |
+| AveragePolicyProb[0] | 0.20528    |
+| AveragePolicyProb[1] | 0.14189    |
+| AveragePolicyProb[2] | 0.17322    |
+| AveragePolicyProb[3] | 0.13073    |
+| AveragePolicyProb[4] | 0.12336    |
+| AveragePolicyProb[5] | 0.22552    |
+| |VfPred|             | 1.9453     |
+| |VfTarget|           | 1.9588     |
+| VfLoss               | 0.13695    |
+-------------------------------------
+[2021-12-20 19:06:50.871551 UTC] Saving snapshot
+[2021-12-20 19:06:50.872536 UTC] Starting epoch 110
+-------------------------------------
+| Epoch                | 110        |
+| AverageReturn        | -20.41     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.70845    |
+| AverageEpisodeLength | 3693.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4817       |
+| StdEpisodeLength     | 374.72     |
+| TotalNEpisodes       | 1258       |
+| TotalNSamples        | 4.4329e+06 |
+| Entropy              | 1.7639     |
+| Perplexity           | 5.8354     |
+| AveragePolicyProb[0] | 0.182      |
+| AveragePolicyProb[1] | 0.15202    |
+| AveragePolicyProb[2] | 0.14392    |
+| AveragePolicyProb[3] | 0.12       |
+| AveragePolicyProb[4] | 0.16678    |
+| AveragePolicyProb[5] | 0.23528    |
+| |VfPred|             | 2.2834     |
+| |VfTarget|           | 2.2872     |
+| VfLoss               | 0.14149    |
+-------------------------------------
+[2021-12-20 19:07:20.026624 UTC] Saving snapshot
+[2021-12-20 19:07:20.103639 UTC] Starting epoch 111
+-------------------------------------
+| Epoch                | 111        |
+| AverageReturn        | -20.39     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.67668    |
+| AverageEpisodeLength | 3683.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4817       |
+| StdEpisodeLength     | 365.2      |
+| TotalNEpisodes       | 1269       |
+| TotalNSamples        | 4.4721e+06 |
+| Entropy              | 1.7238     |
+| Perplexity           | 5.6059     |
+| AveragePolicyProb[0] | 0.15889    |
+| AveragePolicyProb[1] | 0.17108    |
+| AveragePolicyProb[2] | 0.12632    |
+| AveragePolicyProb[3] | 0.16096    |
+| AveragePolicyProb[4] | 0.21469    |
+| AveragePolicyProb[5] | 0.16806    |
+| |VfPred|             | 2.0915     |
+| |VfTarget|           | 2.0754     |
+| VfLoss               | 0.16452    |
+-------------------------------------
+[2021-12-20 19:07:49.404579 UTC] Saving snapshot
+[2021-12-20 19:07:49.406081 UTC] Starting epoch 112
+-------------------------------------
+| Epoch                | 112        |
+| AverageReturn        | -20.34     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.71021    |
+| AverageEpisodeLength | 3717.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4817       |
+| StdEpisodeLength     | 382.9      |
+| TotalNEpisodes       | 1280       |
+| TotalNSamples        | 4.5167e+06 |
+| Entropy              | 1.736      |
+| Perplexity           | 5.6747     |
+| AveragePolicyProb[0] | 0.15293    |
+| AveragePolicyProb[1] | 0.13188    |
+| AveragePolicyProb[2] | 0.13736    |
+| AveragePolicyProb[3] | 0.25483    |
+| AveragePolicyProb[4] | 0.18058    |
+| AveragePolicyProb[5] | 0.14241    |
+| |VfPred|             | 1.8728     |
+| |VfTarget|           | 1.871      |
+| VfLoss               | 0.14125    |
+-------------------------------------
+[2021-12-20 19:08:19.707423 UTC] Saving snapshot
+[2021-12-20 19:08:19.708414 UTC] Starting epoch 113
+-------------------------------------
+| Epoch                | 113        |
+| AverageReturn        | -20.38     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.70399    |
+| AverageEpisodeLength | 3725.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4933       |
+| StdEpisodeLength     | 415.25     |
+| TotalNEpisodes       | 1290       |
+| TotalNSamples        | 4.5542e+06 |
+| Entropy              | 1.719      |
+| Perplexity           | 5.5791     |
+| AveragePolicyProb[0] | 0.18556    |
+| AveragePolicyProb[1] | 0.13598    |
+| AveragePolicyProb[2] | 0.13535    |
+| AveragePolicyProb[3] | 0.28865    |
+| AveragePolicyProb[4] | 0.14523    |
+| AveragePolicyProb[5] | 0.10923    |
+| |VfPred|             | 2.0842     |
+| |VfTarget|           | 2.0926     |
+| VfLoss               | 0.12079    |
+-------------------------------------
+[2021-12-20 19:08:48.086857 UTC] Saving snapshot
+[2021-12-20 19:08:48.087165 UTC] Starting epoch 114
+-------------------------------------
+| Epoch                | 114        |
+| AverageReturn        | -20.41     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.70845    |
+| AverageEpisodeLength | 3709.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4933       |
+| StdEpisodeLength     | 415.54     |
+| TotalNEpisodes       | 1303       |
+| TotalNSamples        | 4.6004e+06 |
+| Entropy              | 1.7699     |
+| Perplexity           | 5.8701     |
+| AveragePolicyProb[0] | 0.21338    |
+| AveragePolicyProb[1] | 0.14336    |
+| AveragePolicyProb[2] | 0.13966    |
+| AveragePolicyProb[3] | 0.20582    |
+| AveragePolicyProb[4] | 0.14329    |
+| AveragePolicyProb[5] | 0.1545     |
+| |VfPred|             | 2.1061     |
+| |VfTarget|           | 2.109      |
+| VfLoss               | 0.12447    |
+-------------------------------------
+[2021-12-20 19:09:17.007232 UTC] Saving snapshot
+[2021-12-20 19:09:17.007715 UTC] Starting epoch 115
+-------------------------------------
+| Epoch                | 115        |
+| AverageReturn        | -20.41     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.69419    |
+| AverageEpisodeLength | 3688.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4933       |
+| StdEpisodeLength     | 400.58     |
+| TotalNEpisodes       | 1315       |
+| TotalNSamples        | 4.6438e+06 |
+| Entropy              | 1.7793     |
+| Perplexity           | 5.926      |
+| AveragePolicyProb[0] | 0.18623    |
+| AveragePolicyProb[1] | 0.14094    |
+| AveragePolicyProb[2] | 0.16776    |
+| AveragePolicyProb[3] | 0.20518    |
+| AveragePolicyProb[4] | 0.13518    |
+| AveragePolicyProb[5] | 0.16469    |
+| |VfPred|             | 1.9675     |
+| |VfTarget|           | 1.9658     |
+| VfLoss               | 0.13055    |
+-------------------------------------
+[2021-12-20 19:09:45.741786 UTC] Saving snapshot
+[2021-12-20 19:09:45.745252 UTC] Starting epoch 116
+------------------------------------
+| Epoch                | 116       |
+| AverageReturn        | -20.37    |
+| MinReturn            | -21       |
+| MaxReturn            | -18       |
+| StdReturn            | 0.70221   |
+| AverageEpisodeLength | 3694.3    |
+| MinEpisodeLength     | 3056      |
+| MaxEpisodeLength     | 4933      |
+| StdEpisodeLength     | 399.76    |
+| TotalNEpisodes       | 1324      |
+| TotalNSamples        | 4.677e+06 |
+| Entropy              | 1.7652    |
+| Perplexity           | 5.8427    |
+| AveragePolicyProb[0] | 0.15008   |
+| AveragePolicyProb[1] | 0.15249   |
+| AveragePolicyProb[2] | 0.19811   |
+| AveragePolicyProb[3] | 0.22316   |
+| AveragePolicyProb[4] | 0.11554   |
+| AveragePolicyProb[5] | 0.16061   |
+| |VfPred|             | 2.17      |
+| |VfTarget|           | 2.1629    |
+| VfLoss               | 0.13987   |
+------------------------------------
+[2021-12-20 19:10:15.828186 UTC] Saving snapshot
+[2021-12-20 19:10:15.829486 UTC] Starting epoch 117
+-------------------------------------
+| Epoch                | 117        |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -19        |
+| StdReturn            | 0.66895    |
+| AverageEpisodeLength | 3706.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4933       |
+| StdEpisodeLength     | 391.8      |
+| TotalNEpisodes       | 1335       |
+| TotalNSamples        | 4.7205e+06 |
+| Entropy              | 1.7834     |
+| Perplexity           | 5.95       |
+| AveragePolicyProb[0] | 0.16257    |
+| AveragePolicyProb[1] | 0.1607     |
+| AveragePolicyProb[2] | 0.16988    |
+| AveragePolicyProb[3] | 0.20045    |
+| AveragePolicyProb[4] | 0.13911    |
+| AveragePolicyProb[5] | 0.16728    |
+| |VfPred|             | 1.8368     |
+| |VfTarget|           | 1.8414     |
+| VfLoss               | 0.1283     |
+-------------------------------------
+[2021-12-20 19:10:44.624267 UTC] Saving snapshot
+[2021-12-20 19:10:44.624824 UTC] Starting epoch 118
+-------------------------------------
+| Epoch                | 118        |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.72629    |
+| AverageEpisodeLength | 3723.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5488       |
+| StdEpisodeLength     | 429.33     |
+| TotalNEpisodes       | 1345       |
+| TotalNSamples        | 4.7591e+06 |
+| Entropy              | 1.7887     |
+| Perplexity           | 5.9816     |
+| AveragePolicyProb[0] | 0.15641    |
+| AveragePolicyProb[1] | 0.16588    |
+| AveragePolicyProb[2] | 0.16915    |
+| AveragePolicyProb[3] | 0.16481    |
+| AveragePolicyProb[4] | 0.16073    |
+| AveragePolicyProb[5] | 0.18302    |
+| |VfPred|             | 1.9188     |
+| |VfTarget|           | 1.9236     |
+| VfLoss               | 0.12716    |
+-------------------------------------
+[2021-12-20 19:11:13.965292 UTC] Saving snapshot
+[2021-12-20 19:11:13.969262 UTC] Starting epoch 119
+-------------------------------------
+| Epoch                | 119        |
+| AverageReturn        | -20.34     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.73783    |
+| AverageEpisodeLength | 3745.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5488       |
+| StdEpisodeLength     | 433.6      |
+| TotalNEpisodes       | 1355       |
+| TotalNSamples        | 4.7959e+06 |
+| Entropy              | 1.7778     |
+| Perplexity           | 5.9171     |
+| AveragePolicyProb[0] | 0.15127    |
+| AveragePolicyProb[1] | 0.1561     |
+| AveragePolicyProb[2] | 0.15649    |
+| AveragePolicyProb[3] | 0.14706    |
+| AveragePolicyProb[4] | 0.16394    |
+| AveragePolicyProb[5] | 0.22514    |
+| |VfPred|             | 1.8991     |
+| |VfTarget|           | 1.9024     |
+| VfLoss               | 0.13193    |
+-------------------------------------
+[2021-12-20 19:11:43.270251 UTC] Saving snapshot
+[2021-12-20 19:11:43.277264 UTC] Starting epoch 120
+-------------------------------------
+| Epoch                | 120        |
+| AverageReturn        | -20.31     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.78352    |
+| AverageEpisodeLength | 3768       |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5488       |
+| StdEpisodeLength     | 438.73     |
+| TotalNEpisodes       | 1367       |
+| TotalNSamples        | 4.8407e+06 |
+| Entropy              | 1.7639     |
+| Perplexity           | 5.8351     |
+| AveragePolicyProb[0] | 0.1472     |
+| AveragePolicyProb[1] | 0.13423    |
+| AveragePolicyProb[2] | 0.15182    |
+| AveragePolicyProb[3] | 0.17243    |
+| AveragePolicyProb[4] | 0.14316    |
+| AveragePolicyProb[5] | 0.25116    |
+| |VfPred|             | 1.9354     |
+| |VfTarget|           | 1.937      |
+| VfLoss               | 0.11973    |
+-------------------------------------
+[2021-12-20 19:12:13.435126 UTC] Saving snapshot
+[2021-12-20 19:12:13.475304 UTC] Starting epoch 121
+-------------------------------------
+| Epoch                | 121        |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.75333    |
+| AverageEpisodeLength | 3720.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5488       |
+| StdEpisodeLength     | 434.41     |
+| TotalNEpisodes       | 1378       |
+| TotalNSamples        | 4.8804e+06 |
+| Entropy              | 1.7708     |
+| Perplexity           | 5.8756     |
+| AveragePolicyProb[0] | 0.14842    |
+| AveragePolicyProb[1] | 0.14595    |
+| AveragePolicyProb[2] | 0.13308    |
+| AveragePolicyProb[3] | 0.18864    |
+| AveragePolicyProb[4] | 0.15733    |
+| AveragePolicyProb[5] | 0.22659    |
+| |VfPred|             | 1.9703     |
+| |VfTarget|           | 1.9686     |
+| VfLoss               | 0.12298    |
+-------------------------------------
+[2021-12-20 19:12:42.592638 UTC] Saving snapshot
+[2021-12-20 19:12:42.593361 UTC] Starting epoch 122
+-------------------------------------
+| Epoch                | 122        |
+| AverageReturn        | -20.28     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.82559    |
+| AverageEpisodeLength | 3724       |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5488       |
+| StdEpisodeLength     | 440.44     |
+| TotalNEpisodes       | 1389       |
+| TotalNSamples        | 4.9225e+06 |
+| Entropy              | 1.772      |
+| Perplexity           | 5.8826     |
+| AveragePolicyProb[0] | 0.13809    |
+| AveragePolicyProb[1] | 0.14374    |
+| AveragePolicyProb[2] | 0.15321    |
+| AveragePolicyProb[3] | 0.19569    |
+| AveragePolicyProb[4] | 0.14573    |
+| AveragePolicyProb[5] | 0.22354    |
+| |VfPred|             | 2.0479     |
+| |VfTarget|           | 2.0467     |
+| VfLoss               | 0.11926    |
+-------------------------------------
+[2021-12-20 19:13:12.104316 UTC] Saving snapshot
+[2021-12-20 19:13:12.104862 UTC] Starting epoch 123
+-------------------------------------
+| Epoch                | 123        |
+| AverageReturn        | -20.23     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.81062    |
+| AverageEpisodeLength | 3717.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5488       |
+| StdEpisodeLength     | 444.93     |
+| TotalNEpisodes       | 1401       |
+| TotalNSamples        | 4.9653e+06 |
+| Entropy              | 1.7556     |
+| Perplexity           | 5.7869     |
+| AveragePolicyProb[0] | 0.12836    |
+| AveragePolicyProb[1] | 0.13792    |
+| AveragePolicyProb[2] | 0.16391    |
+| AveragePolicyProb[3] | 0.19586    |
+| AveragePolicyProb[4] | 0.12409    |
+| AveragePolicyProb[5] | 0.24986    |
+| |VfPred|             | 2.2652     |
+| |VfTarget|           | 2.259      |
+| VfLoss               | 0.11918    |
+-------------------------------------
+[2021-12-20 19:13:40.801239 UTC] Saving snapshot
+[2021-12-20 19:13:40.801897 UTC] Starting epoch 124
+------------------------------------
+| Epoch                | 124       |
+| AverageReturn        | -20.24    |
+| MinReturn            | -21       |
+| MaxReturn            | -17       |
+| StdReturn            | 0.81388   |
+| AverageEpisodeLength | 3714.3    |
+| MinEpisodeLength     | 3056      |
+| MaxEpisodeLength     | 5488      |
+| StdEpisodeLength     | 447.17    |
+| TotalNEpisodes       | 1411      |
+| TotalNSamples        | 5.001e+06 |
+| Entropy              | 1.7557    |
+| Perplexity           | 5.7872    |
+| AveragePolicyProb[0] | 0.12935   |
+| AveragePolicyProb[1] | 0.12848   |
+| AveragePolicyProb[2] | 0.15205   |
+| AveragePolicyProb[3] | 0.23046   |
+| AveragePolicyProb[4] | 0.14841   |
+| AveragePolicyProb[5] | 0.21124   |
+| |VfPred|             | 2.1319    |
+| |VfTarget|           | 2.13      |
+| VfLoss               | 0.10828   |
+------------------------------------
+[2021-12-20 19:14:10.814835 UTC] Saving snapshot
+[2021-12-20 19:14:10.818447 UTC] Starting epoch 125
+-------------------------------------
+| Epoch                | 125        |
+| AverageReturn        | -20.26     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.82       |
+| AverageEpisodeLength | 3696.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5488       |
+| StdEpisodeLength     | 453.44     |
+| TotalNEpisodes       | 1424       |
+| TotalNSamples        | 5.0467e+06 |
+| Entropy              | 1.71       |
+| Perplexity           | 5.5289     |
+| AveragePolicyProb[0] | 0.11058    |
+| AveragePolicyProb[1] | 0.12076    |
+| AveragePolicyProb[2] | 0.13888    |
+| AveragePolicyProb[3] | 0.31991    |
+| AveragePolicyProb[4] | 0.16934    |
+| AveragePolicyProb[5] | 0.14052    |
+| |VfPred|             | 2.1969     |
+| |VfTarget|           | 2.1889     |
+| VfLoss               | 0.11973    |
+-------------------------------------
+[2021-12-20 19:14:40.624678 UTC] Saving snapshot
+[2021-12-20 19:14:40.625411 UTC] Starting epoch 126
+-------------------------------------
+| Epoch                | 126        |
+| AverageReturn        | -20.28     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.82559    |
+| AverageEpisodeLength | 3669.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5488       |
+| StdEpisodeLength     | 447.33     |
+| TotalNEpisodes       | 1433       |
+| TotalNSamples        | 5.0794e+06 |
+| Entropy              | 1.7231     |
+| Perplexity           | 5.6021     |
+| AveragePolicyProb[0] | 0.10206    |
+| AveragePolicyProb[1] | 0.12498    |
+| AveragePolicyProb[2] | 0.1514     |
+| AveragePolicyProb[3] | 0.27672    |
+| AveragePolicyProb[4] | 0.20945    |
+| AveragePolicyProb[5] | 0.1354     |
+| |VfPred|             | 2.1032     |
+| |VfTarget|           | 2.1021     |
+| VfLoss               | 0.12586    |
+-------------------------------------
+[2021-12-20 19:15:09.614652 UTC] Saving snapshot
+[2021-12-20 19:15:09.615304 UTC] Starting epoch 127
+-------------------------------------
+| Epoch                | 127        |
+| AverageReturn        | -20.2      |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.84853    |
+| AverageEpisodeLength | 3680.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5488       |
+| StdEpisodeLength     | 472.13     |
+| TotalNEpisodes       | 1443       |
+| TotalNSamples        | 5.1181e+06 |
+| Entropy              | 1.727      |
+| Perplexity           | 5.6239     |
+| AveragePolicyProb[0] | 0.11096    |
+| AveragePolicyProb[1] | 0.126      |
+| AveragePolicyProb[2] | 0.1619     |
+| AveragePolicyProb[3] | 0.2802     |
+| AveragePolicyProb[4] | 0.1811     |
+| AveragePolicyProb[5] | 0.13984    |
+| |VfPred|             | 1.8302     |
+| |VfTarget|           | 1.8339     |
+| VfLoss               | 0.13476    |
+-------------------------------------
+[2021-12-20 19:15:39.599912 UTC] Saving snapshot
+[2021-12-20 19:15:39.600402 UTC] Starting epoch 128
+-------------------------------------
+| Epoch                | 128        |
+| AverageReturn        | -20.2      |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.8124     |
+| AverageEpisodeLength | 3704.1     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5380       |
+| StdEpisodeLength     | 470.7      |
+| TotalNEpisodes       | 1454       |
+| TotalNSamples        | 5.1623e+06 |
+| Entropy              | 1.7112     |
+| Perplexity           | 5.5358     |
+| AveragePolicyProb[0] | 0.096804   |
+| AveragePolicyProb[1] | 0.17572    |
+| AveragePolicyProb[2] | 0.15893    |
+| AveragePolicyProb[3] | 0.28465    |
+| AveragePolicyProb[4] | 0.16373    |
+| AveragePolicyProb[5] | 0.12017    |
+| |VfPred|             | 1.9951     |
+| |VfTarget|           | 2.0013     |
+| VfLoss               | 0.12682    |
+-------------------------------------
+[2021-12-20 19:16:09.448048 UTC] Saving snapshot
+[2021-12-20 19:16:09.448480 UTC] Starting epoch 129
+-------------------------------------
+| Epoch                | 129        |
+| AverageReturn        | -20.25     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.77942    |
+| AverageEpisodeLength | 3685.1     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5380       |
+| StdEpisodeLength     | 477.11     |
+| TotalNEpisodes       | 1466       |
+| TotalNSamples        | 5.2054e+06 |
+| Entropy              | 1.7666     |
+| Perplexity           | 5.8509     |
+| AveragePolicyProb[0] | 0.15179    |
+| AveragePolicyProb[1] | 0.15471    |
+| AveragePolicyProb[2] | 0.1664     |
+| AveragePolicyProb[3] | 0.2398     |
+| AveragePolicyProb[4] | 0.12259    |
+| AveragePolicyProb[5] | 0.16472    |
+| |VfPred|             | 2.0733     |
+| |VfTarget|           | 2.0772     |
+| VfLoss               | 0.12812    |
+-------------------------------------
+[2021-12-20 19:16:38.182929 UTC] Saving snapshot
+[2021-12-20 19:16:38.185523 UTC] Starting epoch 130
+-------------------------------------
+| Epoch                | 130        |
+| AverageReturn        | -20.33     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.77531    |
+| AverageEpisodeLength | 3666.8     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5380       |
+| StdEpisodeLength     | 478.47     |
+| TotalNEpisodes       | 1477       |
+| TotalNSamples        | 5.2433e+06 |
+| Entropy              | 1.7696     |
+| Perplexity           | 5.8683     |
+| AveragePolicyProb[0] | 0.17523    |
+| AveragePolicyProb[1] | 0.14389    |
+| AveragePolicyProb[2] | 0.16861    |
+| AveragePolicyProb[3] | 0.23385    |
+| AveragePolicyProb[4] | 0.12425    |
+| AveragePolicyProb[5] | 0.15416    |
+| |VfPred|             | 2.0945     |
+| |VfTarget|           | 2.0969     |
+| VfLoss               | 0.11752    |
+-------------------------------------
+[2021-12-20 19:17:07.228055 UTC] Saving snapshot
+[2021-12-20 19:17:07.268131 UTC] Starting epoch 131
+-------------------------------------
+| Epoch                | 131        |
+| AverageReturn        | -20.42     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.7236     |
+| AverageEpisodeLength | 3641       |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5380       |
+| StdEpisodeLength     | 447.03     |
+| TotalNEpisodes       | 1488       |
+| TotalNSamples        | 5.2831e+06 |
+| Entropy              | 1.7312     |
+| Perplexity           | 5.6475     |
+| AveragePolicyProb[0] | 0.21009    |
+| AveragePolicyProb[1] | 0.14171    |
+| AveragePolicyProb[2] | 0.14514    |
+| AveragePolicyProb[3] | 0.26811    |
+| AveragePolicyProb[4] | 0.10241    |
+| AveragePolicyProb[5] | 0.13254    |
+| |VfPred|             | 2.045      |
+| |VfTarget|           | 2.0426     |
+| VfLoss               | 0.12294    |
+-------------------------------------
+[2021-12-20 19:17:36.341218 UTC] Saving snapshot
+[2021-12-20 19:17:36.344541 UTC] Starting epoch 132
+-------------------------------------
+| Epoch                | 132        |
+| AverageReturn        | -20.43     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.72464    |
+| AverageEpisodeLength | 3652       |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5380       |
+| StdEpisodeLength     | 444.95     |
+| TotalNEpisodes       | 1501       |
+| TotalNSamples        | 5.3305e+06 |
+| Entropy              | 1.7374     |
+| Perplexity           | 5.6828     |
+| AveragePolicyProb[0] | 0.21257    |
+| AveragePolicyProb[1] | 0.13829    |
+| AveragePolicyProb[2] | 0.14133    |
+| AveragePolicyProb[3] | 0.2686     |
+| AveragePolicyProb[4] | 0.12449    |
+| AveragePolicyProb[5] | 0.11472    |
+| |VfPred|             | 2.1656     |
+| |VfTarget|           | 2.1613     |
+| VfLoss               | 0.11479    |
+-------------------------------------
+[2021-12-20 19:18:06.605287 UTC] Saving snapshot
+[2021-12-20 19:18:06.609632 UTC] Starting epoch 133
+-------------------------------------
+| Epoch                | 133        |
+| AverageReturn        | -20.41     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.72243    |
+| AverageEpisodeLength | 3652.1     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5380       |
+| StdEpisodeLength     | 442.89     |
+| TotalNEpisodes       | 1510       |
+| TotalNSamples        | 5.3621e+06 |
+| Entropy              | 1.7655     |
+| Perplexity           | 5.8445     |
+| AveragePolicyProb[0] | 0.18948    |
+| AveragePolicyProb[1] | 0.13356    |
+| AveragePolicyProb[2] | 0.15769    |
+| AveragePolicyProb[3] | 0.23366    |
+| AveragePolicyProb[4] | 0.14783    |
+| AveragePolicyProb[5] | 0.13779    |
+| |VfPred|             | 2.2528     |
+| |VfTarget|           | 2.2556     |
+| VfLoss               | 0.13119    |
+-------------------------------------
+[2021-12-20 19:18:35.623783 UTC] Saving snapshot
+[2021-12-20 19:18:35.625543 UTC] Starting epoch 134
+-------------------------------------
+| Epoch                | 134        |
+| AverageReturn        | -20.41     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.72243    |
+| AverageEpisodeLength | 3672.6     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5380       |
+| StdEpisodeLength     | 439.89     |
+| TotalNEpisodes       | 1519       |
+| TotalNSamples        | 5.3964e+06 |
+| Entropy              | 1.7763     |
+| Perplexity           | 5.9082     |
+| AveragePolicyProb[0] | 0.17661    |
+| AveragePolicyProb[1] | 0.13475    |
+| AveragePolicyProb[2] | 0.16085    |
+| AveragePolicyProb[3] | 0.2095     |
+| AveragePolicyProb[4] | 0.17094    |
+| AveragePolicyProb[5] | 0.14735    |
+| |VfPred|             | 1.8811     |
+| |VfTarget|           | 1.8731     |
+| VfLoss               | 0.13964    |
+-------------------------------------
+[2021-12-20 19:19:05.083393 UTC] Saving snapshot
+[2021-12-20 19:19:05.084148 UTC] Starting epoch 135
+-------------------------------------
+| Epoch                | 135        |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.77942    |
+| AverageEpisodeLength | 3732.6     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5380       |
+| StdEpisodeLength     | 476.87     |
+| TotalNEpisodes       | 1530       |
+| TotalNSamples        | 5.4405e+06 |
+| Entropy              | 1.7797     |
+| Perplexity           | 5.928      |
+| AveragePolicyProb[0] | 0.17367    |
+| AveragePolicyProb[1] | 0.13398    |
+| AveragePolicyProb[2] | 0.17041    |
+| AveragePolicyProb[3] | 0.20404    |
+| AveragePolicyProb[4] | 0.14011    |
+| AveragePolicyProb[5] | 0.17779    |
+| |VfPred|             | 1.9188     |
+| |VfTarget|           | 1.9238     |
+| VfLoss               | 0.12491    |
+-------------------------------------
+[2021-12-20 19:19:34.211384 UTC] Saving snapshot
+[2021-12-20 19:19:34.211989 UTC] Starting epoch 136
+-------------------------------------
+| Epoch                | 136        |
+| AverageReturn        | -20.42     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.7236     |
+| AverageEpisodeLength | 3701.7     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5380       |
+| StdEpisodeLength     | 452.19     |
+| TotalNEpisodes       | 1541       |
+| TotalNSamples        | 5.4808e+06 |
+| Entropy              | 1.7813     |
+| Perplexity           | 5.9377     |
+| AveragePolicyProb[0] | 0.18786    |
+| AveragePolicyProb[1] | 0.14644    |
+| AveragePolicyProb[2] | 0.15058    |
+| AveragePolicyProb[3] | 0.19249    |
+| AveragePolicyProb[4] | 0.13875    |
+| AveragePolicyProb[5] | 0.18387    |
+| |VfPred|             | 1.8908     |
+| |VfTarget|           | 1.8949     |
+| VfLoss               | 0.12538    |
+-------------------------------------
+[2021-12-20 19:20:04.350094 UTC] Saving snapshot
+[2021-12-20 19:20:04.351793 UTC] Starting epoch 137
+------------------------------------
+| Epoch                | 137       |
+| AverageReturn        | -20.46    |
+| MinReturn            | -21       |
+| MaxReturn            | -18       |
+| StdReturn            | 0.72691   |
+| AverageEpisodeLength | 3682      |
+| MinEpisodeLength     | 3128      |
+| MaxEpisodeLength     | 5219      |
+| StdEpisodeLength     | 430.52    |
+| TotalNEpisodes       | 1551      |
+| TotalNSamples        | 5.518e+06 |
+| Entropy              | 1.7847    |
+| Perplexity           | 5.9575    |
+| AveragePolicyProb[0] | 0.18938   |
+| AveragePolicyProb[1] | 0.15197   |
+| AveragePolicyProb[2] | 0.14283   |
+| AveragePolicyProb[3] | 0.18611   |
+| AveragePolicyProb[4] | 0.15267   |
+| AveragePolicyProb[5] | 0.17705   |
+| |VfPred|             | 2.0106    |
+| |VfTarget|           | 2.0156    |
+| VfLoss               | 0.13661   |
+------------------------------------
+[2021-12-20 19:20:32.384808 UTC] Saving snapshot
+[2021-12-20 19:20:32.390162 UTC] Starting epoch 138
+-------------------------------------
+| Epoch                | 138        |
+| AverageReturn        | -20.42     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.75073    |
+| AverageEpisodeLength | 3697.9     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5634       |
+| StdEpisodeLength     | 453.3      |
+| TotalNEpisodes       | 1563       |
+| TotalNSamples        | 5.5645e+06 |
+| Entropy              | 1.7868     |
+| Perplexity           | 5.9703     |
+| AveragePolicyProb[0] | 0.18213    |
+| AveragePolicyProb[1] | 0.15684    |
+| AveragePolicyProb[2] | 0.15153    |
+| AveragePolicyProb[3] | 0.17152    |
+| AveragePolicyProb[4] | 0.15726    |
+| AveragePolicyProb[5] | 0.18071    |
+| |VfPred|             | 1.899      |
+| |VfTarget|           | 1.8967     |
+| VfLoss               | 0.12653    |
+-------------------------------------
+[2021-12-20 19:21:00.968213 UTC] Saving snapshot
+[2021-12-20 19:21:00.969214 UTC] Starting epoch 139
+-------------------------------------
+| Epoch                | 139        |
+| AverageReturn        | -20.4      |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.76158    |
+| AverageEpisodeLength | 3727.5     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5634       |
+| StdEpisodeLength     | 452.36     |
+| TotalNEpisodes       | 1573       |
+| TotalNSamples        | 5.6023e+06 |
+| Entropy              | 1.7884     |
+| Perplexity           | 5.9799     |
+| AveragePolicyProb[0] | 0.16355    |
+| AveragePolicyProb[1] | 0.15459    |
+| AveragePolicyProb[2] | 0.16687    |
+| AveragePolicyProb[3] | 0.15909    |
+| AveragePolicyProb[4] | 0.17969    |
+| AveragePolicyProb[5] | 0.1762     |
+| |VfPred|             | 2.0433     |
+| |VfTarget|           | 2.0507     |
+| VfLoss               | 0.12747    |
+-------------------------------------
+[2021-12-20 19:21:29.708762 UTC] Saving snapshot
+[2021-12-20 19:21:29.711310 UTC] Starting epoch 140
+-------------------------------------
+| Epoch                | 140        |
+| AverageReturn        | -20.33     |
+| MinReturn            | -21        |
+| MaxReturn            | -16        |
+| StdReturn            | 0.87241    |
+| AverageEpisodeLength | 3738.3     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5634       |
+| StdEpisodeLength     | 469.37     |
+| TotalNEpisodes       | 1583       |
+| TotalNSamples        | 5.6393e+06 |
+| Entropy              | 1.7882     |
+| Perplexity           | 5.979      |
+| AveragePolicyProb[0] | 0.1708     |
+| AveragePolicyProb[1] | 0.15162    |
+| AveragePolicyProb[2] | 0.15422    |
+| AveragePolicyProb[3] | 0.17391    |
+| AveragePolicyProb[4] | 0.16907    |
+| AveragePolicyProb[5] | 0.18039    |
+| |VfPred|             | 1.8606     |
+| |VfTarget|           | 1.8628     |
+| VfLoss               | 0.12379    |
+-------------------------------------
+[2021-12-20 19:21:59.858841 UTC] Saving snapshot
+[2021-12-20 19:21:59.927918 UTC] Starting epoch 141
+-------------------------------------
+| Epoch                | 141        |
+| AverageReturn        | -20.29     |
+| MinReturn            | -21        |
+| MaxReturn            | -16        |
+| StdReturn            | 0.84018    |
+| AverageEpisodeLength | 3772.7     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5634       |
+| StdEpisodeLength     | 482.57     |
+| TotalNEpisodes       | 1598       |
+| TotalNSamples        | 5.6974e+06 |
+| Entropy              | 1.7858     |
+| Perplexity           | 5.9645     |
+| AveragePolicyProb[0] | 0.18784    |
+| AveragePolicyProb[1] | 0.15761    |
+| AveragePolicyProb[2] | 0.14318    |
+| AveragePolicyProb[3] | 0.16226    |
+| AveragePolicyProb[4] | 0.16733    |
+| AveragePolicyProb[5] | 0.18179    |
+| |VfPred|             | 1.9634     |
+| |VfTarget|           | 1.9595     |
+| VfLoss               | 0.11542    |
+-------------------------------------
+[2021-12-20 19:22:28.640993 UTC] Saving snapshot
+[2021-12-20 19:22:28.647523 UTC] Starting epoch 142
+-------------------------------------
+| Epoch                | 142        |
+| AverageReturn        | -20.28     |
+| MinReturn            | -21        |
+| MaxReturn            | -16        |
+| StdReturn            | 0.83762    |
+| AverageEpisodeLength | 3783.9     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5634       |
+| StdEpisodeLength     | 478.67     |
+| TotalNEpisodes       | 1606       |
+| TotalNSamples        | 5.7256e+06 |
+| Entropy              | 1.7772     |
+| Perplexity           | 5.913      |
+| AveragePolicyProb[0] | 0.19589    |
+| AveragePolicyProb[1] | 0.16272    |
+| AveragePolicyProb[2] | 0.12543    |
+| AveragePolicyProb[3] | 0.15945    |
+| AveragePolicyProb[4] | 0.15419    |
+| AveragePolicyProb[5] | 0.20232    |
+| |VfPred|             | 2.0302     |
+| |VfTarget|           | 2.0313     |
+| VfLoss               | 0.10973    |
+-------------------------------------
+[2021-12-20 19:22:56.528028 UTC] Saving snapshot
+[2021-12-20 19:22:56.528506 UTC] Starting epoch 143
+-------------------------------------
+| Epoch                | 143        |
+| AverageReturn        | -20.24     |
+| MinReturn            | -21        |
+| MaxReturn            | -16        |
+| StdReturn            | 0.84994    |
+| AverageEpisodeLength | 3781.4     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5634       |
+| StdEpisodeLength     | 480.26     |
+| TotalNEpisodes       | 1614       |
+| TotalNSamples        | 5.7547e+06 |
+| Entropy              | 1.7789     |
+| Perplexity           | 5.9235     |
+| AveragePolicyProb[0] | 0.16055    |
+| AveragePolicyProb[1] | 0.18027    |
+| AveragePolicyProb[2] | 0.12024    |
+| AveragePolicyProb[3] | 0.16793    |
+| AveragePolicyProb[4] | 0.18253    |
+| AveragePolicyProb[5] | 0.18848    |
+| |VfPred|             | 1.9285     |
+| |VfTarget|           | 1.933      |
+| VfLoss               | 0.13123    |
+-------------------------------------
+[2021-12-20 19:23:25.270497 UTC] Saving snapshot
+[2021-12-20 19:23:25.274985 UTC] Starting epoch 144
+-------------------------------------
+| Epoch                | 144        |
+| AverageReturn        | -20.22     |
+| MinReturn            | -21        |
+| MaxReturn            | -16        |
+| StdReturn            | 0.86695    |
+| AverageEpisodeLength | 3756.7     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5634       |
+| StdEpisodeLength     | 456.41     |
+| TotalNEpisodes       | 1630       |
+| TotalNSamples        | 5.8162e+06 |
+| Entropy              | 1.7773     |
+| Perplexity           | 5.9137     |
+| AveragePolicyProb[0] | 0.16386    |
+| AveragePolicyProb[1] | 0.17536    |
+| AveragePolicyProb[2] | 0.13032    |
+| AveragePolicyProb[3] | 0.20797    |
+| AveragePolicyProb[4] | 0.14172    |
+| AveragePolicyProb[5] | 0.18076    |
+| |VfPred|             | 1.867      |
+| |VfTarget|           | 1.8663     |
+| VfLoss               | 0.11946    |
+-------------------------------------
+[2021-12-20 19:23:56.830826 UTC] Saving snapshot
+[2021-12-20 19:23:56.831178 UTC] Starting epoch 145
+------------------------------------
+| Epoch                | 145       |
+| AverageReturn        | -20.2     |
+| MinReturn            | -21       |
+| MaxReturn            | -16       |
+| StdReturn            | 0.87178   |
+| AverageEpisodeLength | 3742.9    |
+| MinEpisodeLength     | 3128      |
+| MaxEpisodeLength     | 5634      |
+| StdEpisodeLength     | 455.02    |
+| TotalNEpisodes       | 1639      |
+| TotalNSamples        | 5.848e+06 |
+| Entropy              | 1.7734    |
+| Perplexity           | 5.8909    |
+| AveragePolicyProb[0] | 0.18498   |
+| AveragePolicyProb[1] | 0.16663   |
+| AveragePolicyProb[2] | 0.12541   |
+| AveragePolicyProb[3] | 0.21253   |
+| AveragePolicyProb[4] | 0.13399   |
+| AveragePolicyProb[5] | 0.17646   |
+| |VfPred|             | 2.1618    |
+| |VfTarget|           | 2.1669    |
+| VfLoss               | 0.10644   |
+------------------------------------
+[2021-12-20 19:24:25.335722 UTC] Saving snapshot
+[2021-12-20 19:24:25.343093 UTC] Starting epoch 146
+-------------------------------------
+| Epoch                | 146        |
+| AverageReturn        | -20.22     |
+| MinReturn            | -21        |
+| MaxReturn            | -16        |
+| StdReturn            | 0.86695    |
+| AverageEpisodeLength | 3729.7     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5634       |
+| StdEpisodeLength     | 460.15     |
+| TotalNEpisodes       | 1647       |
+| TotalNSamples        | 5.8771e+06 |
+| Entropy              | 1.7782     |
+| Perplexity           | 5.9193     |
+| AveragePolicyProb[0] | 0.16355    |
+| AveragePolicyProb[1] | 0.16602    |
+| AveragePolicyProb[2] | 0.12624    |
+| AveragePolicyProb[3] | 0.20984    |
+| AveragePolicyProb[4] | 0.15505    |
+| AveragePolicyProb[5] | 0.1793     |
+| |VfPred|             | 2.037      |
+| |VfTarget|           | 2.0336     |
+| VfLoss               | 0.12377    |
+-------------------------------------
+[2021-12-20 19:24:54.702568 UTC] Saving snapshot
+[2021-12-20 19:24:54.706115 UTC] Starting epoch 147
+-------------------------------------
+| Epoch                | 147        |
+| AverageReturn        | -20.19     |
+| MinReturn            | -21        |
+| MaxReturn            | -16        |
+| StdReturn            | 0.85668    |
+| AverageEpisodeLength | 3731.4     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5053       |
+| StdEpisodeLength     | 429.96     |
+| TotalNEpisodes       | 1662       |
+| TotalNSamples        | 5.9326e+06 |
+| Entropy              | 1.766      |
+| Perplexity           | 5.8472     |
+| AveragePolicyProb[0] | 0.12444    |
+| AveragePolicyProb[1] | 0.16172    |
+| AveragePolicyProb[2] | 0.12063    |
+| AveragePolicyProb[3] | 0.20325    |
+| AveragePolicyProb[4] | 0.1761     |
+| AveragePolicyProb[5] | 0.21385    |
+| |VfPred|             | 2.0305     |
+| |VfTarget|           | 2.0216     |
+| VfLoss               | 0.11509    |
+-------------------------------------
+[2021-12-20 19:25:23.565407 UTC] Saving snapshot
+[2021-12-20 19:25:23.570678 UTC] Starting epoch 148
+-------------------------------------
+| Epoch                | 148        |
+| AverageReturn        | -20.19     |
+| MinReturn            | -21        |
+| MaxReturn            | -16        |
+| StdReturn            | 0.83301    |
+| AverageEpisodeLength | 3702.4     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5053       |
+| StdEpisodeLength     | 416.48     |
+| TotalNEpisodes       | 1671       |
+| TotalNSamples        | 5.9655e+06 |
+| Entropy              | 1.76       |
+| Perplexity           | 5.8124     |
+| AveragePolicyProb[0] | 0.10681    |
+| AveragePolicyProb[1] | 0.18147    |
+| AveragePolicyProb[2] | 0.11985    |
+| AveragePolicyProb[3] | 0.18346    |
+| AveragePolicyProb[4] | 0.19923    |
+| AveragePolicyProb[5] | 0.20918    |
+| |VfPred|             | 1.9789     |
+| |VfTarget|           | 1.987      |
+| VfLoss               | 0.11628    |
+-------------------------------------
+[2021-12-20 19:25:58.061000 UTC] Saving snapshot
+[2021-12-20 19:25:58.061590 UTC] Starting epoch 149
+------------------------------------
+| Epoch                | 149       |
+| AverageReturn        | -20.21    |
+| MinReturn            | -21       |
+| MaxReturn            | -18       |
+| StdReturn            | 0.72519   |
+| AverageEpisodeLength | 3712.9    |
+| MinEpisodeLength     | 3128      |
+| MaxEpisodeLength     | 5050      |
+| StdEpisodeLength     | 414.86    |
+| TotalNEpisodes       | 1681      |
+| TotalNSamples        | 6.004e+06 |
+| Entropy              | 1.7557    |
+| Perplexity           | 5.7874    |
+| AveragePolicyProb[0] | 0.10733   |
+| AveragePolicyProb[1] | 0.18247   |
+| AveragePolicyProb[2] | 0.12067   |
+| AveragePolicyProb[3] | 0.16162   |
+| AveragePolicyProb[4] | 0.21971   |
+| AveragePolicyProb[5] | 0.2082    |
+| |VfPred|             | 2.0076    |
+| |VfTarget|           | 2.0045    |
+| VfLoss               | 0.12075   |
+------------------------------------
+[2021-12-20 19:26:33.033346 UTC] Saving snapshot
+[2021-12-20 19:26:33.037089 UTC] Starting epoch 150
+-------------------------------------
+| Epoch                | 150        |
+| AverageReturn        | -20.22     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.79473    |
+| AverageEpisodeLength | 3700.8     |
+| MinEpisodeLength     | 3128       |
+| MaxEpisodeLength     | 5050       |
+| StdEpisodeLength     | 439.63     |
+| TotalNEpisodes       | 1694       |
+| TotalNSamples        | 6.0507e+06 |
+| Entropy              | 1.7512     |
+| Perplexity           | 5.7614     |
+| AveragePolicyProb[0] | 0.094439   |
+| AveragePolicyProb[1] | 0.18772    |
+| AveragePolicyProb[2] | 0.13191    |
+| AveragePolicyProb[3] | 0.16551    |
+| AveragePolicyProb[4] | 0.23099    |
+| AveragePolicyProb[5] | 0.18943    |
+| |VfPred|             | 1.9942     |
+| |VfTarget|           | 1.9958     |
+| VfLoss               | 0.12859    |
+-------------------------------------
+[2021-12-20 19:27:02.149667 UTC] Saving snapshot
+[2021-12-20 19:27:02.192479 UTC] Starting epoch 151
+-------------------------------------
+| Epoch                | 151        |
+| AverageReturn        | -20.23     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.79819    |
+| AverageEpisodeLength | 3681.2     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4808       |
+| StdEpisodeLength     | 419.08     |
+| TotalNEpisodes       | 1701       |
+| TotalNSamples        | 6.0761e+06 |
+| Entropy              | 1.7427     |
+| Perplexity           | 5.7126     |
+| AveragePolicyProb[0] | 0.076635   |
+| AveragePolicyProb[1] | 0.20831    |
+| AveragePolicyProb[2] | 0.13321    |
+| AveragePolicyProb[3] | 0.1911     |
+| AveragePolicyProb[4] | 0.1842     |
+| AveragePolicyProb[5] | 0.20655    |
+| |VfPred|             | 2.1487     |
+| |VfTarget|           | 2.1481     |
+| VfLoss               | 0.12405    |
+-------------------------------------
+[2021-12-20 19:27:30.978417 UTC] Saving snapshot
+[2021-12-20 19:27:30.983612 UTC] Starting epoch 152
+-------------------------------------
+| Epoch                | 152        |
+| AverageReturn        | -20.32     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.77305    |
+| AverageEpisodeLength | 3696.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4808       |
+| StdEpisodeLength     | 427.29     |
+| TotalNEpisodes       | 1716       |
+| TotalNSamples        | 6.1325e+06 |
+| Entropy              | 1.7457     |
+| Perplexity           | 5.7301     |
+| AveragePolicyProb[0] | 0.080953   |
+| AveragePolicyProb[1] | 0.2147     |
+| AveragePolicyProb[2] | 0.13479    |
+| AveragePolicyProb[3] | 0.19195    |
+| AveragePolicyProb[4] | 0.16957    |
+| AveragePolicyProb[5] | 0.20804    |
+| |VfPred|             | 2.0243     |
+| |VfTarget|           | 2.0046     |
+| VfLoss               | 0.13061    |
+-------------------------------------
+[2021-12-20 19:28:00.436711 UTC] Saving snapshot
+[2021-12-20 19:28:00.438255 UTC] Starting epoch 153
+-------------------------------------
+| Epoch                | 153        |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.76649    |
+| AverageEpisodeLength | 3691.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4720       |
+| StdEpisodeLength     | 418.35     |
+| TotalNEpisodes       | 1726       |
+| TotalNSamples        | 6.1696e+06 |
+| Entropy              | 1.7505     |
+| Perplexity           | 5.7576     |
+| AveragePolicyProb[0] | 0.089707   |
+| AveragePolicyProb[1] | 0.22921    |
+| AveragePolicyProb[2] | 0.14223    |
+| AveragePolicyProb[3] | 0.1716     |
+| AveragePolicyProb[4] | 0.15892    |
+| AveragePolicyProb[5] | 0.20833    |
+| |VfPred|             | 2.0444     |
+| |VfTarget|           | 2.0486     |
+| VfLoss               | 0.10836    |
+-------------------------------------
+[2021-12-20 19:28:30.641455 UTC] Saving snapshot
+[2021-12-20 19:28:30.641934 UTC] Starting epoch 154
+-------------------------------------
+| Epoch                | 154        |
+| AverageReturn        | -20.36     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.79398    |
+| AverageEpisodeLength | 3687       |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 4720       |
+| StdEpisodeLength     | 415.93     |
+| TotalNEpisodes       | 1735       |
+| TotalNSamples        | 6.2015e+06 |
+| Entropy              | 1.7601     |
+| Perplexity           | 5.8128     |
+| AveragePolicyProb[0] | 0.10212    |
+| AveragePolicyProb[1] | 0.22849    |
+| AveragePolicyProb[2] | 0.15391    |
+| AveragePolicyProb[3] | 0.1815     |
+| AveragePolicyProb[4] | 0.14247    |
+| AveragePolicyProb[5] | 0.1915     |
+| |VfPred|             | 2.0045     |
+| |VfTarget|           | 2.0061     |
+| VfLoss               | 0.11529    |
+-------------------------------------
+[2021-12-20 19:28:58.690444 UTC] Saving snapshot
+[2021-12-20 19:28:58.691289 UTC] Starting epoch 155
+-------------------------------------
+| Epoch                | 155        |
+| AverageReturn        | -20.38     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.7846     |
+| AverageEpisodeLength | 3691.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5072       |
+| StdEpisodeLength     | 430.02     |
+| TotalNEpisodes       | 1747       |
+| TotalNSamples        | 6.2462e+06 |
+| Entropy              | 1.7668     |
+| Perplexity           | 5.852      |
+| AveragePolicyProb[0] | 0.10784    |
+| AveragePolicyProb[1] | 0.21522    |
+| AveragePolicyProb[2] | 0.157      |
+| AveragePolicyProb[3] | 0.18934    |
+| AveragePolicyProb[4] | 0.14195    |
+| AveragePolicyProb[5] | 0.18865    |
+| |VfPred|             | 2.103      |
+| |VfTarget|           | 2.1021     |
+| VfLoss               | 0.12536    |
+-------------------------------------
+[2021-12-20 19:29:27.971649 UTC] Saving snapshot
+[2021-12-20 19:29:27.974478 UTC] Starting epoch 156
+-------------------------------------
+| Epoch                | 156        |
+| AverageReturn        | -20.36     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.80647    |
+| AverageEpisodeLength | 3677.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5072       |
+| StdEpisodeLength     | 422.77     |
+| TotalNEpisodes       | 1760       |
+| TotalNSamples        | 6.2929e+06 |
+| Entropy              | 1.7641     |
+| Perplexity           | 5.8366     |
+| AveragePolicyProb[0] | 0.10278    |
+| AveragePolicyProb[1] | 0.20051    |
+| AveragePolicyProb[2] | 0.15181    |
+| AveragePolicyProb[3] | 0.2101     |
+| AveragePolicyProb[4] | 0.14989    |
+| AveragePolicyProb[5] | 0.18491    |
+| |VfPred|             | 1.962      |
+| |VfTarget|           | 1.9564     |
+| VfLoss               | 0.11777    |
+-------------------------------------
+[2021-12-20 19:29:57.868294 UTC] Saving snapshot
+[2021-12-20 19:29:57.869689 UTC] Starting epoch 157
+-------------------------------------
+| Epoch                | 157        |
+| AverageReturn        | -20.33     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.8838     |
+| AverageEpisodeLength | 3700.1     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5072       |
+| StdEpisodeLength     | 443.63     |
+| TotalNEpisodes       | 1769       |
+| TotalNSamples        | 6.3277e+06 |
+| Entropy              | 1.7478     |
+| Perplexity           | 5.7418     |
+| AveragePolicyProb[0] | 0.089927   |
+| AveragePolicyProb[1] | 0.20068    |
+| AveragePolicyProb[2] | 0.1692     |
+| AveragePolicyProb[3] | 0.24124    |
+| AveragePolicyProb[4] | 0.14233    |
+| AveragePolicyProb[5] | 0.15662    |
+| |VfPred|             | 2.1537     |
+| |VfTarget|           | 2.1459     |
+| VfLoss               | 0.11623    |
+-------------------------------------
+[2021-12-20 19:30:27.217306 UTC] Saving snapshot
+[2021-12-20 19:30:27.218324 UTC] Starting epoch 158
+------------------------------------
+| Epoch                | 158       |
+| AverageReturn        | -20.28    |
+| MinReturn            | -21       |
+| MaxReturn            | -17       |
+| StdReturn            | 0.92822   |
+| AverageEpisodeLength | 3687.3    |
+| MinEpisodeLength     | 3056      |
+| MaxEpisodeLength     | 5072      |
+| StdEpisodeLength     | 420.24    |
+| TotalNEpisodes       | 1779      |
+| TotalNSamples        | 6.366e+06 |
+| Entropy              | 1.7252    |
+| Perplexity           | 5.6135    |
+| AveragePolicyProb[0] | 0.073935  |
+| AveragePolicyProb[1] | 0.19708   |
+| AveragePolicyProb[2] | 0.1728    |
+| AveragePolicyProb[3] | 0.23883   |
+| AveragePolicyProb[4] | 0.13502   |
+| AveragePolicyProb[5] | 0.18232   |
+| |VfPred|             | 1.9213    |
+| |VfTarget|           | 1.9173    |
+| VfLoss               | 0.10709   |
+------------------------------------
+[2021-12-20 19:30:55.986016 UTC] Saving snapshot
+[2021-12-20 19:30:55.986793 UTC] Starting epoch 159
+-------------------------------------
+| Epoch                | 159        |
+| AverageReturn        | -20.29     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.88651    |
+| AverageEpisodeLength | 3699.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5072       |
+| StdEpisodeLength     | 394.26     |
+| TotalNEpisodes       | 1790       |
+| TotalNSamples        | 6.4072e+06 |
+| Entropy              | 1.7434     |
+| Perplexity           | 5.7165     |
+| AveragePolicyProb[0] | 0.070372   |
+| AveragePolicyProb[1] | 0.19019    |
+| AveragePolicyProb[2] | 0.16129    |
+| AveragePolicyProb[3] | 0.21815    |
+| AveragePolicyProb[4] | 0.17787    |
+| AveragePolicyProb[5] | 0.18214    |
+| |VfPred|             | 2.0711     |
+| |VfTarget|           | 2.0716     |
+| VfLoss               | 0.13128    |
+-------------------------------------
+[2021-12-20 19:31:25.143970 UTC] Saving snapshot
+[2021-12-20 19:31:25.144842 UTC] Starting epoch 160
+-------------------------------------
+| Epoch                | 160        |
+| AverageReturn        | -20.24     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.88453    |
+| AverageEpisodeLength | 3721.7     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5072       |
+| StdEpisodeLength     | 392.34     |
+| TotalNEpisodes       | 1801       |
+| TotalNSamples        | 6.4483e+06 |
+| Entropy              | 1.7677     |
+| Perplexity           | 5.8572     |
+| AveragePolicyProb[0] | 0.099182   |
+| AveragePolicyProb[1] | 0.16746    |
+| AveragePolicyProb[2] | 0.17073    |
+| AveragePolicyProb[3] | 0.21139    |
+| AveragePolicyProb[4] | 0.16908    |
+| AveragePolicyProb[5] | 0.18215    |
+| |VfPred|             | 1.7727     |
+| |VfTarget|           | 1.779      |
+| VfLoss               | 0.11723    |
+-------------------------------------
+[2021-12-20 19:31:55.294532 UTC] Saving snapshot
+[2021-12-20 19:31:55.385686 UTC] Starting epoch 161
+-------------------------------------
+| Epoch                | 161        |
+| AverageReturn        | -20.19     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.95598    |
+| AverageEpisodeLength | 3734.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5072       |
+| StdEpisodeLength     | 401.37     |
+| TotalNEpisodes       | 1811       |
+| TotalNSamples        | 6.4882e+06 |
+| Entropy              | 1.77       |
+| Perplexity           | 5.8707     |
+| AveragePolicyProb[0] | 0.10068    |
+| AveragePolicyProb[1] | 0.15901    |
+| AveragePolicyProb[2] | 0.17254    |
+| AveragePolicyProb[3] | 0.18325    |
+| AveragePolicyProb[4] | 0.19194    |
+| AveragePolicyProb[5] | 0.19258    |
+| |VfPred|             | 1.8283     |
+| |VfTarget|           | 1.8269     |
+| VfLoss               | 0.13405    |
+-------------------------------------
+[2021-12-20 19:32:24.721268 UTC] Saving snapshot
+[2021-12-20 19:32:24.724592 UTC] Starting epoch 162
+-------------------------------------
+| Epoch                | 162        |
+| AverageReturn        | -20.09     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 1.0497     |
+| AverageEpisodeLength | 3787.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5505       |
+| StdEpisodeLength     | 472.15     |
+| TotalNEpisodes       | 1821       |
+| TotalNSamples        | 6.5289e+06 |
+| Entropy              | 1.7699     |
+| Perplexity           | 5.8705     |
+| AveragePolicyProb[0] | 0.10438    |
+| AveragePolicyProb[1] | 0.16811    |
+| AveragePolicyProb[2] | 0.20195    |
+| AveragePolicyProb[3] | 0.17611    |
+| AveragePolicyProb[4] | 0.16558    |
+| AveragePolicyProb[5] | 0.18386    |
+| |VfPred|             | 1.964      |
+| |VfTarget|           | 1.9764     |
+| VfLoss               | 0.12429    |
+-------------------------------------
+[2021-12-20 19:32:53.772862 UTC] Saving snapshot
+[2021-12-20 19:32:53.773524 UTC] Starting epoch 163
+-------------------------------------
+| Epoch                | 163        |
+| AverageReturn        | -20.1      |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 1.0344     |
+| AverageEpisodeLength | 3794.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5505       |
+| StdEpisodeLength     | 466.44     |
+| TotalNEpisodes       | 1831       |
+| TotalNSamples        | 6.5669e+06 |
+| Entropy              | 1.7688     |
+| Perplexity           | 5.8638     |
+| AveragePolicyProb[0] | 0.1006     |
+| AveragePolicyProb[1] | 0.17248    |
+| AveragePolicyProb[2] | 0.19263    |
+| AveragePolicyProb[3] | 0.19347    |
+| AveragePolicyProb[4] | 0.1551     |
+| AveragePolicyProb[5] | 0.18573    |
+| |VfPred|             | 2.1023     |
+| |VfTarget|           | 2.1049     |
+| VfLoss               | 0.11604    |
+-------------------------------------
+[2021-12-20 19:33:23.266743 UTC] Saving snapshot
+[2021-12-20 19:33:23.268191 UTC] Starting epoch 164
+-------------------------------------
+| Epoch                | 164        |
+| AverageReturn        | -20.06     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 1.018      |
+| AverageEpisodeLength | 3803.4     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5505       |
+| StdEpisodeLength     | 463.06     |
+| TotalNEpisodes       | 1841       |
+| TotalNSamples        | 6.6027e+06 |
+| Entropy              | 1.7619     |
+| Perplexity           | 5.8237     |
+| AveragePolicyProb[0] | 0.094537   |
+| AveragePolicyProb[1] | 0.19236    |
+| AveragePolicyProb[2] | 0.19846    |
+| AveragePolicyProb[3] | 0.19125    |
+| AveragePolicyProb[4] | 0.14106    |
+| AveragePolicyProb[5] | 0.18234    |
+| |VfPred|             | 1.8514     |
+| |VfTarget|           | 1.845      |
+| VfLoss               | 0.11719    |
+-------------------------------------
+[2021-12-20 19:33:53.009097 UTC] Saving snapshot
+[2021-12-20 19:33:53.014388 UTC] Starting epoch 165
+-------------------------------------
+| Epoch                | 165        |
+| AverageReturn        | -20.06     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.98813    |
+| AverageEpisodeLength | 3805.5     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5505       |
+| StdEpisodeLength     | 430.81     |
+| TotalNEpisodes       | 1852       |
+| TotalNSamples        | 6.6453e+06 |
+| Entropy              | 1.7546     |
+| Perplexity           | 5.7814     |
+| AveragePolicyProb[0] | 0.099939   |
+| AveragePolicyProb[1] | 0.21968    |
+| AveragePolicyProb[2] | 0.18695    |
+| AveragePolicyProb[3] | 0.18248    |
+| AveragePolicyProb[4] | 0.11697    |
+| AveragePolicyProb[5] | 0.19398    |
+| |VfPred|             | 1.9496     |
+| |VfTarget|           | 1.9576     |
+| VfLoss               | 0.13017    |
+-------------------------------------
+[2021-12-20 19:34:22.508760 UTC] Saving snapshot
+[2021-12-20 19:34:22.516967 UTC] Starting epoch 166
+-------------------------------------
+| Epoch                | 166        |
+| AverageReturn        | -20.1      |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.9434     |
+| AverageEpisodeLength | 3823.8     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5505       |
+| StdEpisodeLength     | 454.29     |
+| TotalNEpisodes       | 1866       |
+| TotalNSamples        | 6.6989e+06 |
+| Entropy              | 1.752      |
+| Perplexity           | 5.766      |
+| AveragePolicyProb[0] | 0.10167    |
+| AveragePolicyProb[1] | 0.22794    |
+| AveragePolicyProb[2] | 0.1782     |
+| AveragePolicyProb[3] | 0.19779    |
+| AveragePolicyProb[4] | 0.11223    |
+| AveragePolicyProb[5] | 0.18216    |
+| |VfPred|             | 1.9166     |
+| |VfTarget|           | 1.9199     |
+| VfLoss               | 0.10567    |
+-------------------------------------
+[2021-12-20 19:34:51.826932 UTC] Saving snapshot
+[2021-12-20 19:34:51.828284 UTC] Starting epoch 167
+-------------------------------------
+| Epoch                | 167        |
+| AverageReturn        | -20.16     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.93509    |
+| AverageEpisodeLength | 3792.6     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5505       |
+| StdEpisodeLength     | 458.67     |
+| TotalNEpisodes       | 1876       |
+| TotalNSamples        | 6.7332e+06 |
+| Entropy              | 1.7546     |
+| Perplexity           | 5.7809     |
+| AveragePolicyProb[0] | 0.10431    |
+| AveragePolicyProb[1] | 0.22321    |
+| AveragePolicyProb[2] | 0.17609    |
+| AveragePolicyProb[3] | 0.20077    |
+| AveragePolicyProb[4] | 0.11491    |
+| AveragePolicyProb[5] | 0.18072    |
+| |VfPred|             | 2.1537     |
+| |VfTarget|           | 2.1613     |
+| VfLoss               | 0.12128    |
+-------------------------------------
+[2021-12-20 19:35:20.993611 UTC] Saving snapshot
+[2021-12-20 19:35:21.003285 UTC] Starting epoch 168
+-------------------------------------
+| Epoch                | 168        |
+| AverageReturn        | -20.2      |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.89443    |
+| AverageEpisodeLength | 3762.3     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5505       |
+| StdEpisodeLength     | 465.28     |
+| TotalNEpisodes       | 1887       |
+| TotalNSamples        | 6.7722e+06 |
+| Entropy              | 1.7487     |
+| Perplexity           | 5.7474     |
+| AveragePolicyProb[0] | 0.090842   |
+| AveragePolicyProb[1] | 0.19327    |
+| AveragePolicyProb[2] | 0.18567    |
+| AveragePolicyProb[3] | 0.2201     |
+| AveragePolicyProb[4] | 0.11833    |
+| AveragePolicyProb[5] | 0.19179    |
+| |VfPred|             | 2.0487     |
+| |VfTarget|           | 2.048      |
+| VfLoss               | 0.10758    |
+-------------------------------------
+[2021-12-20 19:35:50.733029 UTC] Saving snapshot
+[2021-12-20 19:35:50.739725 UTC] Starting epoch 169
+-------------------------------------
+| Epoch                | 169        |
+| AverageReturn        | -20.26     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.87886    |
+| AverageEpisodeLength | 3739.9     |
+| MinEpisodeLength     | 3056       |
+| MaxEpisodeLength     | 5505       |
+| StdEpisodeLength     | 461.63     |
+| TotalNEpisodes       | 1898       |
+| TotalNSamples        | 6.8118e+06 |
+| Entropy              | 1.7674     |
+| Perplexity           | 5.8553     |
+| AveragePolicyProb[0] | 0.11077    |
+| AveragePolicyProb[1] | 0.17016    |
+| AveragePolicyProb[2] | 0.18558    |
+| AveragePolicyProb[3] | 0.20694    |
+| AveragePolicyProb[4] | 0.13112    |
+| AveragePolicyProb[5] | 0.19544    |
+| |VfPred|             | 1.9454     |
+| |VfTarget|           | 1.9466     |
+| VfLoss               | 0.1035     |
+-------------------------------------
+[2021-12-20 19:36:20.584292 UTC] Saving snapshot
+[2021-12-20 19:36:20.584959 UTC] Starting epoch 170
+------------------------------------
+| Epoch                | 170       |
+| AverageReturn        | -20.3     |
+| MinReturn            | -21       |
+| MaxReturn            | -17       |
+| StdReturn            | 0.80623   |
+| AverageEpisodeLength | 3732.5    |
+| MinEpisodeLength     | 3056      |
+| MaxEpisodeLength     | 5505      |
+| StdEpisodeLength     | 463.73    |
+| TotalNEpisodes       | 1907      |
+| TotalNSamples        | 6.846e+06 |
+| Entropy              | 1.7671    |
+| Perplexity           | 5.8541    |
+| AveragePolicyProb[0] | 0.11513   |
+| AveragePolicyProb[1] | 0.1566    |
+| AveragePolicyProb[2] | 0.2044    |
+| AveragePolicyProb[3] | 0.18572   |
+| AveragePolicyProb[4] | 0.13013   |
+| AveragePolicyProb[5] | 0.20803   |
+| |VfPred|             | 2.1014    |
+| |VfTarget|           | 2.1115    |
+| VfLoss               | 0.10336   |
+------------------------------------
+[2021-12-20 19:36:49.387489 UTC] Saving snapshot
+[2021-12-20 19:36:49.424062 UTC] Starting epoch 171
+-------------------------------------
+| Epoch                | 171        |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.71239    |
+| AverageEpisodeLength | 3692.6     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5391       |
+| StdEpisodeLength     | 409.77     |
+| TotalNEpisodes       | 1920       |
+| TotalNSamples        | 6.8927e+06 |
+| Entropy              | 1.7688     |
+| Perplexity           | 5.8637     |
+| AveragePolicyProb[0] | 0.12109    |
+| AveragePolicyProb[1] | 0.15104    |
+| AveragePolicyProb[2] | 0.22162    |
+| AveragePolicyProb[3] | 0.18373    |
+| AveragePolicyProb[4] | 0.134      |
+| AveragePolicyProb[5] | 0.18853    |
+| |VfPred|             | 2.0724     |
+| |VfTarget|           | 2.054      |
+| VfLoss               | 0.12894    |
+-------------------------------------
+[2021-12-20 19:37:18.513835 UTC] Saving snapshot
+[2021-12-20 19:37:18.514699 UTC] Starting epoch 172
+-------------------------------------
+| Epoch                | 172        |
+| AverageReturn        | -20.38     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.66       |
+| AverageEpisodeLength | 3675.2     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5287       |
+| StdEpisodeLength     | 376.46     |
+| TotalNEpisodes       | 1930       |
+| TotalNSamples        | 6.9312e+06 |
+| Entropy              | 1.7651     |
+| Perplexity           | 5.8422     |
+| AveragePolicyProb[0] | 0.11742    |
+| AveragePolicyProb[1] | 0.15043    |
+| AveragePolicyProb[2] | 0.22788    |
+| AveragePolicyProb[3] | 0.18702    |
+| AveragePolicyProb[4] | 0.13212    |
+| AveragePolicyProb[5] | 0.18512    |
+| |VfPred|             | 1.9677     |
+| |VfTarget|           | 1.9708     |
+| VfLoss               | 0.12177    |
+-------------------------------------
+[2021-12-20 19:37:48.192857 UTC] Saving snapshot
+[2021-12-20 19:37:48.193411 UTC] Starting epoch 173
+-------------------------------------
+| Epoch                | 173        |
+| AverageReturn        | -20.37     |
+| MinReturn            | -21        |
+| MaxReturn            | -18        |
+| StdReturn            | 0.68782    |
+| AverageEpisodeLength | 3675.4     |
+| MinEpisodeLength     | 3131       |
+| MaxEpisodeLength     | 5287       |
+| StdEpisodeLength     | 374.44     |
+| TotalNEpisodes       | 1941       |
+| TotalNSamples        | 6.9703e+06 |
+| Entropy              | 1.7744     |
+| Perplexity           | 5.8968     |
+| AveragePolicyProb[0] | 0.12363    |
+| AveragePolicyProb[1] | 0.15234    |
+| AveragePolicyProb[2] | 0.20778    |
+| AveragePolicyProb[3] | 0.19022    |
+| AveragePolicyProb[4] | 0.14235    |
+| AveragePolicyProb[5] | 0.18368    |
+| |VfPred|             | 2.0612     |
+| |VfTarget|           | 2.0629     |
+| VfLoss               | 0.11904    |
+-------------------------------------
+[2021-12-20 19:38:17.462051 UTC] Saving snapshot
+[2021-12-20 19:38:17.463078 UTC] Starting epoch 174
+------------------------------------
+| Epoch                | 174       |
+| AverageReturn        | -20.39    |
+| MinReturn            | -21       |
+| MaxReturn            | -18       |
+| StdReturn            | 0.67668   |
+| AverageEpisodeLength | 3673.1    |
+| MinEpisodeLength     | 3131      |
+| MaxEpisodeLength     | 5287      |
+| StdEpisodeLength     | 395.3     |
+| TotalNEpisodes       | 1951      |
+| TotalNSamples        | 7.009e+06 |
+| Entropy              | 1.7754    |
+| Perplexity           | 5.9029    |
+| AveragePolicyProb[0] | 0.12429   |
+| AveragePolicyProb[1] | 0.14594   |
+| AveragePolicyProb[2] | 0.21185   |
+| AveragePolicyProb[3] | 0.16579   |
+| AveragePolicyProb[4] | 0.16615   |
+| AveragePolicyProb[5] | 0.18598   |
+| |VfPred|             | 2.0003    |
+| |VfTarget|           | 2.0108    |
+| VfLoss               | 0.10361   |
+------------------------------------
+[2021-12-20 19:38:46.232760 UTC] Saving snapshot
+[2021-12-20 19:38:46.238627 UTC] Starting epoch 175
+-------------------------------------
+| Epoch                | 175        |
+| AverageReturn        | -20.35     |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.76649    |
+| AverageEpisodeLength | 3667.7     |
+| MinEpisodeLength     | 3133       |
+| MaxEpisodeLength     | 4982       |
+| StdEpisodeLength     | 361.32     |
+| TotalNEpisodes       | 1963       |
+| TotalNSamples        | 7.0553e+06 |
+| Entropy              | 1.7732     |
+| Perplexity           | 5.8899     |
+| AveragePolicyProb[0] | 0.12606    |
+| AveragePolicyProb[1] | 0.15265    |
+| AveragePolicyProb[2] | 0.17079    |
+| AveragePolicyProb[3] | 0.18431    |
+| AveragePolicyProb[4] | 0.18181    |
+| AveragePolicyProb[5] | 0.18439    |
+| |VfPred|             | 1.7598     |
+| |VfTarget|           | 1.7569     |
+| VfLoss               | 0.11495    |
+-------------------------------------
+[2021-12-20 19:39:15.601587 UTC] Saving snapshot
+[2021-12-20 19:39:15.602267 UTC] Starting epoch 176
+-------------------------------------
+| Epoch                | 176        |
+| AverageReturn        | -20.3      |
+| MinReturn            | -21        |
+| MaxReturn            | -17        |
+| StdReturn            | 0.81854    |
+| AverageEpisodeLength | 3702.2     |
+| MinEpisodeLength     | 3133       |
+| MaxEpisodeLength     | 4982       |
+| StdEpisodeLength     | 364.18     |
+| TotalNEpisodes       | 1972       |
+| TotalNSamples        | 7.0897e+06 |
+| Entropy              | 1.7684     |
+| Perplexity           | 5.8617     |
+| AveragePolicyProb[0] | 0.11196    |
+| AveragePolicyProb[1] | 0.14611    |
+| AveragePolicyProb[2] | 0.17909    |
+| AveragePolicyProb[3] | 0.17222    |
+| AveragePolicyProb[4] | 0.17345    |
+| AveragePolicyProb[5] | 0.21716    |
+| |VfPred|             | 1.8084     |
+| |VfTarget|           | 1.8138     |
+| VfLoss               | 0.11525    |
+-------------------------------------
+[2021-12-20 19:39:47.994089 UTC] Saving snapshot
+[2021-12-20 19:39:47.994708 UTC] Starting epoch 177

@@ -1,0 +1,3708 @@
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+--------------------------------------
+| Iteration               | 1        |
+| Steps                   | 1999     |
+| Epsilon                 | 0.8101   |
+| Episodes                | 114      |
+| AverageReturn           | 0.4      |
+| AverageDiscountedReturn | 0.34134  |
+| TDError^2               | 0.008113 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 2        |
+| Steps                   | 2999     |
+| Epsilon                 | 0.7151   |
+| Episodes                | 189      |
+| AverageReturn           | 0.2      |
+| AverageDiscountedReturn | 0.18554  |
+| TDError^2               | 0.016643 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 3        |
+| Steps                   | 3999     |
+| Epsilon                 | 0.6201   |
+| Episodes                | 276      |
+| AverageReturn           | 0.6      |
+| AverageDiscountedReturn | 0.54019  |
+| TDError^2               | 0.022087 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 4        |
+| Steps                   | 4999     |
+| Epsilon                 | 0.5251   |
+| Episodes                | 371      |
+| AverageReturn           | 0.6      |
+| AverageDiscountedReturn | 0.54336  |
+| TDError^2               | 0.022089 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 5        |
+| Steps                   | 5999     |
+| Epsilon                 | 0.4301   |
+| Episodes                | 477      |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.81548  |
+| TDError^2               | 0.02118  |
+--------------------------------------
+--------------------------------------
+| Iteration               | 6        |
+| Steps                   | 6999     |
+| Epsilon                 | 0.3351   |
+| Episodes                | 599      |
+| AverageReturn           | 0.7      |
+| AverageDiscountedReturn | 0.66005  |
+| TDError^2               | 0.029144 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 7        |
+| Steps                   | 7999     |
+| Epsilon                 | 0.24009  |
+| Episodes                | 735      |
+| AverageReturn           | 0.7      |
+| AverageDiscountedReturn | 0.65262  |
+| TDError^2               | 0.028192 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 8        |
+| Steps                   | 8999     |
+| Epsilon                 | 0.14509  |
+| Episodes                | 877      |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.93877  |
+| TDError^2               | 0.028878 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 9        |
+| Steps                   | 9999     |
+| Epsilon                 | 0.050095 |
+| Episodes                | 1034     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85589  |
+| TDError^2               | 0.026668 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 10       |
+| Steps                   | 10999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1194     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94625  |
+| TDError^2               | 0.025776 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 11       |
+| Steps                   | 11999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1353     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94815  |
+| TDError^2               | 0.021444 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 12       |
+| Steps                   | 12999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1512     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85589  |
+| TDError^2               | 0.01856  |
+--------------------------------------
+--------------------------------------
+| Iteration               | 13       |
+| Steps                   | 13999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1670     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94625  |
+| TDError^2               | 0.016896 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 14       |
+| Steps                   | 14999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1829     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85211  |
+| TDError^2               | 0.013402 |
+--------------------------------------
+---------------------------------------
+| Iteration               | 15        |
+| Steps                   | 15999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 1992      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94721   |
+| TDError^2               | 0.0099231 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 16        |
+| Steps                   | 16999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2152      |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.85589   |
+| TDError^2               | 0.0069969 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 17        |
+| Steps                   | 17999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2313      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.9491    |
+| TDError^2               | 0.0053255 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 18        |
+| Steps                   | 18999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2472      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94535   |
+| TDError^2               | 0.0033682 |
+---------------------------------------
+--------------------------------------
+| Iteration               | 19       |
+| Steps                   | 19999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 2632     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94625  |
+| TDError^2               | 0.002305 |
+--------------------------------------
+---------------------------------------
+| Iteration               | 20        |
+| Steps                   | 20999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2793      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.95004   |
+| TDError^2               | 0.0016008 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 21        |
+| Steps                   | 21999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2953      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94627   |
+| TDError^2               | 0.0011941 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 22         |
+| Steps                   | 22999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3115       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 0.00087388 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 23         |
+| Steps                   | 23999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3276       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00067663 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 24         |
+| Steps                   | 24999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3436       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00044719 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 25         |
+| Steps                   | 25999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3597       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00042199 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 26         |
+| Steps                   | 26999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3756       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 0.00033516 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 27         |
+| Steps                   | 27999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3916       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00034888 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 28         |
+| Steps                   | 28999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4074       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 0.00040712 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 29         |
+| Steps                   | 29999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4234       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00022378 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 30         |
+| Steps                   | 30999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4394       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 0.00037431 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 31         |
+| Steps                   | 31999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4555       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 0.00022525 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 32         |
+| Steps                   | 32999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4716       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00016927 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 33         |
+| Steps                   | 33999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4876       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94532    |
+| TDError^2               | 0.00017746 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 34         |
+| Steps                   | 34999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5034       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00013808 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 35         |
+| Steps                   | 35999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5192       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 0.00013184 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 36         |
+| Steps                   | 36999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5352       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 8.5917e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 37         |
+| Steps                   | 37999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5513       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 7.1875e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 38        |
+| Steps                   | 38999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 5672      |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.8502    |
+| TDError^2               | 4.907e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 39         |
+| Steps                   | 39999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5834       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 3.8593e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 40         |
+| Steps                   | 40999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5993       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85116    |
+| TDError^2               | 2.9324e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 41        |
+| Steps                   | 41999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 6153      |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.854     |
+| TDError^2               | 2.181e-05 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 42        |
+| Steps                   | 42999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 6315      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94815   |
+| TDError^2               | 1.959e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 43         |
+| Steps                   | 43999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6476       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 2.1167e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 44         |
+| Steps                   | 44999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6638       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 7.6389e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 45         |
+| Steps                   | 45999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6798       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 6.2601e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 46         |
+| Steps                   | 46999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6955       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 5.9855e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 47         |
+| Steps                   | 47999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7111       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94531    |
+| TDError^2               | 8.8179e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 48         |
+| Steps                   | 48999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7269       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 5.0161e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 49         |
+| Steps                   | 49999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7426       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 5.8132e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 50         |
+| Steps                   | 50999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7581       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 0.00012725 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 51         |
+| Steps                   | 51999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7742       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 6.9843e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 52         |
+| Steps                   | 52999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7901       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94627    |
+| TDError^2               | 8.5179e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 53         |
+| Steps                   | 53999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8059       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 6.3113e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 54         |
+| Steps                   | 54999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8215       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 5.9656e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 55         |
+| Steps                   | 55999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8350       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94531    |
+| TDError^2               | 0.00066585 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 56        |
+| Steps                   | 56999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 8504      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94531   |
+| TDError^2               | 5.027e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 57         |
+| Steps                   | 57999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8662       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94436    |
+| TDError^2               | 2.7745e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 58         |
+| Steps                   | 58999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8823       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94531    |
+| TDError^2               | 0.00062819 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 59         |
+| Steps                   | 59999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8984       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 2.6514e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 60         |
+| Steps                   | 60999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9143       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 1.6448e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 61         |
+| Steps                   | 61999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9303       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00031477 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 62         |
+| Steps                   | 62999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9466       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85589    |
+| TDError^2               | 0.00093002 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 63         |
+| Steps                   | 63999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9626       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85305    |
+| TDError^2               | 3.8874e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 64         |
+| Steps                   | 64999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9784       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 1.2531e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 65         |
+| Steps                   | 65999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9942       |
+| AverageReturn           | 0.8        |
+| AverageDiscountedReturn | 0.7589     |
+| TDError^2               | 2.6026e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 66         |
+| Steps                   | 66999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10099      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 5.0205e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 67         |
+| Steps                   | 67999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10258      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94629    |
+| TDError^2               | 1.9954e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 68         |
+| Steps                   | 68999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10418      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 3.3837e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 69         |
+| Steps                   | 69999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10579      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 2.2769e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 70         |
+| Steps                   | 70999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10737      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 1.2533e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 71         |
+| Steps                   | 71999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10894      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94157    |
+| TDError^2               | 5.6215e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 72         |
+| Steps                   | 72999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11054      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 8.4265e-07 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 73         |
+| Steps                   | 73999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11215      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 1.6612e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 74         |
+| Steps                   | 74999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11375      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85589    |
+| TDError^2               | 1.3888e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 75         |
+| Steps                   | 75999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11535      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 1.2768e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 76         |
+| Steps                   | 76999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11695      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9444     |
+| TDError^2               | 7.9221e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 77         |
+| Steps                   | 77999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11853      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 6.6921e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 78         |
+| Steps                   | 78999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12012      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.854      |
+| TDError^2               | 3.6865e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 79         |
+| Steps                   | 79999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12171      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 6.3909e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 80         |
+| Steps                   | 80999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12330      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 1.3005e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 81        |
+| Steps                   | 81999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 12492     |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.85589   |
+| TDError^2               | 6.644e-06 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 82         |
+| Steps                   | 82999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12649      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 1.3392e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 83         |
+| Steps                   | 83999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12809      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 6.0909e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 84         |
+| Steps                   | 84999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12958      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 0.00059144 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 85         |
+| Steps                   | 85999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13118      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85494    |
+| TDError^2               | 1.5029e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 86         |
+| Steps                   | 86999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13278      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94346    |
+| TDError^2               | 4.4934e-05 |
+----------------------------------------
+--------------------------------------
+| Iteration               | 87       |
+| Steps                   | 87999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 13436    |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.95099  |
+| TDError^2               | 0.00063  |
+--------------------------------------
+----------------------------------------
+| Iteration               | 88         |
+| Steps                   | 88999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13596      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00091384 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 89         |
+| Steps                   | 89999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13752      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00061906 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 90         |
+| Steps                   | 90999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13911      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9444     |
+| TDError^2               | 0.00037237 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 91         |
+| Steps                   | 91999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14072      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85494    |
+| TDError^2               | 7.2374e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 92         |
+| Steps                   | 92999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14231      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94436    |
+| TDError^2               | 0.00036051 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 93         |
+| Steps                   | 93999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14389      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85305    |
+| TDError^2               | 9.7407e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 94         |
+| Steps                   | 94999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14547      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85211    |
+| TDError^2               | 4.5492e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 95         |
+| Steps                   | 95999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14709      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 7.1072e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 96         |
+| Steps                   | 96999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14867      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 5.4971e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 97        |
+| Steps                   | 97999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 15025     |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94909   |
+| TDError^2               | 4.068e-06 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 98         |
+| Steps                   | 98999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 15183      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85119    |
+| TDError^2               | 5.5873e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 99         |
+| Steps                   | 99999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 15342      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94531    |
+| TDError^2               | 6.5318e-05 |
+----------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+--------------------------------------
+| Iteration               | 1        |
+| Steps                   | 1999     |
+| Epsilon                 | 0.8101   |
+| Episodes                | 114      |
+| AverageReturn           | 0.3      |
+| AverageDiscountedReturn | 0.24998  |
+| TDError^2               | 0.010803 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 2        |
+| Steps                   | 2999     |
+| Epsilon                 | 0.7151   |
+| Episodes                | 188      |
+| AverageReturn           | 0.2      |
+| AverageDiscountedReturn | 0.18554  |
+| TDError^2               | 0.012246 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 3        |
+| Steps                   | 3999     |
+| Epsilon                 | 0.6201   |
+| Episodes                | 279      |
+| AverageReturn           | 0.7      |
+| AverageDiscountedReturn | 0.60441  |
+| TDError^2               | 0.018455 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 4        |
+| Steps                   | 4999     |
+| Epsilon                 | 0.5251   |
+| Episodes                | 372      |
+| AverageReturn           | 0.8      |
+| AverageDiscountedReturn | 0.72434  |
+| TDError^2               | 0.026997 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 5        |
+| Steps                   | 5999     |
+| Epsilon                 | 0.4301   |
+| Episodes                | 473      |
+| AverageReturn           | 0.3      |
+| AverageDiscountedReturn | 0.27966  |
+| TDError^2               | 0.023291 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 6        |
+| Steps                   | 6999     |
+| Epsilon                 | 0.3351   |
+| Episodes                | 594      |
+| AverageReturn           | 0.8      |
+| AverageDiscountedReturn | 0.73595  |
+| TDError^2               | 0.026094 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 7        |
+| Steps                   | 7999     |
+| Epsilon                 | 0.24009  |
+| Episodes                | 725      |
+| AverageReturn           | 0.8      |
+| AverageDiscountedReturn | 0.74756  |
+| TDError^2               | 0.02331  |
+--------------------------------------
+--------------------------------------
+| Iteration               | 8        |
+| Steps                   | 8999     |
+| Epsilon                 | 0.14509  |
+| Episodes                | 864      |
+| AverageReturn           | 0.6      |
+| AverageDiscountedReturn | 0.56588  |
+| TDError^2               | 0.02453  |
+--------------------------------------
+--------------------------------------
+| Iteration               | 9        |
+| Steps                   | 9999     |
+| Epsilon                 | 0.050095 |
+| Episodes                | 1017     |
+| AverageReturn           | 0.8      |
+| AverageDiscountedReturn | 0.76079  |
+| TDError^2               | 0.022004 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 10       |
+| Steps                   | 10999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1174     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94629  |
+| TDError^2               | 0.021734 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 11       |
+| Steps                   | 11999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1333     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94724  |
+| TDError^2               | 0.02207  |
+--------------------------------------
+--------------------------------------
+| Iteration               | 12       |
+| Steps                   | 12999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1491     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.9491   |
+| TDError^2               | 0.019895 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 13       |
+| Steps                   | 13999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1648     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94438  |
+| TDError^2               | 0.01553  |
+--------------------------------------
+--------------------------------------
+| Iteration               | 14       |
+| Steps                   | 14999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1808     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94625  |
+| TDError^2               | 0.013454 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 15       |
+| Steps                   | 15999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1971     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94815  |
+| TDError^2               | 0.010452 |
+--------------------------------------
+---------------------------------------
+| Iteration               | 16        |
+| Steps                   | 16999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2128      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94724   |
+| TDError^2               | 0.0078659 |
+---------------------------------------
+--------------------------------------
+| Iteration               | 17       |
+| Steps                   | 17999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 2289     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.95099  |
+| TDError^2               | 0.005407 |
+--------------------------------------
+---------------------------------------
+| Iteration               | 18        |
+| Steps                   | 18999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2449      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94444   |
+| TDError^2               | 0.0036742 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 19        |
+| Steps                   | 19999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2608      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.9444    |
+| TDError^2               | 0.0025852 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 20        |
+| Steps                   | 20999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2766      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94721   |
+| TDError^2               | 0.0017221 |
+---------------------------------------
+--------------------------------------
+| Iteration               | 21       |
+| Steps                   | 21999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 2927     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94625  |
+| TDError^2               | 0.001123 |
+--------------------------------------
+----------------------------------------
+| Iteration               | 22         |
+| Steps                   | 22999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3085       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00080852 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 23         |
+| Steps                   | 23999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3244       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94724    |
+| TDError^2               | 0.00059275 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 24         |
+| Steps                   | 24999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3406       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00037796 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 25         |
+| Steps                   | 25999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3567       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00031338 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 26         |
+| Steps                   | 26999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3728       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94814    |
+| TDError^2               | 0.00032745 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 27         |
+| Steps                   | 27999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3888       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85494    |
+| TDError^2               | 0.00021768 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 28         |
+| Steps                   | 28999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4049       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 0.00018902 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 29         |
+| Steps                   | 29999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4210       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00016297 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 30         |
+| Steps                   | 30999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4368       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85305    |
+| TDError^2               | 0.00012747 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 31         |
+| Steps                   | 31999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4529       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85305    |
+| TDError^2               | 0.00013623 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 32         |
+| Steps                   | 32999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4689       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 8.6024e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 33         |
+| Steps                   | 33999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4846       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94343    |
+| TDError^2               | 8.8989e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 34         |
+| Steps                   | 34999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5002       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 6.8772e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 35         |
+| Steps                   | 35999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5162       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 4.6216e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 36         |
+| Steps                   | 36999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5321       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85494    |
+| TDError^2               | 4.8471e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 37         |
+| Steps                   | 37999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5482       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 5.0953e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 38         |
+| Steps                   | 38999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5642       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 2.4214e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 39         |
+| Steps                   | 39999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5806       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 3.7764e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 40         |
+| Steps                   | 40999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5963       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85119    |
+| TDError^2               | 3.7319e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 41         |
+| Steps                   | 41999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6125       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.854      |
+| TDError^2               | 9.4526e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 42         |
+| Steps                   | 42999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6284       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94817    |
+| TDError^2               | 6.0627e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 43         |
+| Steps                   | 43999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6442       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 5.7192e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 44         |
+| Steps                   | 44999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6603       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 4.6906e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 45         |
+| Steps                   | 45999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6761       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 1.4189e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 46         |
+| Steps                   | 46999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6920       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 1.8991e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 47        |
+| Steps                   | 47999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 7078      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.9472    |
+| TDError^2               | 4.083e-06 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 48         |
+| Steps                   | 48999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7242       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85494    |
+| TDError^2               | 1.9503e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 49         |
+| Steps                   | 49999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7397       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94535    |
+| TDError^2               | 7.1863e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 50         |
+| Steps                   | 50999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7550       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94438    |
+| TDError^2               | 2.8519e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 51         |
+| Steps                   | 51999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7710       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 1.5978e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 52         |
+| Steps                   | 52999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7867       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85304    |
+| TDError^2               | 1.8167e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 53         |
+| Steps                   | 53999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8028       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 1.5917e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 54         |
+| Steps                   | 54999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8187       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 3.0164e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 55        |
+| Steps                   | 55999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 8345      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94531   |
+| TDError^2               | 3.001e-05 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 56        |
+| Steps                   | 56999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 8505      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94815   |
+| TDError^2               | 5.013e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 57         |
+| Steps                   | 57999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8663       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9444     |
+| TDError^2               | 4.7022e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 58         |
+| Steps                   | 58999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8821       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94531    |
+| TDError^2               | 5.1309e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 59         |
+| Steps                   | 59999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8977       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 4.3084e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 60         |
+| Steps                   | 60999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9134       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 3.5166e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 61         |
+| Steps                   | 61999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9294       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 3.9643e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 62         |
+| Steps                   | 62999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9453       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94724    |
+| TDError^2               | 2.3731e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 63         |
+| Steps                   | 63999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9612       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85211    |
+| TDError^2               | 3.0365e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 64         |
+| Steps                   | 64999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9770       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94342    |
+| TDError^2               | 2.6241e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 65         |
+| Steps                   | 65999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9926       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 2.3409e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 66         |
+| Steps                   | 66999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10083      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 2.6759e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 67         |
+| Steps                   | 67999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10242      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94629    |
+| TDError^2               | 5.1756e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 68         |
+| Steps                   | 68999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10399      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 4.8056e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 69         |
+| Steps                   | 69999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10559      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94531    |
+| TDError^2               | 1.4818e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 70         |
+| Steps                   | 70999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10718      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 4.0878e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 71         |
+| Steps                   | 71999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10875      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94437    |
+| TDError^2               | 8.5922e-07 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 72         |
+| Steps                   | 72999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11034      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 1.0164e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 73         |
+| Steps                   | 73999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11195      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 1.7205e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 74         |
+| Steps                   | 74999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11354      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 1.1319e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 75         |
+| Steps                   | 75999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11516      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85494    |
+| TDError^2               | 9.3408e-07 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 76         |
+| Steps                   | 76999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11676      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 4.1402e-07 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 77         |
+| Steps                   | 77999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11832      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94535    |
+| TDError^2               | 1.6913e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 78         |
+| Steps                   | 78999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11988      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94629    |
+| TDError^2               | 7.2992e-07 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 79         |
+| Steps                   | 79999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12147      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.854      |
+| TDError^2               | 2.0942e-07 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 80         |
+| Steps                   | 80999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12304      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 3.6671e-07 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 81         |
+| Steps                   | 81999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12464      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 3.2751e-07 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 82         |
+| Steps                   | 82999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12622      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94814    |
+| TDError^2               | 5.7061e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 83         |
+| Steps                   | 83999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12778      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 4.0949e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 84         |
+| Steps                   | 84999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12936      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 7.0713e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 85         |
+| Steps                   | 85999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13093      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94436    |
+| TDError^2               | 6.4963e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 86         |
+| Steps                   | 86999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13254      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85305    |
+| TDError^2               | 1.0622e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 87         |
+| Steps                   | 87999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13412      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 1.3547e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 88         |
+| Steps                   | 88999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13573      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85589    |
+| TDError^2               | 4.4856e-09 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 89         |
+| Steps                   | 89999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13730      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.854      |
+| TDError^2               | 5.4642e-09 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 90         |
+| Steps                   | 90999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13890      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94532    |
+| TDError^2               | 4.5211e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 91         |
+| Steps                   | 91999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14048      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94531    |
+| TDError^2               | 2.6053e-10 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 92         |
+| Steps                   | 92999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14207      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 1.4002e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 93         |
+| Steps                   | 93999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14362      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 4.9357e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 94         |
+| Steps                   | 94999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14519      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 2.9381e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 95         |
+| Steps                   | 95999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14680      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 2.2372e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 96         |
+| Steps                   | 96999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14837      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 1.1759e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 97         |
+| Steps                   | 97999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14996      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 1.7104e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 98         |
+| Steps                   | 98999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 15155      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85214    |
+| TDError^2               | 3.4421e-09 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 99         |
+| Steps                   | 99999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 15315      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85115    |
+| TDError^2               | 4.8533e-10 |
+----------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+--------------------------------------
+| Iteration               | 1        |
+| Steps                   | 1999     |
+| Epsilon                 | 0.8101   |
+| Episodes                | 114      |
+| AverageReturn           | 0.5      |
+| AverageDiscountedReturn | 0.40934  |
+| TDError^2               | 0.012841 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 2        |
+| Steps                   | 2999     |
+| Epsilon                 | 0.7151   |
+| Episodes                | 193      |
+| AverageReturn           | 0.2      |
+| AverageDiscountedReturn | 0.18554  |
+| TDError^2               | 0.015245 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 3        |
+| Steps                   | 3999     |
+| Epsilon                 | 0.6201   |
+| Episodes                | 281      |
+| AverageReturn           | 0.6      |
+| AverageDiscountedReturn | 0.54019  |
+| TDError^2               | 0.022919 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 4        |
+| Steps                   | 4999     |
+| Epsilon                 | 0.5251   |
+| Episodes                | 375      |
+| AverageReturn           | 0.6      |
+| AverageDiscountedReturn | 0.5435   |
+| TDError^2               | 0.022385 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 5        |
+| Steps                   | 5999     |
+| Epsilon                 | 0.4301   |
+| Episodes                | 475      |
+| AverageReturn           | 0.7      |
+| AverageDiscountedReturn | 0.62197  |
+| TDError^2               | 0.021148 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 6        |
+| Steps                   | 6999     |
+| Epsilon                 | 0.3351   |
+| Episodes                | 591      |
+| AverageReturn           | 0.7      |
+| AverageDiscountedReturn | 0.66285  |
+| TDError^2               | 0.026295 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 7        |
+| Steps                   | 7999     |
+| Epsilon                 | 0.24009  |
+| Episodes                | 724      |
+| AverageReturn           | 0.8      |
+| AverageDiscountedReturn | 0.74301  |
+| TDError^2               | 0.024794 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 8        |
+| Steps                   | 8999     |
+| Epsilon                 | 0.14509  |
+| Episodes                | 868      |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.93877  |
+| TDError^2               | 0.022549 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 9        |
+| Steps                   | 9999     |
+| Epsilon                 | 0.050095 |
+| Episodes                | 1025     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85589  |
+| TDError^2               | 0.026172 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 10       |
+| Steps                   | 10999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1185     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94625  |
+| TDError^2               | 0.023692 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 11       |
+| Steps                   | 11999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1344     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94815  |
+| TDError^2               | 0.02165  |
+--------------------------------------
+--------------------------------------
+| Iteration               | 12       |
+| Steps                   | 12999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1503     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85589  |
+| TDError^2               | 0.018836 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 13       |
+| Steps                   | 13999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1661     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94625  |
+| TDError^2               | 0.014739 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 14       |
+| Steps                   | 14999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1820     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85211  |
+| TDError^2               | 0.011449 |
+--------------------------------------
+---------------------------------------
+| Iteration               | 15        |
+| Steps                   | 15999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 1983      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94721   |
+| TDError^2               | 0.0091928 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 16        |
+| Steps                   | 16999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2143      |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.85589   |
+| TDError^2               | 0.0068218 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 17        |
+| Steps                   | 17999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2304      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.9491    |
+| TDError^2               | 0.0048154 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 18        |
+| Steps                   | 18999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2463      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94535   |
+| TDError^2               | 0.0032276 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 19        |
+| Steps                   | 19999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2623      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94625   |
+| TDError^2               | 0.0021989 |
+---------------------------------------
+--------------------------------------
+| Iteration               | 20       |
+| Steps                   | 20999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 2784     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.95004  |
+| TDError^2               | 0.001636 |
+--------------------------------------
+---------------------------------------
+| Iteration               | 21        |
+| Steps                   | 21999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2944      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94627   |
+| TDError^2               | 0.0010878 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 22         |
+| Steps                   | 22999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3106       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 0.00076175 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 23         |
+| Steps                   | 23999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3267       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00062551 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 24         |
+| Steps                   | 24999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3427       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00053858 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 25         |
+| Steps                   | 25999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3588       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00040818 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 26         |
+| Steps                   | 26999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3747       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 0.00048572 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 27         |
+| Steps                   | 27999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3907       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00030379 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 28         |
+| Steps                   | 28999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4065       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 0.00026977 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 29         |
+| Steps                   | 29999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4225       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00025408 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 30         |
+| Steps                   | 30999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4385       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 0.00024027 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 31         |
+| Steps                   | 31999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4546       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 0.00012723 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 32         |
+| Steps                   | 32999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4707       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00013812 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 33         |
+| Steps                   | 33999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4867       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94532    |
+| TDError^2               | 0.00015507 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 34         |
+| Steps                   | 34999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5025       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00011702 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 35         |
+| Steps                   | 35999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5183       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 0.00018727 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 36         |
+| Steps                   | 36999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5343       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 5.5216e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 37         |
+| Steps                   | 37999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5504       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 4.5355e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 38         |
+| Steps                   | 38999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5663       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.8502     |
+| TDError^2               | 8.6277e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 39         |
+| Steps                   | 39999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5825       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 4.8575e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 40         |
+| Steps                   | 40999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5984       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85116    |
+| TDError^2               | 2.6919e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 41         |
+| Steps                   | 41999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6144       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.854      |
+| TDError^2               | 2.0842e-05 |
+----------------------------------------
+--------------------------------------
+| Iteration               | 42       |
+| Steps                   | 42999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 6306     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94815  |
+| TDError^2               | 2.75e-05 |
+--------------------------------------
+----------------------------------------
+| Iteration               | 43         |
+| Steps                   | 43999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6467       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 8.5528e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 44         |
+| Steps                   | 44999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6629       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 1.2344e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 45         |
+| Steps                   | 45999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6789       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 1.9176e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 46         |
+| Steps                   | 46999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6946       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 4.2127e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 47         |
+| Steps                   | 47999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7103       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 9.4703e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 48         |
+| Steps                   | 48999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7265       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 0.00012959 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 49         |
+| Steps                   | 49999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7423       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 6.0958e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 50         |
+| Steps                   | 50999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7578       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 0.00011261 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 51         |
+| Steps                   | 51999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7739       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 6.5512e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 52         |
+| Steps                   | 52999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7898       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94627    |
+| TDError^2               | 9.8971e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 53         |
+| Steps                   | 53999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8039       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 0.00039624 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 54         |
+| Steps                   | 54999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8198       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 7.8781e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 55         |
+| Steps                   | 55999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8352       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 6.4493e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 56         |
+| Steps                   | 56999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8514       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9453     |
+| TDError^2               | 0.00036198 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 57        |
+| Steps                   | 57999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 8672      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.9453    |
+| TDError^2               | 0.0012242 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 58         |
+| Steps                   | 58999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8833       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94531    |
+| TDError^2               | 6.8701e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 59         |
+| Steps                   | 59999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8993       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00029822 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 60         |
+| Steps                   | 60999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9151       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 2.6125e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 61         |
+| Steps                   | 61999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9311       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00060786 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 62         |
+| Steps                   | 62999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9472       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 7.7263e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 63         |
+| Steps                   | 63999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9632       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00029669 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 64         |
+| Steps                   | 64999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9790       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 7.7671e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 65         |
+| Steps                   | 65999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9948       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 2.0713e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 66         |
+| Steps                   | 66999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10105      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 4.9538e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 67         |
+| Steps                   | 67999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10264      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94629    |
+| TDError^2               | 4.2287e-06 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 68        |
+| Steps                   | 68999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 10423     |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.9491    |
+| TDError^2               | 4.084e-06 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 69         |
+| Steps                   | 69999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10584      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 2.2659e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 70         |
+| Steps                   | 70999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10744      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 3.0374e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 71         |
+| Steps                   | 71999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10902      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94157    |
+| TDError^2               | 1.5721e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 72         |
+| Steps                   | 72999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11064      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 1.7051e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 73        |
+| Steps                   | 73999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 11225     |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.95099   |
+| TDError^2               | 7.955e-07 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 74         |
+| Steps                   | 74999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11384      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94814    |
+| TDError^2               | 2.7969e-07 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 75        |
+| Steps                   | 75999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 11538     |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94721   |
+| TDError^2               | 1.921e-07 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 76         |
+| Steps                   | 76999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11697      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94438    |
+| TDError^2               | 2.6457e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 77         |
+| Steps                   | 77999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11854      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 2.4846e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 78         |
+| Steps                   | 78999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12013      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85211    |
+| TDError^2               | 3.3365e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 79         |
+| Steps                   | 79999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12173      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 0.00063194 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 80        |
+| Steps                   | 80999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 12333     |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94721   |
+| TDError^2               | 2.494e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 81         |
+| Steps                   | 81999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12496      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00029988 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 82         |
+| Steps                   | 82999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12654      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.854      |
+| TDError^2               | 2.0963e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 83        |
+| Steps                   | 83999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 12813     |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.85589   |
+| TDError^2               | 3.746e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 84         |
+| Steps                   | 84999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12973      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 1.0054e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 85         |
+| Steps                   | 85999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13132      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94531    |
+| TDError^2               | 1.6639e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 86         |
+| Steps                   | 86999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13291      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94346    |
+| TDError^2               | 3.4439e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 87        |
+| Steps                   | 87999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 13450     |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.95099   |
+| TDError^2               | 6.398e-06 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 88        |
+| Steps                   | 88999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 13611     |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.854     |
+| TDError^2               | 7.517e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 89         |
+| Steps                   | 89999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13767      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 2.2642e-05 |
+----------------------------------------
+--------------------------------------
+| Iteration               | 90       |
+| Steps                   | 90999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 13927    |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.9444   |
+| TDError^2               | 2.31e-05 |
+--------------------------------------
+----------------------------------------
+| Iteration               | 91         |
+| Steps                   | 91999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14087      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85494    |
+| TDError^2               | 3.7935e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 92         |
+| Steps                   | 92999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14247      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94436    |
+| TDError^2               | 1.8017e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 93         |
+| Steps                   | 93999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14405      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 4.0597e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 94         |
+| Steps                   | 94999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14563      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85211    |
+| TDError^2               | 1.8788e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 95         |
+| Steps                   | 95999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14724      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 9.8744e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 96         |
+| Steps                   | 96999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14884      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 8.0188e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 97         |
+| Steps                   | 97999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 15044      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 1.3446e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 98         |
+| Steps                   | 98999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 15202      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94724    |
+| TDError^2               | 4.0531e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 99         |
+| Steps                   | 99999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 15363      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.8493     |
+| TDError^2               | 3.1642e-05 |
+----------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+--------------------------------------
+| Iteration               | 1        |
+| Steps                   | 1999     |
+| Epsilon                 | 0.8101   |
+| Episodes                | 114      |
+| AverageReturn           | 0.4      |
+| AverageDiscountedReturn | 0.33672  |
+| TDError^2               | 0.012826 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 2        |
+| Steps                   | 2999     |
+| Epsilon                 | 0.7151   |
+| Episodes                | 188      |
+| AverageReturn           | 0.2      |
+| AverageDiscountedReturn | 0.18463  |
+| TDError^2               | 0.017458 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 3        |
+| Steps                   | 3999     |
+| Epsilon                 | 0.6201   |
+| Episodes                | 275      |
+| AverageReturn           | 0.5      |
+| AverageDiscountedReturn | 0.44352  |
+| TDError^2               | 0.019772 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 4        |
+| Steps                   | 4999     |
+| Epsilon                 | 0.5251   |
+| Episodes                | 369      |
+| AverageReturn           | 0.6      |
+| AverageDiscountedReturn | 0.54336  |
+| TDError^2               | 0.025351 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 5        |
+| Steps                   | 5999     |
+| Epsilon                 | 0.4301   |
+| Episodes                | 471      |
+| AverageReturn           | 0.8      |
+| AverageDiscountedReturn | 0.72122  |
+| TDError^2               | 0.02438  |
+--------------------------------------
+--------------------------------------
+| Iteration               | 6        |
+| Steps                   | 6999     |
+| Epsilon                 | 0.3351   |
+| Episodes                | 588      |
+| AverageReturn           | 0.7      |
+| AverageDiscountedReturn | 0.66285  |
+| TDError^2               | 0.028547 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 7        |
+| Steps                   | 7999     |
+| Epsilon                 | 0.24009  |
+| Episodes                | 721      |
+| AverageReturn           | 0.8      |
+| AverageDiscountedReturn | 0.74301  |
+| TDError^2               | 0.030833 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 8        |
+| Steps                   | 8999     |
+| Epsilon                 | 0.14509  |
+| Episodes                | 865      |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.93877  |
+| TDError^2               | 0.030369 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 9        |
+| Steps                   | 9999     |
+| Epsilon                 | 0.050095 |
+| Episodes                | 1022     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85589  |
+| TDError^2               | 0.023863 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 10       |
+| Steps                   | 10999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1182     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94625  |
+| TDError^2               | 0.022132 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 11       |
+| Steps                   | 11999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1341     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94815  |
+| TDError^2               | 0.021524 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 12       |
+| Steps                   | 12999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1500     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85589  |
+| TDError^2               | 0.018665 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 13       |
+| Steps                   | 13999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1658     |
+| AverageReturn           | 1        |
+| AverageDiscountedReturn | 0.94625  |
+| TDError^2               | 0.016425 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 14       |
+| Steps                   | 14999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 1817     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85211  |
+| TDError^2               | 0.01253  |
+--------------------------------------
+---------------------------------------
+| Iteration               | 15        |
+| Steps                   | 15999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 1980      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94721   |
+| TDError^2               | 0.0084665 |
+---------------------------------------
+--------------------------------------
+| Iteration               | 16       |
+| Steps                   | 16999    |
+| Epsilon                 | 0.05     |
+| Episodes                | 2140     |
+| AverageReturn           | 0.9      |
+| AverageDiscountedReturn | 0.85589  |
+| TDError^2               | 0.006803 |
+--------------------------------------
+---------------------------------------
+| Iteration               | 17        |
+| Steps                   | 17999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2301      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.9491    |
+| TDError^2               | 0.0048611 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 18        |
+| Steps                   | 18999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2460      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94535   |
+| TDError^2               | 0.0033519 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 19        |
+| Steps                   | 19999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2620      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94625   |
+| TDError^2               | 0.0021775 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 20        |
+| Steps                   | 20999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2781      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.95004   |
+| TDError^2               | 0.0015285 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 21        |
+| Steps                   | 21999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 2941      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94627   |
+| TDError^2               | 0.0011222 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 22        |
+| Steps                   | 22999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 3103      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94909   |
+| TDError^2               | 0.0008917 |
+---------------------------------------
+---------------------------------------
+| Iteration               | 23        |
+| Steps                   | 23999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 3264      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.95004   |
+| TDError^2               | 0.0008177 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 24         |
+| Steps                   | 24999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3424       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 0.00050001 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 25         |
+| Steps                   | 25999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3585       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00047316 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 26         |
+| Steps                   | 26999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3744       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 0.00043481 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 27         |
+| Steps                   | 27999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 3904       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00039181 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 28         |
+| Steps                   | 28999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4062       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 0.00033525 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 29         |
+| Steps                   | 29999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4222       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00033586 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 30         |
+| Steps                   | 30999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4382       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 0.00025698 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 31        |
+| Steps                   | 31999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 4543      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.9472    |
+| TDError^2               | 0.0002189 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 32         |
+| Steps                   | 32999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4704       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00022402 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 33         |
+| Steps                   | 33999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 4864       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94532    |
+| TDError^2               | 0.00024622 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 34         |
+| Steps                   | 34999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5022       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 0.00020075 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 35         |
+| Steps                   | 35999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5180       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 0.00012693 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 36         |
+| Steps                   | 36999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5340       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 7.3263e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 37         |
+| Steps                   | 37999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5501       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 4.9655e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 38        |
+| Steps                   | 38999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 5660      |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.8502    |
+| TDError^2               | 5.767e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 39         |
+| Steps                   | 39999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5822       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 3.3154e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 40         |
+| Steps                   | 40999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 5981       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85116    |
+| TDError^2               | 3.9896e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 41         |
+| Steps                   | 41999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6141       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.854      |
+| TDError^2               | 3.0461e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 42         |
+| Steps                   | 42999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6303       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 1.2188e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 43         |
+| Steps                   | 43999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6464       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 1.2913e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 44         |
+| Steps                   | 44999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6626       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 1.5817e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 45         |
+| Steps                   | 45999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6786       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 2.8443e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 46         |
+| Steps                   | 46999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 6943       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 5.7851e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 47        |
+| Steps                   | 47999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 7100      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94625   |
+| TDError^2               | 9.802e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 48         |
+| Steps                   | 48999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7262       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 0.00012747 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 49         |
+| Steps                   | 49999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7419       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 4.3855e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 50         |
+| Steps                   | 50999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7573       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 5.2909e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 51         |
+| Steps                   | 51999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 7734       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00010862 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 52        |
+| Steps                   | 52999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 7874      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94627   |
+| TDError^2               | 0.0003781 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 53         |
+| Steps                   | 53999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8033       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 3.8043e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 54         |
+| Steps                   | 54999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8192       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00034551 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 55         |
+| Steps                   | 55999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8352       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85305    |
+| TDError^2               | 3.3786e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 56         |
+| Steps                   | 56999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8513       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9453     |
+| TDError^2               | 0.00032638 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 57         |
+| Steps                   | 57999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8672       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9453     |
+| TDError^2               | 1.7389e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 58         |
+| Steps                   | 58999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8830       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94436    |
+| TDError^2               | 2.4933e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 59         |
+| Steps                   | 59999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 8991       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 1.0472e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 60         |
+| Steps                   | 60999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9152       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00031753 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 61         |
+| Steps                   | 61999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9311       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 3.2282e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 62         |
+| Steps                   | 62999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9472       |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85589    |
+| TDError^2               | 3.2164e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 63         |
+| Steps                   | 63999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9631       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 2.8478e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 64         |
+| Steps                   | 64999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 9790       |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 4.5383e-06 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 65        |
+| Steps                   | 65999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 9949      |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94815   |
+| TDError^2               | 6.545e-06 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 66         |
+| Steps                   | 66999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10105      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 2.4123e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 67         |
+| Steps                   | 67999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10265      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85025    |
+| TDError^2               | 1.7243e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 68         |
+| Steps                   | 68999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10424      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 7.5614e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 69         |
+| Steps                   | 69999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10584      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94626    |
+| TDError^2               | 3.5827e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 70         |
+| Steps                   | 70999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10742      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 3.9077e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 71         |
+| Steps                   | 71999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 10899      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94157    |
+| TDError^2               | 3.5943e-07 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 72         |
+| Steps                   | 72999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11059      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 3.8169e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 73         |
+| Steps                   | 73999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11220      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 3.4634e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 74         |
+| Steps                   | 74999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11380      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85589    |
+| TDError^2               | 6.6248e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 75         |
+| Steps                   | 75999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11541      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 3.1626e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 76         |
+| Steps                   | 76999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11699      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9444     |
+| TDError^2               | 4.6437e-08 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 77         |
+| Steps                   | 77999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 11856      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9472     |
+| TDError^2               | 2.9194e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 78         |
+| Steps                   | 78999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12016      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85214    |
+| TDError^2               | 1.3438e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 79         |
+| Steps                   | 79999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12175      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94346    |
+| TDError^2               | 1.2218e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 80         |
+| Steps                   | 80999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12335      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 9.3378e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 81         |
+| Steps                   | 81999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12498      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 6.0902e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 82         |
+| Steps                   | 82999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12651      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94535    |
+| TDError^2               | 7.4051e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 83         |
+| Steps                   | 83999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 12809      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 0.00011564 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 84        |
+| Steps                   | 84999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 12966     |
+| AverageReturn           | 1         |
+| AverageDiscountedReturn | 0.94721   |
+| TDError^2               | 0.0001245 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 85         |
+| Steps                   | 85999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13126      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94815    |
+| TDError^2               | 2.2888e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 86         |
+| Steps                   | 86999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13286      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 2.6378e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 87         |
+| Steps                   | 87999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13445      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95099    |
+| TDError^2               | 9.8514e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 88         |
+| Steps                   | 88999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13606      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 3.3857e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 89         |
+| Steps                   | 89999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13763      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.9491     |
+| TDError^2               | 9.0924e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 90         |
+| Steps                   | 90999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 13927      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.854      |
+| TDError^2               | 3.5187e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 91         |
+| Steps                   | 91999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14087      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85494    |
+| TDError^2               | 1.8551e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 92         |
+| Steps                   | 92999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14247      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94625    |
+| TDError^2               | 7.0843e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 93        |
+| Steps                   | 93999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 14406     |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.85305   |
+| TDError^2               | 7.966e-05 |
+---------------------------------------
+----------------------------------------
+| Iteration               | 94         |
+| Steps                   | 94999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14562      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85494    |
+| TDError^2               | 7.4635e-06 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 95         |
+| Steps                   | 95999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14724      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94721    |
+| TDError^2               | 3.0574e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 96         |
+| Steps                   | 96999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 14885      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.94909    |
+| TDError^2               | 3.5368e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 97         |
+| Steps                   | 97999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 15045      |
+| AverageReturn           | 1          |
+| AverageDiscountedReturn | 0.95004    |
+| TDError^2               | 3.6224e-05 |
+----------------------------------------
+----------------------------------------
+| Iteration               | 98         |
+| Steps                   | 98999      |
+| Epsilon                 | 0.05       |
+| Episodes                | 15205      |
+| AverageReturn           | 0.9        |
+| AverageDiscountedReturn | 0.85307    |
+| TDError^2               | 1.8138e-05 |
+----------------------------------------
+---------------------------------------
+| Iteration               | 99        |
+| Steps                   | 99999     |
+| Epsilon                 | 0.05      |
+| Episodes                | 15365     |
+| AverageReturn           | 0.9       |
+| AverageDiscountedReturn | 0.84836   |
+| TDError^2               | 3.096e-05 |
+---------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+---------------------------------------
+| Iteration               | 1         |
+| Steps                   | 1999      |
+| Epsilon                 | 0.8101    |
+| Episodes                | 114       |
+| AverageReturn           | 0.5       |
+| AverageDiscountedReturn | 0.40934   |
+| TDError^2               | 0.0083311 |
+---------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+---------------------------------------
+| Iteration               | 1         |
+| Steps                   | 1999      |
+| Epsilon                 | 0.8101    |
+| Episodes                | 113       |
+| AverageReturn           | 0.4       |
+| AverageDiscountedReturn | 0.33672   |
+| TDError^2               | 0.0099279 |
+---------------------------------------
+--------------------------------------
+| Iteration               | 2        |
+| Steps                   | 2999     |
+| Epsilon                 | 0.7151   |
+| Episodes                | 191      |
+| AverageReturn           | 0.2      |
+| AverageDiscountedReturn | 0.18554  |
+| TDError^2               | 0.015667 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 0        |
+| Steps                   | 999      |
+| Epsilon                 | 0.90509  |
+| Episodes                | 58       |
+| AverageReturn           | 0        |
+| AverageDiscountedReturn | 0        |
+| TDError^2               | nan      |
+--------------------------------------
+--------------------------------------
+| Iteration               | 1        |
+| Steps                   | 1999     |
+| Epsilon                 | 0.8101   |
+| Episodes                | 113      |
+| AverageReturn           | 0.5      |
+| AverageDiscountedReturn | 0.40705  |
+| TDError^2               | 0.011059 |
+--------------------------------------
+--------------------------------------
+| Iteration               | 2        |
+| Steps                   | 2999     |
+| Epsilon                 | 0.7151   |
+| Episodes                | 191      |
+| AverageReturn           | 0.2      |
+| AverageDiscountedReturn | 0.18554  |
+| TDError^2               | 0.02005  |
+--------------------------------------
